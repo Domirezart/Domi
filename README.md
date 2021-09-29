@@ -27,3 +27,5 @@ http://79.137.66.111/elroditv_240p/index.m3u8
 http://live.albavision.net:1123/live/albdreams.m3u8
 #EXTINF:-1,top estrada
 http://live.topestrada.com/live/topestrada/playlist.m3u8
+#EXTINF:-1,tv sole
+http://109.69.2.120:8337/tvsole/Stream1_720p/index.m3u8
