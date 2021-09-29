@@ -5,6 +5,10 @@ http://us.bestvideostreaming.is/8703/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
 http://us.bestvideostreaming.is/8704/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
 #EXTINF:-1,top channel
 http://us.bestvideostreaming.is/8708/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
+#EXTINF:-1,al sat
+http://us.bestvideostreaming.is/8713/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
+#EXTINF:-1,klan plus
+http://us.bestvideostreaming.is/8720/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
 #EXTINF:-1,klan Kosova
 http://us.bestvideostreaming.is/8706/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
 #EXTINF:-1,report tv
