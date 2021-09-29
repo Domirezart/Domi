@@ -5,3 +5,5 @@ https://deb10stream.duckdns.org/hls/stream.m3u8
 http://95.107.132.106/out/u/gfhsghshsgfhsfgh.m3u8
 #EXTINF:-1,abc news
 https://tv2.abcnews.al/live/abcnews/playlist.m3u8
+#EXTINF:-1,drita tv
+https://nesertv.live/DRITATV-5879/tracks-v1a1/mono.m3u8
