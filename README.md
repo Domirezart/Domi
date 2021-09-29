@@ -11,6 +11,14 @@ http://us.bestvideostreaming.is/8713/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
 http://us.bestvideostreaming.is/8720/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
 #EXTINF:-1,klan Kosova
 http://us.bestvideostreaming.is/8706/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
+#EXTINF:-1,rtk1
+http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
+#EXTINF:-1,rtk2
+http://stream1.rtkit.com:1935/rtk2stream/rtk2.stream/playlist.m3u8
+#EXTINF:-1,rtk3
+http://stream1.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
+#EXTINF:-1,rtk4
+http://stream1.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
 #EXTINF:-1,report tv
 https://deb10stream.duckdns.org/hls/stream.m3u8
 #EXTINF:-1,vizion plus
