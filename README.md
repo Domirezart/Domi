@@ -61,3 +61,11 @@ http://93.157.62.180/ArenaSport3/tracks-v1a1/mono.m3u8?per
 http://93.157.62.180/ArenaSport4/tracks-v1a1/mono.m3u8?per
 #EXTINF:-1,ArenaSport5
 http://93.157.62.180/ArenaSport5/tracks-v1a1/mono.m3u8?per
+#EXTINF:-1,tringsport1
+http://stream.bestvideostreaming.is/8796/index.m3u8?token=yov8lWEphYHifxaanDOaGw
+#EXTINF:-1,tringsport2
+http://stream.bestvideostreaming.is/8797/index.m3u8?token=yov8lWEphYHifxaanDOaGw
+#EXTINF:-1,tringsport3
+http://stream.bestvideostreaming.is/8798/index.m3u8?token=yov8lWEphYHifxaanDOaGw
+#EXTINF:-1,tringsport4
+http://stream.bestvideostreaming.is/8799/index.m3u8?token=yov8lWEphYHifxaanDOaGw
