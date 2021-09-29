@@ -47,3 +47,13 @@ https://qlobbidev.s.llnwi.net/bpk-tv/NATGEOKIDS/hls/index.m3u8
 https://qlobbidev.s.llnwi.net/bpk-tv/NATGEOWILD/hls/index.m3u8
 #EXTINF:-1,NatGeo_channel
 https://qlobbidev.s.llnwi.net/bpk-tv/NATGEO/hls/index.m3u8
+#EXTINF:-1,ArenaSport1
+http://93.157.62.180/ArenaSport1/tracks-v1a1/mono.m3u8?per
+#EXTINF:-1,ArenaSport2
+http://93.157.62.180/ArenaSport2/tracks-v1a1/mono.m3u8?per
+#EXTINF:-1,ArenaSport3
+http://93.157.62.180/ArenaSport3/tracks-v1a1/mono.m3u8?per
+#EXTINF:-1,ArenaSport4
+http://93.157.62.180/ArenaSport4/tracks-v1a1/mono.m3u8?per
+#EXTINF:-1,ArenaSport5
+http://93.157.62.180/ArenaSport5/tracks-v1a1/mono.m3u8?per
