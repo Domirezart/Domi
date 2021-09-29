@@ -43,3 +43,7 @@ https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYJUNIOR/hls/index.m3u8
 https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYXD/hls/index.m3u8
 #EXTINF:-1,Natgeo Kids
 https://qlobbidev.s.llnwi.net/bpk-tv/NATGEOKIDS/hls/index.m3u8
+#EXTINF:-1,NatGeo_Wild
+https://qlobbidev.s.llnwi.net/bpk-tv/NATGEOWILD/hls/index.m3u8
+#EXTINF:-1,NatGeo_channel
+https://qlobbidev.s.llnwi.net/bpk-tv/NATGEO/hls/index.m3u8
