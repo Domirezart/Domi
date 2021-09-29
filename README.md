@@ -23,3 +23,5 @@ https://nesertv.live/DRITATV-5879/tracks-v1a1/mono.m3u8
 http://167.86.125.240:25461/live/kopliku/12/1.m3u8
 #EXTINF:-1,elrodi tv
 http://79.137.66.111/elroditv_240p/index.m3u8
+#EXTINF:-1,alb dreams
+http://live.albavision.net:1123/live/albdreams.m3u8
