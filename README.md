@@ -25,3 +25,5 @@ http://167.86.125.240:25461/live/kopliku/12/1.m3u8
 http://79.137.66.111/elroditv_240p/index.m3u8
 #EXTINF:-1,alb dreams
 http://live.albavision.net:1123/live/albdreams.m3u8
+#EXTINF:-1,top estrada
+http://live.topestrada.com/live/topestrada/playlist.m3u8
