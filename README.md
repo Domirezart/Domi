@@ -31,3 +31,5 @@ http://live.topestrada.com/live/topestrada/playlist.m3u8
 http://109.69.2.120:8337/tvsole/Stream1_720p/index.m3u8
 #EXTINF:-1,atd hd
 http://46.99.146.236/0.m3u8
+#EXTINF:-1,opoja tv
+http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
