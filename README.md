@@ -69,3 +69,13 @@ http://stream.bestvideostreaming.is/8797/index.m3u8?token=yov8lWEphYHifxaanDOaGw
 http://stream.bestvideostreaming.is/8798/index.m3u8?token=yov8lWEphYHifxaanDOaGw
 #EXTINF:-1,tringsport4
 http://stream.bestvideostreaming.is/8799/index.m3u8?token=yov8lWEphYHifxaanDOaGw
+#EXTINF:-1,SuperSport1
+http://stream.bestvideostreaming.is/10030/index.m3u8?token=S_P2T41OGYcIjtb83qWF6Q
+#EXTINF:-1,SuperSport2
+http://stream.bestvideostreaming.is/8734/index.m3u8?token=S_P2T41OGYcIjtb83qWF6Q
+#EXTINF:-1,SuperSport3
+http://stream.bestvideostreaming.is/8741/index.m3u8?token=S_P2T41OGYcIjtb83qWF6Q
+#EXTINF:-1,SuperSport4
+http://stream.bestvideostreaming.is/8743/index.m3u8?token=S_P2T41OGYcIjtb83qWF6Q
+#EXTINF:-1,SuperSport5
+http://stream.bestvideostreaming.is/8736/index.m3u8?token=S_P2T41OGYcIjtb83qWF6Q
