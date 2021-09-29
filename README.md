@@ -35,3 +35,11 @@ http://46.99.146.236/0.m3u8
 http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
 #EXTINF:-1,neser tv
 https://nesertv.live/ntv/livestream/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Disney Channel
+https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYCHANNEL/hls/index.m3u8
+#EXTINF:-1,Disney Junior
+https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYJUNIOR/hls/index.m3u8
+#EXTINF:-1,Disney XD
+https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYXD/hls/index.m3u8
+#EXTINF:-1,Natgeo Kids
+https://qlobbidev.s.llnwi.net/bpk-tv/NATGEOKIDS/hls/index.m3u8
