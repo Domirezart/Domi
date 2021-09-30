@@ -89,3 +89,5 @@ http://stream.bestvideostreaming.is/8743/index.m3u8?token=S_P2T41OGYcIjtb83qWF6Q
 http://stream.bestvideostreaming.is/8736/index.m3u8?token=S_P2T41OGYcIjtb83qWF6Q
 #EXTINF:-1,wwe tv
 http://sptkid.gcdn.co/wwe/tracks-v1a1/mono.m3u8
+#EXTINF:-1,xx 1 🔞
+http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
