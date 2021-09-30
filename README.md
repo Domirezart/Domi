@@ -87,6 +87,8 @@ http://stream.bestvideostreaming.is/8741/index.m3u8?token=S_P2T41OGYcIjtb83qWF6Q
 http://stream.bestvideostreaming.is/8743/index.m3u8?token=S_P2T41OGYcIjtb83qWF6Q
 #EXTINF:-1,SuperSport5
 http://stream.bestvideostreaming.is/8736/index.m3u8?token=S_P2T41OGYcIjtb83qWF6Q
+#EXTINF:-1,eleven sport1
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 #EXTINF:-1,eleven sport2
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
 #EXTINF:-1,wwe tv
