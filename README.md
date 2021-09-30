@@ -97,6 +97,8 @@ https://95-213-224-179.livesports24.online/ntvmatchfoot1.m3u8
 https://95-213-224-179.livesports24.online/mfootball2rus.m3u8
 #EXTINF:-1,sport Rusia 3
 https://95-213-224-179.livesports24.online/rumatchf3.m3u8
+#EXTINF:-1,sport1 Ukraine
+https://95-213-224-179.livesports24.online/uafootballua1.m3u8
 #EXTINF:-1,wwe tv
 http://sptkid.gcdn.co/wwe/tracks-v1a1/mono.m3u8
 #EXTINF:-1,xx 1 🔞
