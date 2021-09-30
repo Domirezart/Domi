@@ -91,6 +91,8 @@ http://stream.bestvideostreaming.is/8736/index.m3u8?token=S_P2T41OGYcIjtb83qWF6Q
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 #EXTINF:-1,eleven sport2
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
+#EXTINF:-1,sport Rusia 3
+https://95-213-224-179.livesports24.online/rumatchf3.m3u8
 #EXTINF:-1,wwe tv
 http://sptkid.gcdn.co/wwe/tracks-v1a1/mono.m3u8
 #EXTINF:-1,xx 1 🔞
