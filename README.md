@@ -93,6 +93,8 @@ http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
 #EXTINF:-1,sport Rusia 1
 https://95-213-224-179.livesports24.online/ntvmatchfoot1.m3u8
+#EXTINF:-1,sport Rusia 2
+https://95-213-224-179.livesports24.online/mfootball2rus.m3u8
 #EXTINF:-1,sport Rusia 3
 https://95-213-224-179.livesports24.online/rumatchf3.m3u8
 #EXTINF:-1,wwe tv
