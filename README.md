@@ -95,3 +95,13 @@ http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
 http://flusonic-13.platinum-tv.com/Brazzers/index.m3u8?token=test
 #EXTINF:-1,xx 3 🔞
 http://185.96.176.139:8080/superone/index.m3u8
+#EXTINF:-1,xx 4 🔞
+https://www.filmon.com/vr-streams/6155.high/playlist.m3u8
+#EXTINF:-1,xx 5 🔞
+https://www.filmon.com/vr-streams/6149.high/playlist.m3u8
+#EXTINF:-1,xx 6 🔞
+https://www.filmon.com/vr-streams/6152.high/playlist.m3u8
+#EXTINF:-1,xx 7 🔞
+https://www.filmon.com/vr-streams/6158.high/playlist.m3u8
+#EXTINF:-1,xx 8 🔞
+https://www.filmon.com/vr-streams/6170.high/playlist.m3u8
