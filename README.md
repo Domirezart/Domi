@@ -103,6 +103,18 @@ https://95-213-224-179.livesports24.online/uafootballua1.m3u8
 https://95-213-224-179.livesports24.online/fooootball2.m3u8
 #EXTINF:-1,wwe tv
 http://sptkid.gcdn.co/wwe/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ARENA ESPORT HD
+http://81.93.72.46:4000/play/a054/index.m3u8
+#EXTINF:-1,ARENA FIGHT HD
+http://81.93.72.46:4000/play/a055/index.m3u8
+#EXTINF:-1,ARENA SPORT 1 HD
+http://81.93.72.46:4000/play/a051/index.m3u8
+#EXTINF:-1,ARENA SPORT 2 HD
+http://81.93.72.46:4000/play/a04v/index.m3u8
+#EXTINF:-1,ARENA SPORT 3 HD
+http://81.93.72.46:4000/play/a052/index.m3u8
+#EXTINF:-1,ARENA SPORT 4 HD
+http://81.93.72.46:4000/play/a053/index.m3u8
 #EXTINF:-1,xx 1 🔞
 http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,xx 2 🔞
