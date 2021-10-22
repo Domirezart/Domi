@@ -109,6 +109,12 @@ http://46.32.222.175:25461/jhgjhmnb/jykcZo6yjz/2
 http://46.32.222.175:25461/jhgjhmnb/jykcZo6yjz/7
 #EXTINF:-1,wwe tv
 http://sptkid.gcdn.co/wwe/tracks-v1a1/mono.m3u8
+#EXTINF:-1,bt sport1
+http://93.152.174.144:4000/play/btsport1/index.m3u8
+#EXTINF:-1,bt sport2
+http://93.152.174.144:4000/play/btsport2/index.m3u8
+#EXTINF:-1,bt sport3
+http://93.152.174.144:4000/play/btsport3/index.m3u8
 #EXTINF:-1,xx 1 🔞
 http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,xx 2 🔞
