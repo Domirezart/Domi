@@ -87,20 +87,26 @@ http://stream.bestvideostreaming.is/8741/index.m3u8?token=S_P2T41OGYcIjtb83qWF6Q
 http://stream.bestvideostreaming.is/8743/index.m3u8?token=S_P2T41OGYcIjtb83qWF6Q
 #EXTINF:-1,SuperSport5
 http://stream.bestvideostreaming.is/8736/index.m3u8?token=S_P2T41OGYcIjtb83qWF6Q
-#EXTINF:-1,eleven sport1
-http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
-#EXTINF:-1,eleven sport2
-http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
-#EXTINF:-1,sport Rusia 1
-https://95-213-224-179.livesports24.online/ntvmatchfoot1.m3u8
-#EXTINF:-1,sport Rusia 2
-https://95-213-224-179.livesports24.online/mfootball2rus.m3u8
-#EXTINF:-1,sport Rusia 3
-https://95-213-224-179.livesports24.online/rumatchf3.m3u8
-#EXTINF:-1,sport1 Ukraine
-https://95-213-224-179.livesports24.online/uafootballua1.m3u8
-#EXTINF:-1,sport2 Ukraine 
-https://95-213-224-179.livesports24.online/fooootball2.m3u8
+#EXTINF:-1,ts1 
+https://kanale.cdn-stream.com:30443/live/ts1/playlist.m3u8
+#EXTINF:-1,ts2
+https://kanale.cdn-stream.com:30443/live/ts2/playlist.m3u8
+#EXTINF:-1,ts3
+https://kanale.cdn-stream.com:30443/live/ts3/playlist.m3u8
+#EXTINF:-1,ts4
+https://kanale.cdn-stream.com:30443/live/ts4/playlist.m3u8
+#EXTINF:-1,SPORT 1 HD
+http://46.32.222.175:25461/jhgjhmnb/jykcZo6yjz/6
+#EXTINF:-1,SPORT 2 HD
+http://46.32.222.175:25461/jhgjhmnb/jykcZo6yjz/5
+#EXTINF:-1,SPORT 3 HD
+http://46.32.222.175:25461/jhgjhmnb/jykcZo6yjz/3
+#EXTINF:-1,SPORT 4 HD
+http://46.32.222.175:25461/jhgjhmnb/jykcZo6yjz/1
+#EXTINF:-1,SPORT 5 HD
+http://46.32.222.175:25461/jhgjhmnb/jykcZo6yjz/2
+#EXTINF:-1,SPORT 6 HD
+http://46.32.222.175:25461/jhgjhmnb/jykcZo6yjz/7
 #EXTINF:-1,wwe tv
 http://sptkid.gcdn.co/wwe/tracks-v1a1/mono.m3u8
 #EXTINF:-1,xx 1 🔞
