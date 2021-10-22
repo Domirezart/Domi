@@ -37,6 +37,8 @@ https://deb10stream.duckdns.org/hls/stream.m3u8
 http://95.107.132.106/out/u/gfhsghshsgfhsfgh.m3u8
 #EXTINF:-1,tv johaniter
 https://nesertv.live/webstream/tracks-v1a1/mono.m3u8
+#EXTINF:-1,shijak tv live stream
+https://www.youtube.com/watch?v=5ia2NV8gX3M
 #EXTINF:-1,news 24
 http://tv.balkanweb.com/news24/livestream/chunks.m3u8
 #EXTINF:-1,abc news
