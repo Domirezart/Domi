@@ -111,6 +111,28 @@ https://kanale.cdn-stream.com:30443/live/ts2/playlist.m3u8
 https://kanale.cdn-stream.com:30443/live/ts3/playlist.m3u8
 #EXTINF:-1,ts4
 https://kanale.cdn-stream.com:30443/live/ts4/playlist.m3u8
+#EXTINF:0, PremierHD1
+https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:0, PremierHD2
+https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:0, PremierHD3
+https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:0, PremierHD4
+https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:0, PremierHD5
+https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:0, Bein1
+https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:0, Bein2
+https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:0, True Sport HD1
+https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:0, True Sport HD2
+https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:0, True Sport HD3
+https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:0, True Sport HD4
+https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
 #EXTINF:-1,SPORT 1 HD
 http://46.32.222.175:25461/jhgjhmnb/jykcZo6yjz/6
 #EXTINF:-1,SPORT 2 HD
