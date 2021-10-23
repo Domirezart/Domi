@@ -4,7 +4,7 @@ https://kanale.cdn-stream.com:30443/live/top1/playlist.m3u8
 #EXTINF:-1,vizion plus
 https://kanale.cdn-stream.com:30443/live/vizionplus/playlist.m3u8
 #EXTINF:-1,tv klan
-https://kanale.cdn-stream.com:30443/live/klan/playlist.m3u8
+https://kanale.cdn-stream.com:30443/live/klan1/playlist.m3u8
 #EXTINF:-1,klan plus
 https://kanale.cdn-stream.com:30443/live/klanplus/playlist.m3u8
 #EXTINF:-1,klan kosova
@@ -38,7 +38,7 @@ http://95.107.132.106/out/u/gfhsghshsgfhsfgh.m3u8
 #EXTINF:-1,tv johaniter
 https://nesertv.live/webstream/tracks-v1a1/mono.m3u8
 #EXTINF:-1,shijak tv live stream
-https://www.youtube.com/watch?v=5ia2NV8gX3M
+https://www.youtube.com/watch?v=CzKG8F38yoc
 #EXTINF:-1,news 24
 http://tv.balkanweb.com/news24/livestream/chunks.m3u8
 #EXTINF:-1,abc news
