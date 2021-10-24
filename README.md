@@ -12,7 +12,7 @@ http://ott-albkanale.duckdns.org/out/u/657_1.m3u8
 #EXTINF:-1,klan kosova
 https://kanale.cdn-stream.com:30443/live/klanks/playlist.m3u8
 #EXTINF:-1,alsat
-https://kanale.cdn-stream.com:30443/live/alsat/playlist.m3u8
+http://ott-albkanale.duckdns.org/out/u/644_1.m3u8
 #EXTINF:-1,vizion plus 
 http://us.bestvideostreaming.is/8703/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
 #EXTINF:-1,tv klan
