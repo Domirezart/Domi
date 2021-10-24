@@ -23,6 +23,8 @@ http://us.bestvideostreaming.is/8713/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
 http://us.bestvideostreaming.is/8720/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
 #EXTINF:-1,klan Kosova
 http://us.bestvideostreaming.is/8706/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
+#EXTINF:-1,tring super
+http://ott-albkanale.duckdns.org/out/u/689_1.m3u8
 #EXTINF:-1,tring classic
 http://95.107.132.106/out/u/842_2.m3u8
 #EXTINF:-1,tring novelas
