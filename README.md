@@ -33,6 +33,8 @@ http://95.107.132.106/out/u/869_2.m3u8
 http://95.107.132.106/out/u/871_2.m3u8
 #EXTINF:-1,tring fantasy
 http://95.107.132.106/out/u/879_2.m3u8
+#EXTINF:-1,tring tring
+http://95.107.132.106/out/u/881_2.m3u8
 #EXTINF:-1,tring planet
 http://95.107.132.106/out/u/874_2.m3u8
 #EXTINF:-1,rtk1
