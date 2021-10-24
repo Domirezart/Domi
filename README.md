@@ -25,6 +25,8 @@ http://us.bestvideostreaming.is/8720/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
 http://us.bestvideostreaming.is/8706/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
 #EXTINF:-1,tring classic
 http://95.107.132.106/out/u/842_2.m3u8
+#EXTINF:-1,tring novelas
+http://95.107.132.106/out/u/858_2.m3u8
 #EXTINF:-1,rtk1
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
 #EXTINF:-1,rtk2
