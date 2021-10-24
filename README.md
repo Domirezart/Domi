@@ -35,6 +35,8 @@ http://95.107.132.106/out/u/869_2.m3u8
 http://95.107.132.106/out/u/871_2.m3u8
 #EXTINF:-1,tring comedy
 http://95.107.132.106/out/u/884_2.m3u8
+#EXTINF:-1,tring family
+http://ott-albkanale.duckdns.org/out/u/672_1.m3u8
 #EXTINF:-1,tring fantasy
 http://95.107.132.106/out/u/879_2.m3u8
 #EXTINF:-1,tring shqip
