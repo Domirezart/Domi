@@ -38,7 +38,7 @@ http://95.107.132.106/out/u/879_2.m3u8
 #EXTINF:-1,tring tring
 http://95.107.132.106/out/u/881_2.m3u8
 #EXTINF:-1,tring tip tv
-http://95.107.132.106/out/u/871_2.m3u8
+http://95.107.132.106/out/u/883_2.m3u8
 #EXTINF:-1,tring planet
 http://95.107.132.106/out/u/883_2.m3u8
 #EXTINF:-1,rtk1
