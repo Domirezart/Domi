@@ -27,8 +27,10 @@ http://us.bestvideostreaming.is/8706/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
 http://95.107.132.106/out/u/842_2.m3u8
 #EXTINF:-1,tring novelas
 http://95.107.132.106/out/u/858_2.m3u8
-#EXTINF:-1,trin 3plus
+#EXTINF:-1,tring 3plus
 http://95.107.132.106/out/u/869_2.m3u8
+#EXTINF:-1,tring life
+http://95.107.132.106/out/u/871_2.m3u8
 #EXTINF:-1,rtk1
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
 #EXTINF:-1,rtk2
