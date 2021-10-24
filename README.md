@@ -31,6 +31,8 @@ http://95.107.132.106/out/u/858_2.m3u8
 http://95.107.132.106/out/u/869_2.m3u8
 #EXTINF:-1,tring life
 http://95.107.132.106/out/u/871_2.m3u8
+#EXTINF:-1,tring planet
+http://95.107.132.106/out/u/884_2.m3u8
 #EXTINF:-1,rtk1
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
 #EXTINF:-1,rtk2
