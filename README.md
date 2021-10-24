@@ -2,7 +2,7 @@
 #EXTINF:-1,Top Channel
 https://kanale.cdn-stream.com:30443/live/top1/playlist.m3u8
 #EXTINF:-1,vizion plus
-https://kanale.cdn-stream.com:30443/live/vizionplus/playlist.m3u8
+http://95.107.132.106/out/u/810_2.m3u8
 #EXTINF:-1,tv klan
 http://95.107.132.106/out/u/773_2.m3u8
 #EXTINF:-1,klan plus
@@ -23,6 +23,8 @@ http://us.bestvideostreaming.is/8713/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
 http://us.bestvideostreaming.is/8720/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
 #EXTINF:-1,klan Kosova
 http://us.bestvideostreaming.is/8706/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
+#EXTINF:-1,tring classic
+http://95.107.132.106/out/u/842_2.m3u8
 #EXTINF:-1,rtk1
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
 #EXTINF:-1,rtk2
