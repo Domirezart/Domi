@@ -12,7 +12,7 @@ http://95.107.132.106/out/u/724_2.m3u8
 #EXTINF:-1,klan plus
 http://ott-albkanale.duckdns.org/out/u/657_1.m3u8
 #EXTINF:-1,klan kosova
-https://kanale.cdn-stream.com:30443/live/klanks/playlist.m3u8
+http://ott-albkanale.duckdns.org/out/u/544_1.m3u8
 #EXTINF:-1,alsat
 http://ott-albkanale.duckdns.org/out/u/644_1.m3u8
 #EXTINF:-1,vizion plus 
