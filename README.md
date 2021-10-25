@@ -79,6 +79,8 @@ http://stream1.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
 https://deb10stream.duckdns.org/hls/stream.m3u8
 #EXTINF:-1,vizion plus
 http://95.107.132.106/out/u/gfhsghshsgfhsfgh.m3u8
+#EXTINF:-1,tirana tv
+http://ott-albkanale.duckdns.org/out/u/163_1.m3u8
 #EXTINF:-1,tv johaniter
 https://nesertv.live/webstream/tracks-v1a1/mono.m3u8
 #EXTINF:-1,shijak tv live stream
