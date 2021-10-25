@@ -43,6 +43,10 @@ http://95.107.132.106/out/u/884_2.m3u8
 http://ott-albkanale.duckdns.org/out/u/672_1.m3u8
 #EXTINF:-1,tring fantasy
 http://95.107.132.106/out/u/879_2.m3u8
+#EXTINF:-1,tring drama
+http://ott-albkanale.duckdns.org/out/u/601_1.m3u8
+#EXTINF:-1,tring living
+http://ott-albkanale.duckdns.org/out/u/606_1.m3u8
 #EXTINF:-1,tring shqip
 http://ott-albkanale.duckdns.org/out/u/682_1.m3u8
 #EXTINF:-1,tring tring
