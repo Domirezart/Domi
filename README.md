@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,Top Channel
 https://kanale.cdn-stream.com:30443/live/top1/playlist.m3u8
+#EXTINF:-1,top channel
+http://185.226.88.3:1036/live/backup/backup/131.m3u8
 #EXTINF:-1,vizion plus
 http://95.107.132.106/out/u/810_2.m3u8
 #EXTINF:-1,tv klan
