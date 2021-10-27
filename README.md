@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1,Big Brother 1 HD AL
+http://tv.shok93.iptv.uno:80/jontehed/f2Hwgs316/89640
+#EXTINF:-1,Big Brother 2 HD AL
+http://tv.shok93.iptv.uno:80/jontehed/f2Hwgs316/89641
 #EXTINF:-1,Top Channel
 https://kanale.cdn-stream.com:30443/live/top1/playlist.m3u8
 #EXTINF:-1,top channel
