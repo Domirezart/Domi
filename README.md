@@ -71,34 +71,12 @@ http://95.107.132.106/out/u/881_2.m3u8
 http://95.107.132.106/out/u/883_2.m3u8
 #EXTINF:-1,tring planet
 http://95.107.132.106/out/u/874_2.m3u8
-#EXTINF:-1,E Premium 1 HD AL
-http://tv.shok93.iptv.uno:80/jontehed/f2Hwgs316/12031
-#EXTINF:-1,E Premium 2 HD AL
-http://tv.shok93.iptv.uno:80/jontehed/f2Hwgs316/12030
-#EXTINF:-1,E Premium 3 HD AL
-http://tv.shok93.iptv.uno:80/jontehed/f2Hwgs316/12029
-#EXTINF:-1,X premium 1 HD AL
-http://tv.shok93.iptv.uno:80/jontehed/f2Hwgs316/22784
-#EXTINF:-1,X premium 2 HD AL
-http://tv.shok93.iptv.uno:80/jontehed/f2Hwgs316/22785
-#EXTINF:-1,X premium 3 HD AL
-http://tv.shok93.iptv.uno:80/jontehed/f2Hwgs316/22786
-#EXTINF:-1,X premium 4 HD AL
-http://tv.shok93.iptv.uno:80/jontehed/f2Hwgs316/22787
-#EXTINF:-1,Digi Gold 1 HD AL
-http://tv.shok93.iptv.uno:80/jontehed/f2Hwgs316/15778
-#EXTINF:-1,Digi Gold 2 HD AL
-http://tv.shok93.iptv.uno:80/jontehed/f2Hwgs316/15779
-#EXTINF:-1,Digi Gold 3 AL
-http://tv.shok93.iptv.uno:80/jontehed/f2Hwgs316/16814
-#EXTINF:-1,Digi Gold 4 AL
-http://tv.shok93.iptv.uno:80/jontehed/f2Hwgs316/16815
-#EXTINF:-1,Film Nje HD AL
-http://tv.shok93.iptv.uno:80/jontehed/f2Hwgs316/3815
-#EXTINF:-1,Film Dy HD AL
-http://tv.shok93.iptv.uno:80/jontehed/f2Hwgs316/3816
-#EXTINF:-1,Filma 24 hd
-http://tv.shok93.iptv.uno:80/jontehed/f2Hwgs316/22815
+#EXTINF:-1,rtl
+http://ott-albkanale.duckdns.org/out/u/116_1.m3u8
+#EXTINF:-1,rtl 2
+http://ott-albkanale.duckdns.org/out/u/120_1.m3u8
+#EXTINF:-1,vox
+http://ott-albkanale.duckdns.org/out/u/123_1.m3u8
 #EXTINF:-1,clich tv
 http://ott-albkanale.duckdns.org/out/u/695_1.m3u8
 #EXTINF:-1,rtk1
