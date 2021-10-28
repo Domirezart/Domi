@@ -69,6 +69,8 @@ http://ott-albkanale.duckdns.org/out/u/601_1.m3u8
 http://ott-albkanale.duckdns.org/out/u/606_1.m3u8
 #EXTINF:-1,tring shqip
 http://ott-albkanale.duckdns.org/out/u/682_1.m3u8
+#EXTINF:-1,tring internazional
+http://ott-albkanale.duckdns.org/out/u/606_1.m3u8
 #EXTINF:-1,tring kids
 http://ott-albkanale.duckdns.org/out/u/341_1.m3u8
 #EXTINF:-1,tring tring
