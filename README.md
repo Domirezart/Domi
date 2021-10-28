@@ -39,6 +39,8 @@ http://ott-albkanale.duckdns.org/out/u/490_1.m3u8
 http://ott-albkanale.duckdns.org/out/u/135_1.m3u8
 #EXTINF:-1,rtv 21macedonia
 http://ott-albkanale.duckdns.org/out/u/159_1.m3u8
+#EXTINF:-1,kanal 10
+http://ott-albkanale.duckdns.org/out/u/188_1.m3u8
 #EXTINF:-1,JollyHD
 http://ott-albkanale.duckdns.org/out/u/463_1.m3u8
 #EXTINF:-1,tring action
