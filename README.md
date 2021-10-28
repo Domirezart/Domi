@@ -93,6 +93,8 @@ http://stream1.rtkit.com:1935/rtk2stream/rtk2.stream/playlist.m3u8
 http://stream1.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
 #EXTINF:-1,rtk4
 http://stream1.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
+#EXTINF:-1,syri hd
+http://ott-albkanale.duckdns.org/out/u/205_1.m3u8
 #EXTINF:-1,report tv
 https://deb10stream.duckdns.org/hls/stream.m3u8
 #EXTINF:-1,vizion plus
