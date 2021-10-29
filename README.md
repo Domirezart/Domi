@@ -20,6 +20,8 @@ http://ott-albkanale.duckdns.org/out/u/657_1.m3u8
 #EXTINF:-1,klan kosova
 http://ott-albkanale.duckdns.org/out/u/544_1.m3u8
 #EXTINF:-1,alsat
+http://62.162.79.7:8001/play/s12
+#EXTINF:-1,alsat
 http://ott-albkanale.duckdns.org/out/u/644_1.m3u8
 #EXTINF:-1,vizion plus 
 http://us.bestvideostreaming.is/8703/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
