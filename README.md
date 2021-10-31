@@ -1,12 +1,14 @@
 #EXTM3U
-#EXTINF:-1,Big Brother 1 HD AL
-http://tv.shok93.iptv.uno:80/jontehed/f2Hwgs316/89640
-#EXTINF:-1,Big Brother 2 HD AL
-http://tv.shok93.iptv.uno:80/jontehed/f2Hwgs316/89641
 #EXTINF:-1,Top Channel
 https://kanale.cdn-stream.com:30443/live/top1/playlist.m3u8
-#EXTINF:-1,top channel
-http://tv.shok93.iptv.uno:80/jontehed/f2Hwgs316/4178
+#EXTINF:-1,klan hd
+https://kanale.cdn-stream.com:30443/live/klan1/playlist.m3u8
+#EXTINF:-1,vizion plus
+https://kanale.cdn-stream.com:30443/live/vizionplus/playlist.m3u8
+#EXTINF:-1,klan plus 
+https://kanale.cdn-stream.com:30443/live/klanplus/playlist.m3u8
+#EXTINF:-1,al sat
+https://kanale.cdn-stream.com:30443/live/alsat/playlist.m3u8
 #EXTINF:-1,vizion plus
 http://95.107.132.106/out/u/810_2.m3u8
 #EXTINF:-1,tv klan
