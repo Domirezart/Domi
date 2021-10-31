@@ -7,6 +7,8 @@ https://kanale.cdn-stream.com:30443/live/klan1/playlist.m3u8?wmsAuthSign=c2VydmV
 https://kanale.cdn-stream.com:30443/live/vizionplus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyMSA2OjI3OjMwIEFNJmhhc2hfdmFsdWU9a042Vk5DazJKMUE0UTNlVHc4MXE1UT09JnZhbGlkbWludXRlcz00MCZzdHJtX2xlbj00
 #EXTINF:-1,klan plus 
 https://kanale.cdn-stream.com:30443/live/klanplus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyMSA2OjI3OjMwIEFNJmhhc2hfdmFsdWU9a042Vk5DazJKMUE0UTNlVHc4MXE1UT09JnZhbGlkbWludXRlcz00MCZzdHJtX2xlbj00
+#EXTINF:-1,klan kosova
+https://kanale.cdn-stream.com:30443/live/klanks/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyMSA2OjI3OjMwIEFNJmhhc2hfdmFsdWU9a042Vk5DazJKMUE0UTNlVHc4MXE1UT09JnZhbGlkbWludXRlcz00MCZzdHJtX2xlbj00
 #EXTINF:-1,al sat
 https://kanale.cdn-stream.com:30443/live/alsat/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyMSA2OjI3OjMwIEFNJmhhc2hfdmFsdWU9a042Vk5DazJKMUE0UTNlVHc4MXE1UT09JnZhbGlkbWludXRlcz00MCZzdHJtX2xlbj00
 #EXTINF:-1,vizion plus
