@@ -174,7 +174,7 @@ http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
 #EXTINF:-1,neser tv
 https://nesertv.live/ntv/livestream/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Rai 1
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
+http://ott-cdn.ucom.am/s29/index.m3u8
 #EXTINF:-1,Rai 2
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
 #EXTINF:-1,Rai 3
