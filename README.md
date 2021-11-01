@@ -23,6 +23,8 @@ https://kanale.cdn-stream.com:30443/live/tring3plus/playlist.m3u8?wmsAuthSign=c2
 https://kanale.cdn-stream.com:30443/live/tringshqip/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyMSA2OjI3OjMwIEFNJmhhc2hfdmFsdWU9a042Vk5DazJKMUE0UTNlVHc4MXE1UT09JnZhbGlkbWludXRlcz00MCZzdHJtX2xlbj00
 #EXTINF:-1,world
 https://kanale.cdn-stream.com:30443/live/tringworld/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyMSA2OjI3OjMwIEFNJmhhc2hfdmFsdWU9a042Vk5DazJKMUE0UTNlVHc4MXE1UT09JnZhbGlkbWludXRlcz00MCZzdHJtX2xlbj00
+#EXTINF:-1,national geographic
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1,planet
 https://kanale.cdn-stream.com:30443/live/tringplanet/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyMSA2OjI3OjMwIEFNJmhhc2hfdmFsdWU9a042Vk5DazJKMUE0UTNlVHc4MXE1UT09JnZhbGlkbWludXRlcz00MCZzdHJtX2xlbj00
 #EXTINF:-1,history
@@ -33,6 +35,8 @@ https://kanale.cdn-stream.com:30443/live/filmaksion/playlist.m3u8?wmsAuthSign=c2
 https://kanale.cdn-stream.com:30443/live/filmkomedi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyMSA2OjI3OjMwIEFNJmhhc2hfdmFsdWU9a042Vk5DazJKMUE0UTNlVHc4MXE1UT09JnZhbGlkbWludXRlcz00MCZzdHJtX2xlbj00
 #EXTINF:-1,film thd
 https://kanale.cdn-stream.com:30443/live/filmthd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyMSA2OjI3OjMwIEFNJmhhc2hfdmFsdWU9a042Vk5DazJKMUE0UTNlVHc4MXE1UT09JnZhbGlkbWludXRlcz00MCZzdHJtX2xlbj00
+#EXTINF:-1,film hits
+https://kanale.cdn-stream.com:30443/live/filmhits/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyMSA2OjI3OjMwIEFNJmhhc2hfdmFsdWU9a042Vk5DazJKMUE0UTNlVHc4MXE1UT09JnZhbGlkbWludXRlcz00MCZzdHJtX2xlbj00
 #EXTINF:-1,vizion plus
 http://95.107.132.106/out/u/810_2.m3u8
 #EXTINF:-1,tv klan
