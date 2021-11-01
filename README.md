@@ -176,9 +176,9 @@ https://nesertv.live/ntv/livestream/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Rai 1
 http://ott-cdn.ucom.am/s29/index.m3u8
 #EXTINF:-1,Rai 2
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
+https://streamcdnm28-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raidue1/hls/playlist_ma.m3u8?baseuri=%2Fraidue1%2Fhls%2F&tstart=0&tend=1635804094&tof=86400&tk2=618f8a9b3b86f4de4459aeed4dc90dd72ba3951841411fb10401d83293d00c15
 #EXTINF:-1,Rai 3
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709
+http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
 #EXTINF:-1,gf vip1
 https://live2-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b7)/index.m3u8
 #EXTINF:-1,gf vip2
