@@ -183,16 +183,6 @@ http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
 https://live2-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b7)/index.m3u8
 #EXTINF:-1,gf vip2
 https://live2-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b8)/index.m3u8
-#EXTINF:-1,ArenaSport1
-http://93.157.62.180/ArenaSport1/tracks-v1a1/mono.m3u8?per
-#EXTINF:-1,ArenaSport2
-http://93.157.62.180/ArenaSport2/tracks-v1a1/mono.m3u8?per
-#EXTINF:-1,ArenaSport3
-http://93.157.62.180/ArenaSport3/tracks-v1a1/mono.m3u8?per
-#EXTINF:-1,ArenaSport4
-http://93.157.62.180/ArenaSport4/tracks-v1a1/mono.m3u8?per
-#EXTINF:-1,ArenaSport5
-http://93.157.62.180/ArenaSport5/tracks-v1a1/mono.m3u8?per
 #EXTINF:-1,rtsh sport
 http://ott-albkanale.duckdns.org/out/u/635_1.m3u8
 #EXTINF:-1,tringsport1
@@ -229,28 +219,6 @@ https://kanale.cdn-stream.com:30443/live/ts2/playlist.m3u8
 https://kanale.cdn-stream.com:30443/live/ts3/playlist.m3u8
 #EXTINF:-1,ts4
 https://kanale.cdn-stream.com:30443/live/ts4/playlist.m3u8
-#EXTINF:0, PremierHD1
-https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:0, PremierHD2
-https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:0, PremierHD3
-https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:0, PremierHD4
-https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:0, PremierHD5
-https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF:0, Bein1
-https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
-#EXTINF:0, Bein2
-https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
-#EXTINF:0, True Sport HD1
-https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:0, True Sport HD2
-https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:0, True Sport HD3
-https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:0, True Sport HD4
-https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
 #EXTINF:-1,SPORT 1 HD
 http://46.32.222.175:25461/jhgjhmnb/jykcZo6yjz/6
 #EXTINF:-1,SPORT 2 HD
