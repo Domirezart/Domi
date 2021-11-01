@@ -179,6 +179,10 @@ http://ott-cdn.ucom.am/s29/index.m3u8
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
 #EXTINF:-1,Rai 3
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709
+#EXTINF:-1,gf vip1
+https://live2-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b7)/index.m3u8
+#EXTINF:-1,gf vip2
+https://live2-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b8)/index.m3u8
 #EXTINF:-1,ArenaSport1
 http://93.157.62.180/ArenaSport1/tracks-v1a1/mono.m3u8?per
 #EXTINF:-1,ArenaSport2
