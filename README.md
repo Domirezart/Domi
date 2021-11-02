@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,Top Channel
+#EXTINF:-1group-title="ALB SHQIP TV 🇦🇱"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",Top Channel Hd
 https://kanale.cdn-stream.com:30443/live/top/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyMSA2OjI3OjMwIEFNJmhhc2hfdmFsdWU9a042Vk5DazJKMUE0UTNlVHc4MXE1UT09JnZhbGlkbWludXRlcz00MCZzdHJtX2xlbj00
 #EXTINF:-1,klan hd
 https://kanale.cdn-stream.com:30443/live/klan/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyMSA2OjI3OjMwIEFNJmhhc2hfdmFsdWU9a042Vk5DazJKMUE0UTNlVHc4MXE1UT09JnZhbGlkbWludXRlcz00MCZzdHJtX2xlbj00
@@ -191,7 +191,7 @@ https://live2-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b7)/
 https://live2-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b8)/index.m3u8
 #EXTINF:-1,rtsh sport
 http://ott-albkanale.duckdns.org/out/u/635_1.m3u8
-#EXTINF:-1,tringsport1
+#EXTINF:-1 group-title="ALB SPORT TV 🇦🇱" tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",tringsport1
 http://stream.bestvideostreaming.is/8796/index.m3u8?token=yov8lWEphYHifxaanDOaGw
 #EXTINF:-1,tringsport2
 http://stream.bestvideostreaming.is/8797/index.m3u8?token=yov8lWEphYHifxaanDOaGw
@@ -251,7 +251,7 @@ http://93.152.174.144:4000/play/btsport1/index.m3u8
 http://93.152.174.144:4000/play/btsport2/index.m3u8
 #EXTINF:-1,bt sport3
 http://93.152.174.144:4000/play/btsport3/index.m3u8
-#EXTINF:-1,xx 1 🔞
+#EXTINF:-1 group-title="ALB XXX 🔞 TV 🇦🇱" tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",xx 1 🔞
 http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,xx 2 🔞
 http://flusonic-13.platinum-tv.com/Brazzers/index.m3u8?token=test
