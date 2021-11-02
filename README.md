@@ -217,6 +217,12 @@ http://95.107.132.106/out/u/692_2.m3u8
 http://95.107.132.106/out/u/699_2.m3u8
 #EXTINF:-1,Tring sport 4
 http://95.107.132.106/out/u/713_4.m3u8
+#EXTINF:-1,ss1
+http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/70.ts
+#EXTINF:-1,ss2
+http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/71.ts
+#EXTINF:-1,ss3
+http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/72.ts
 #EXTINF:-1,ts1 
 https://kanale.cdn-stream.com:30443/live/ts1/playlist.m3u8
 #EXTINF:-1,ts2
