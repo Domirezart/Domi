@@ -155,9 +155,9 @@ http://us.bestvideostreaming.is/8708/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
 http://us.bestvideostreaming.is/8706/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
 #EXTINF:-1,vizionplus
 http://us.bestvideostreaming.is/8703/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
-#EXTINF:-1,b brothers al1
+#EXTINF:-1,Big brother al1
 http://us.bestvideostreaming.is/8803/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
-#EXTINF:-1,b brothers al2
+#EXTINF:-1,Big brother al2
 http://us.bestvideostreaming.is/8804/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
 #EXTINF:-1group-title="ALB SHQIP TV 🇦🇱"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",Top Channel Hd
 https://kanale.cdn-stream.com:30443/live/top/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyMSA2OjI3OjMwIEFNJmhhc2hfdmFsdWU9a042Vk5DazJKMUE0UTNlVHc4MXE1UT09JnZhbGlkbWludXRlcz00MCZzdHJtX2xlbj00
