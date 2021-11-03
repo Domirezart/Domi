@@ -163,6 +163,16 @@ http://us.bestvideostreaming.is/8703/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
 http://us.bestvideostreaming.is/8803/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
 #EXTINF:-1,Big brother al2
 http://us.bestvideostreaming.is/8804/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
+#EXTINF:-1,pink movies
+https://srv1.iptviliria.com/PinkMovies/mono.m3u8?token=undefined
+#EXTINF:-1,pink rolls
+https://srv1.iptviliria.com/PinkRoll/mono.m3u8?token=undefined
+#EXTINF:-1,pink kids
+https://srv1.iptviliria.com/PinkKids/mono.m3u8?token=undefined
+#EXTINF:-1,pink action
+https://srv1.iptviliria.com/PinkAction/mono.m3u8?token=undefined
+#EXTINF:-1,pink western
+https://srv1.iptviliria.com/PinkWestern/mono.m3u8?token=undefined
 #EXTINF:-1group-title="ALB SHQIP TV 🇦🇱"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",Top Channel Hd
 https://kanale.cdn-stream.com:30443/live/top/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyMSA2OjI3OjMwIEFNJmhhc2hfdmFsdWU9a042Vk5DazJKMUE0UTNlVHc4MXE1UT09JnZhbGlkbWludXRlcz00MCZzdHJtX2xlbj00
 #EXTINF:-1,klan hd
@@ -431,3 +441,15 @@ https://www.filmon.com/vr-streams/6152.high/playlist.m3u8
 https://www.filmon.com/vr-streams/6158.high/playlist.m3u8
 #EXTINF:-1,xx 8 🔞
 https://www.filmon.com/vr-streams/6170.high/playlist.m3u8
+#EXTINF:-1,pink erotic 1
+https://srv1.iptviliria.com/PinkErotic1/mono.m3u8?token=undefined
+#EXTINF:-1,pink erotic 2
+https://srv1.iptviliria.com/PinkErotic2/mono.m3u8?token=undefined
+#EXTINF:-1,pink erotic 3
+https://srv1.iptviliria.com/PinkErotic3/mono.m3u8?token=undefined
+#EXTINF:-1,pink erotic 4
+https://srv1.iptviliria.com/PinkErotic4/mono.m3u8?token=undefined
+#EXTINF:-1,pink erotic 5
+https://srv1.iptviliria.com/PinkErotic5/mono.m3u8?token=undefined
+#EXTINF:-1,pink erotic 6
+https://srv1.iptviliria.com/PinkErotic6/mono.m3u8?token=undefined
