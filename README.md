@@ -185,6 +185,12 @@ https://srv1.iptviliria.com/PinkHits1/mono.m3u8?token=undefined
 https://srv1.iptviliria.com/PinkHits2/mono.m3u8?token=undefined
 #EXTINF:-1,pink romance
 https://srv1.iptviliria.com/PinkRomance/mono.m3u8?token=undefined
+#EXTINF:-1,pink premium
+https://srv1.iptviliria.com/PinkPremium/mono.m3u8?token=undefined
+#EXTINF:-1,pink plus
+https://srv1.iptviliria.com/PinkPlus/mono.m3u8?token=undefined
+#EXTINF:-1,pink family
+https://srv1.iptviliria.com/PinkFamily/mono.m3u8?token=undefined
 #EXTINF:-1group-title="ALB SHQIP TV 🇦🇱"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",Top Channel Hd
 https://kanale.cdn-stream.com:30443/live/top/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyMSA2OjI3OjMwIEFNJmhhc2hfdmFsdWU9a042Vk5DazJKMUE0UTNlVHc4MXE1UT09JnZhbGlkbWludXRlcz00MCZzdHJtX2xlbj00
 #EXTINF:-1,klan hd
