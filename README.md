@@ -1,4 +1,164 @@
 #EXTM3U
+#EXTINF:-1 group-title="ALB SHQIP TEST TV 🇦🇱" tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",Top Channel Hd
+https://srv1.iptviliria.com/TopChannel/index.m3u8?token=undefined
+#EXTINF :-1,Tv Klan Hd
+https://srv1.iptviliria.com/TVKlanHD/index.m3u8?token=undefined
+#EXTINF:-1,Vizion Plus Hd
+https://srv1.iptviliria.com/VizionPlus/index.m3u8?token=undefined
+#EXTINF:-1,Klan Plus Hd
+https://srv1.iptviliria.com/KlanPlus/index.m3u8?token=undefined
+#EXTINF:-1,Alsat M Hd
+https://srv1.iptviliria.com/AlsatM/index.m3u8?token=undefined
+#EXTINF:-1,Klan Kosova Hd
+https://srv1.iptviliria.com/KlanKosova/index.m3u8?token=undefined
+#EXTINF:-1,Tv Johaniter
+https://nesertv.live/webstream/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Kopliku TV
+https://srv1.iptviliria.com/KoplikuTV/index.m3u8?token=undefined
+#EXTINF:-1,Shijak tv
+http://edge01eu.ekranet.com/shijaktv/index.m3u8?e=a1b50034586210607ba890953fcba974&c=shijaktv&medium=websocket
+#EXTINF:0,Scan TV
+http://edge01eu.ekranet.com/scantv/index.m3u8?e=a1b50034586210607ba890953fcba974&c=scantv&medium=websocket
+#EXTINF:0,MCN TV
+http://edge01eu.ekranet.com/mcntv/index.m3u8?e=a1b50034586210607ba890953fcba974&c=mcntv&medium=websocket
+#EXTINF:0,FAX News TV
+http://edge01eu.ekranet.com/faxnews/index.m3u8?e=a1b50034586210607ba890953fcba974&c=faxnews&medium=websocket
+#EXTINF:-1,Top news
+https://srv1.iptviliria.com/TopNews/index.m3u8?token=undefined
+#EXTINF:-1,News 24
+https://srv1.iptviliria.com/News24/index.m3u8?token=undefined
+#EXTINF:-1,Ora news
+https://srv1.iptviliria.com/OraNews/index.m3u8?token=undefined
+#EXTINF:-1,Abc News
+https://srv1.iptviliria.com/ABCNews/index.m3u8?token=undefined
+#EXTINF:-1,EuroNews Hd
+https://srv1.iptviliria.com/Euronews/index.m3u8?token=undefined
+#EXTINF:-1,Syri tv
+https://srv1.iptviliria.com/SyriTV/index.m3u8?token=undefined
+#EXTINF:-1,Bbf
+https://srv1.iptviliria.com/BBFMusic/index.m3u8?token=undefined
+#EXTINF:-1,FOLK plus
+https://srv1.iptviliria.com/FolkPlus/index.m3u8?token=undefined
+#EXTINF:-1,Supersonik tv
+https://srv1.iptviliria.com/SupersonicTV/index.m3u8?token=undefined
+#EXTINF:-1,Iliria muzik
+https://srv1.iptviliria.com/IliriaMusic/index.m3u8?token=undefined
+#EXTINF:-1,Iliria Film
+https://srv1.iptviliria.com/IliriaFilm/index.m3u8?token=undefined
+#EXTINF:-1, Film nje
+https://srv1.iptviliria.com/FilmNje/index.m3u8?token=undefined
+#EXTINF:-1,Film dy
+https://srv1.iptviliria.com/FilmDy/index.m3u8?token=undefined
+#EXTINF:-1,Film Action
+https://srv1.iptviliria.com/FilmAkson/index.m3u8?token=undefined
+#EXTINF:-1,Film komedy
+https://srv1.iptviliria.com/FilmKomedi/index.m3u8?token=undefined
+#EXTINF:-1,Film thd
+https://srv1.iptviliria.com/THD/index.m3u8?token=undefined
+#EXTINF:-1,Film hits
+https://srv1.iptviliria.com/FilmHits/index.m3u8?token=undefined
+#EXTINF:-1,Film autor
+https://srv1.iptviliria.com/FilmAutor/index.m3u8?token=undefined
+#EXTINF:-1,RTSH 1
+http://79.106.48.2:4578/live/rtsh_1mob_pp2/playlist.m3u8
+#EXTINF:-1,RTSH 2
+http://79.106.48.2:4578/live/rtsh_2mob_p2/playlist.m3u8
+#EXTINF:-1,RTSH 24
+http://79.106.48.2:4578/live/rtsh_24_mob/playlist.m3u8
+#EXTINF:-1,RTSH 3
+http://79.106.48.2:4578/live/rtsh3mobp1/playlist.m3u8
+#EXTINF:-1,RTSH Film
+http://79.106.48.2:4578/live/rtsh_film_mob_p1/playlist.m3u8
+#EXTINF:-1,RTSH Gjirokastra
+http://79.106.48.2:4578/live/rtsh_gjirokastra_mob_p1/playlist.m3u8
+#EXTINF:-1,RTSH Kids
+http://79.106.48.2:4578/live/rtsh_femije_mob_p1/playlist.m3u8
+#EXTINF:-1,RTSH Korça
+http://79.106.48.2:4578/live/rtsh_korca_mob_p1/playlist.m3u8
+#EXTINF:-1,RTSH Kukesi
+http://79.106.48.2:4578/live/rtsh_kukesi_mob_p1/playlist.m3u8
+#EXTINF:-1,RTSH Muzike
+http://79.106.48.2:4578/live/rtsh_muzike_mob_p1/playlist.m3u8
+#EXTINF:-1,RTSH Plus
+http://79.106.48.2:4578/live/rtsh_plus_mob_p1/playlist.m3u8
+#EXTINF:-1,RTSH Sat
+http://79.106.48.2:4578/live/rtsh_sat_mob_p1/playlist.m3u8
+#EXTINF:-1,RTSH Shkodra
+http://79.106.48.2:4578/live/rtsh_shkodra_mob_p1/playlist.m3u8
+#EXTINF:-1,RTSH Shqip
+http://79.106.48.2:4578/live/rtsh_shqip_mob_p1/playlist.m3u8
+#EXTINF:-1,RTSH Sport
+http://79.106.48.2:4578/live/sport_mob_ppp1/playlist.m3u8
+#EXTINF:-1,Rtsh 1
+https://srv1.iptviliria.com/RTSH1/index.m3u8?token=undefined
+#EXTINF:-1,Rtsh 2
+https://srv1.iptviliria.com/RTSH2/index.m3u8?token=undefined
+#EXTINF:-1,Rtsh 3
+https://srv1.iptviliria.com/RTSH3/index.m3u8?token=undefined
+#EXTINF:-1,Rtsh Film
+https://srv1.iptviliria.com/RTSHFilm/index.m3u8?token=undefined
+#EXTINF:-1,Rtsh Sport
+https://srv1.iptviliria.com/RTSHSport/index.m3u8?token=undefined
+#EXTINF:-1,Rtk 1
+http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
+#EXTINF:-1,Rtk 2
+http://stream1.rtkit.com:1935/rtk2stream/rtk2.stream/playlist.m3u8
+#EXTINF:-1,Rtk 3
+http://stream1.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
+#EXTINF:-1,Rtk 4
+http://stream1.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
+#EXTINF:-1, Korca plus
+http://32.shqiptv.org/korca/albplus/index.m3u8
+#EXTINF:-1,Alpo hd
+https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
+#EXTINF:-1,Atd hd
+http://46.99.146.236/0.m3u8
+#EXTINF:-1,Tring sport1
+https://srv1.iptviliria.com/TringSport1HD/index.m3u8?token=undefined
+#EXTINF:-1,Tring sport2
+https://srv1.iptviliria.com/TringSport2HD/index.m3u8?token=undefined
+#EXTINF:-1,Super Sport1
+https://srv1.iptviliria.com/Supersport1/index.m3u8?token=undefined
+#EXTINF:-1,Super Sport2
+https://srv1.iptviliria.com/Supersport2/index.m3u8?token=undefined
+#EXTINF:-1,Super Sport3
+https://srv1.iptviliria.com/Supersport3/index.m3u8?token=undefined
+#EXTINF:-1,Super Sport4
+https://srv1.iptviliria.com/Supersport4/index.m3u8?token=undefined
+#EXTINF:-1,Super Sport5
+https://srv1.iptviliria.com/Supersport5/index.m3u8?token=undefined
+#EXTINF:-1,Super Sport6
+https://srv1.iptviliria.com/Supersport6/index.m3u8?token=undefined
+#EXTINF:-1,Super Sport7
+https://srv1.iptviliria.com/Supersport7/index.m3u8?token=undefined
+#EXTINF:-1,K sport1
+https://srv1.iptviliria.com/KSport1/index.m3u8?token=undefined
+#EXTINF:-1,K sport2
+https://srv1.iptviliria.com/KSport2/index.m3u8?token=undefined
+#EXTINF:-1,K sport3
+https://srv1.iptviliria.com/KSport3/index.m3u8?token=undefined
+#EXTINF:-1,K Sport4
+https://srv1.iptviliria.com/KSport4/index.m3u8?token=undefined
+#EXTINF:-1,Art sport1
+https://srv1.iptviliria.com/ArtSport1HD/index.m3u8?token=undefined
+#EXTINF:-1,Art sport2
+https://srv1.iptviliria.com/ArtSport2/index.m3u8?token=undefined
+#EXTINF:-1,Art sport3
+https://srv1.iptviliria.com/ArtSport3/index.m3u8?token=undefined
+#EXTINF:-1,klan plus
+http://us.bestvideostreaming.is/8720/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
+#EXTINF:-1,klan
+http://us.bestvideostreaming.is/8704/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
+#EXTINF:-1,topchannal
+http://us.bestvideostreaming.is/8708/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
+#EXTINF:-1,klan ks
+http://us.bestvideostreaming.is/8706/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
+#EXTINF:-1,vizionplus
+http://us.bestvideostreaming.is/8703/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
+#EXTINF:-1,b brothers al1
+http://us.bestvideostreaming.is/8803/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
+#EXTINF:-1,b brothers al2
+http://us.bestvideostreaming.is/8804/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
 #EXTINF:-1group-title="ALB SHQIP TV 🇦🇱"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",Top Channel Hd
 https://kanale.cdn-stream.com:30443/live/top/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyMSA2OjI3OjMwIEFNJmhhc2hfdmFsdWU9a042Vk5DazJKMUE0UTNlVHc4MXE1UT09JnZhbGlkbWludXRlcz00MCZzdHJtX2xlbj00
 #EXTINF:-1,klan hd
