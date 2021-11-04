@@ -471,15 +471,3 @@ https://www.filmon.com/vr-streams/6152.high/playlist.m3u8
 https://www.filmon.com/vr-streams/6158.high/playlist.m3u8
 #EXTINF:-1,xx 8 🔞
 https://www.filmon.com/vr-streams/6170.high/playlist.m3u8
-#EXTINF:-1,pink erotic 1
-https://srv1.iptviliria.com/PinkErotic1/mono.m3u8?token=undefined
-#EXTINF:-1,pink erotic 2
-https://srv1.iptviliria.com/PinkErotic2/mono.m3u8?token=undefined
-#EXTINF:-1,pink erotic 3
-https://srv1.iptviliria.com/PinkErotic3/mono.m3u8?token=undefined
-#EXTINF:-1,pink erotic 4
-https://srv1.iptviliria.com/PinkErotic4/mono.m3u8?token=undefined
-#EXTINF:-1,pink erotic 5
-https://srv1.iptviliria.com/PinkErotic5/mono.m3u8?token=undefined
-#EXTINF:-1,pink erotic 6
-https://srv1.iptviliria.com/PinkErotic6/mono.m3u8?token=undefined
