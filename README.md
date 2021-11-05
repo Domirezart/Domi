@@ -63,6 +63,16 @@ https://srv1.iptviliria.com/THD/index.m3u8?token=undefined
 https://srv1.iptviliria.com/FilmHits/index.m3u8?token=undefined
 #EXTINF:-1,Film autor
 https://srv1.iptviliria.com/FilmAutor/index.m3u8?token=undefined
+#EXTINF:-1,tring comedy
+https://srv1.iptviliria.com/TringComedy/index.m3u8?token=undefined
+#EXTINF:-1,tring fantasy
+https://srv1.iptviliria.com/TringFantasy/index.m3u8?token=undefined
+#EXTINF:-1,tring smile
+https://srv1.iptviliria.com/TringSmile/index.m3u8?token=undefined
+#EXTINF:-1,tring super
+https://srv1.iptviliria.com/TringSuper/index.m3u8?token=undefined
+#EXTINF:-1,tring action
+https://srv1.iptviliria.com/TringAction/index.m3u8?token=undefined
 #EXTINF:-1,RTSH 1
 http://79.106.48.2:4578/live/rtsh_1mob_pp2/playlist.m3u8
 #EXTINF:-1,RTSH 2
