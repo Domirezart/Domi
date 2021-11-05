@@ -627,3 +627,11 @@ https://www.filmon.com/vr-streams/6152.high/playlist.m3u8
 https://www.filmon.com/vr-streams/6158.high/playlist.m3u8
 #EXTINF:-1,xx 8 🔞
 https://www.filmon.com/vr-streams/6170.high/playlist.m3u8
+#EXTINF:-1,Extasy 🔞
+http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
+#EXTINF:-1,Super One 🔞
+http://185.96.176.139:8080/superone/index.m3u8
+#EXTINF:-1,Redlight HD 🔞
+http://51.15.0.141:88/redlightHD/index.m3u8
+#EXTINF:-1,Hustler HD 🔞
+http://51.15.0.141:88/hustlerhd/index.m3u8
