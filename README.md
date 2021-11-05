@@ -1,5 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="ALB SHQIP TEST TV 🇦🇱" tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",Top Channel Hd
+#EXTINF:-1 group-title="ALB SHQIP TEST TV 🇦🇱" tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",AL SAT HD
+http://212.102.60.40:2200/ALB-EX/Alsat_M_HD_AL-alb/index.m3u8?token=t.me/EXTM3U
+#EXTINF:-1,KLAN HD
+http://212.102.60.40:2200/ALB-EX/Klan_HD_AL-alb/index.m3u8?token=t.me/EXTM3U
+#EXTINF:-1,TOP CHANNEL HD
+http://212.102.60.40:2200/ALB-EX/Top_Channel_HD_AL-alb/index.m3u8?token=t.me/EXTM3U
+#EXTINF:-1,VIZION PLUS HD
+http://212.102.60.40:2200/ALB-EX/Vizion_Plus_FHD_VIP_AL-alb/index.m3u8?token=t.me/EXTM3U
+#EXTINF:-1,KLAN PLUS HD
+http://212.102.60.40:2200/ALB-EX/Klan_Plus_HD_AL-alb/index.m3u8?token=t.me/EXTM3U
+#EXTINF:-1,top channel
 https://srv1.iptviliria.com/TopChannel/index.m3u8?token=undefined
 #EXTINF:-1,Big brother1
 https://srv1.iptviliria.com/BigBrother1/index.m3u8?token=undefined
