@@ -63,6 +63,14 @@ https://srv1.iptviliria.com/THD/index.m3u8?token=undefined
 https://srv1.iptviliria.com/FilmHits/index.m3u8?token=undefined
 #EXTINF:-1,Film autor
 https://srv1.iptviliria.com/FilmAutor/index.m3u8?token=undefined
+#EXTINF:-1,euro film
+https://srv1.iptviliria.com/EuroFilm/index.m3u8?token=undefined
+#EXTINF:-1,tring international
+https://srv1.iptviliria.com/TringInternational/index.m3u8?token=undefined
+#EXTINF:-1,tring history 
+https://srv1.iptviliria.com/TringHistori/index.m3u8?token=undefined
+#EXTINF:-1,tring life
+https://srv1.iptviliria.com/TringLife/index.m3u8?token=undefined
 #EXTINF:-1,tring comedy
 https://srv1.iptviliria.com/TringComedy/index.m3u8?token=undefined
 #EXTINF:-1,tring fantasy
