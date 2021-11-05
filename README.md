@@ -69,10 +69,16 @@ https://srv1.iptviliria.com/TringComedy/index.m3u8?token=undefined
 https://srv1.iptviliria.com/TringFantasy/index.m3u8?token=undefined
 #EXTINF:-1,tring smile
 https://srv1.iptviliria.com/TringSmile/index.m3u8?token=undefined
+#EXTINF:-1,Jolly HD
+https://srv1.iptviliria.com/JollyHD/index.m3u8?token=undefined
 #EXTINF:-1,tring super
 https://srv1.iptviliria.com/TringSuper/index.m3u8?token=undefined
 #EXTINF:-1,tring action
 https://srv1.iptviliria.com/TringAction/index.m3u8?token=undefined
+#EXTINF:-1,3 plus
+https://srv1.iptviliria.com/3Plus/index.m3u8?token=undefined
+#EXTINF:-1,tring shqip
+https://srv1.iptviliria.com/TringShqip/index.m3u8?token=undefined
 #EXTINF:-1,RTSH 1
 http://79.106.48.2:4578/live/rtsh_1mob_pp2/playlist.m3u8
 #EXTINF:-1,RTSH 2
