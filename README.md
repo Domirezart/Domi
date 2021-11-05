@@ -1,4 +1,106 @@
 #EXTM3U
+#EXTINF:-1 group-title="ALB SHQIP Prov TV 🇦🇱"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",Top Channel
+https://5.254.81.2:7090/8708/index.m3u8
+#EXTINF:-1,Klan Tv
+https://5.254.81.2:7090/8704/index.m3u8
+#EXTINF:-1,Vizion Plus
+https://5.254.81.2:7090/8703/index.m3u8
+#EXTINF:-1,Klan Plus
+https://5.254.81.2:7090/8720/index.m3u8
+#EXTINF:-1,3 Plus
+https://5.254.81.2:7090/8773/index.m3u8
+#EXTINF:-1,Abc
+https://5.254.81.2:7090/10023/index.m3u8
+#EXTINF:-1,Alsat M
+https://5.254.81.2:7090/8713/index.m3u8
+#EXTINF:-1,Arta Tv
+https://5.254.81.2:7090/8745/index.m3u8
+#EXTINF:-1,Atv Kosovë
+https://5.254.81.2:7090/8709/index.m3u8
+#EXTINF:-1,Bbf
+https://5.254.81.2:7090/8795/index.m3u8
+#EXTINF:-1,Club Tv
+https://5.254.81.2:7090/8821/index.m3u8
+#EXTINF:-1,Dasma Tv
+https://5.254.81.2:7090/8793/index.m3u8
+#EXTINF:-1,Dukagjini Tv
+https://5.254.81.2:7090/8788/index.m3u8
+#EXTINF:-1,Elrodi Tv
+https://5.254.81.2:7090/8718/index.m3u8
+#EXTINF:-1,Fax News
+https://5.254.81.2:7090/10022/index.m3u8
+#EXTINF:-1,Film Aksion
+https://5.254.81.2:7090/8742/index.m3u8
+#EXTINF:-1,Folk Plus
+https://5.254.81.2:7090/8759/index.m3u8
+#EXTINF:-1,Jolly
+https://5.254.81.2:7090/8774/index.m3u8
+#EXTINF:-1,Kanal 10 Kosovë
+https://5.254.81.2:7090/8849/index.m3u8
+#EXTINF:-1,KanalD Drama
+https://5.254.81.2:7090/6263/index.m3u8
+#EXTINF:-1,Kanali 7 News
+https://5.254.81.2:7090/8761/index.m3u8
+#EXTINF:-1,Klan Macedonia
+https://5.254.81.2:7090/8789/index.m3u8
+#EXTINF:-1,Ktv Kohavision
+https://5.254.81.2:7090/8705/index.m3u8
+#EXTINF:-1,Kujtesa Sport 1
+https://5.254.81.2:7090/10035/index.m3u8
+#EXTINF:-1,Kujtesa Sport 2
+https://5.254.81.2:7090/10036/index.m3u8
+#EXTINF:-1,Living
+https://5.254.81.2:7090/8771/index.m3u8
+#EXTINF:-1,News 24
+https://5.254.81.2:7090/8724/index.m3u8
+#EXTINF:-1,Ora News
+https://5.254.81.2:7090/8715/index.m3u8
+#EXTINF:-1,Report Tv
+https://5.254.81.2:7090/8707/index.m3u8
+#EXTINF:-1,Rtk 1
+https://5.254.81.2:7090/8702/index.m3u8
+#EXTINF:-1,Rtsh Sat
+https://5.254.81.2:7090/8701/index.m3u8
+#EXTINF:-1,Rtv 21
+https://5.254.81.2:7090/8748/index.m3u8
+#EXTINF:-1,Smile
+https://5.254.81.2:7090/8772/index.m3u8
+#EXTINF:-1,SuperSport 2
+https://5.254.81.2:7090/8734/index.m3u8
+#EXTINF:-1,Syri Vision
+https://5.254.81.2:7090/8784/index.m3u8
+#EXTINF:-1,T7
+https://5.254.81.2:7090/8904/index.m3u8
+#EXTINF:-1,Tip Tv
+https://5.254.81.2:7090/8776/index.m3u8
+#EXTINF:-1,Top News
+https://5.254.81.2:7090/10025/index.m3u8
+#EXTINF:-1,Tring Comedy
+https://5.254.81.2:7090/8767/index.m3u8
+#EXTINF:-1,Tring International
+https://5.254.81.2:7090/8802/index.m3u8
+#EXTINF:-1,Tring Shqip
+https://5.254.81.2:7090/8762/index.m3u8
+#EXTINF:-1,Tring Sport 1
+https://5.254.81.2:7090/8796/index.m3u8
+#EXTINF:-1,Tring Sport 2
+https://5.254.81.2:7090/8797/index.m3u8
+#EXTINF:-1,Tring Sport 3
+https://5.254.81.2:7090/8798/index.m3u8
+#EXTINF:-1,Tring Sport 4
+https://5.254.81.2:7090/8799/index.m3u8
+#EXTINF:-1,Tring Sport News
+https://5.254.81.2:7090/8785/index.m3u8
+#EXTINF:-1,Tring Super
+https://5.254.81.2:7090/8770/index.m3u8
+#EXTINF:-1,Tring Tring
+https://5.254.81.2:7090/8775/index.m3u8
+#EXTINF:-1,Tring World
+https://5.254.81.2:7090/8763/index.m3u8
+#EXTINF:-1,Tv Kopliku
+https://5.254.81.2:7090/2508/index.m3u8
+#EXTINF:-1,Tv Mitrovica
+https://5.254.81.2:7090/8716/index.m3u8
 #EXTINF:-1 group-title="ALB SHQIP TEST TV 🇦🇱" tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",AL SAT HD
 http://212.102.60.40:2200/ALB-EX/Alsat_M_HD_AL-alb/index.m3u8?token=t.me/EXTM3U
 #EXTINF:-1,KLAN HD
