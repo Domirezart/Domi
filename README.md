@@ -151,6 +151,26 @@ http://32.shqiptv.org/korca/albplus/index.m3u8
 https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
 #EXTINF:-1,Atd hd
 http://46.99.146.236/0.m3u8
+#EXTINF:-1,SuperSport 1
+http://212.102.60.40:2200/ALB-EX/Super_Sport_1_FHD_VIP_AL-alb/index.m3u8?token=t.me/EXTM3U
+#EXTINF:-1,SuperSport 2
+http://212.102.60.40:2200/ALB-EX/Super_Sport_2_FHD_VIP_AL-alb/index.m3u8?token=t.me/EXTM3U
+#EXTINF:-1,SuperSport 3
+http://212.102.60.40:2200/ALB-EX/Super_Sport_3_FHD_VIP_AL-alb/index.m3u8?token=t.me/EXTM3U
+#EXTINF:-1,SuperSport 4
+http://212.102.60.40:2200/ALB-EX/Super_Sport_4_FHD_VIP_AL-alb/index.m3u8?token=t.me/EXTM3U
+#EXTINF:-1,SuperSport 5
+http://212.102.60.40:2200/ALB-EX/Super_Sport_5_FHD_VIP_AL-alb/index.m3u8?token=t.me/EXTM3U
+#EXTINF:-1,SuperSport 6
+http://212.102.60.40:2200/ALB-EX/Super_Sport_6_FHD_VIP_AL-alb/index.m3u8?token=t.me/EXTM3U
+#EXTINF:-1,Tring Sport 1
+http://212.102.60.40:2200/ALB-EX/Tring_Sport_1_FHD_VIP_AL-alb/index.m3u8?token=t.me/EXTM3U
+#EXTINF:-1,Tring Sport 2
+http://212.102.60.40:2200/ALB-EX/Tring_Sport_2_FHD_VIP_AL-alb/index.m3u8?token=t.me/EXTM3U
+#EXTINF:-1,Tring Sport 3
+http://212.102.60.40:2200/ALB-EX/Tring_Sport_3_FHD_VIP_AL-alb/index.m3u8?token=t.me/EXTM3U
+#EXTINF:-1,Tring Sport 4
+http://212.102.60.40:2200/ALB-EX/Tring_Sport_4_FHD_VIP_AL-alb/index.m3u8?token=t.me/EXTM3U
 #EXTINF:-1,Tring sport1
 https://srv1.iptviliria.com/TringSport1HD/index.m3u8?token=undefined
 #EXTINF:-1,Tring sport2
