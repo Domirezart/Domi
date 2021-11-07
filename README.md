@@ -498,7 +498,7 @@ http://ott-albkanale.duckdns.org/out/u/163_1.m3u8
 #EXTINF:-1,tv johaniter
 https://nesertv.live/webstream/tracks-v1a1/mono.m3u8
 #EXTINF:-1,shijak tv live stream
-https://www.youtube.com/watch?v=un1vzBzgX-E
+https://www.youtube.com/watch?v=PwQjlqmztpU
 #EXTINF:-1,ora hd
 http://ott-albkanale.duckdns.org/out/u/343_1.m3u8
 #EXTINF:-1,news 7
