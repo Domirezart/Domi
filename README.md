@@ -1,6 +1,21 @@
 #EXTM3U
 #EXTINF:-1 group-title="ALB INDIA TV 🇮🇳 "tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",ZEE TV
 https://feed.play.mv/live/10005200/HXW3hMDfn5/master.m3u8
+#EXTINF:-1,SONY ENTERTAINMENT HD
+https://feed.play.mv/live/10005200/7Lc21Ikj4q/master.m3u8
+#EXTINF:-1,SONY MAX HD
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/10005200/Xe5PWNrbRZ/1.m3u8
+#EXTINF:-1,SONY PIX HD
+https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
+#EXTINF:-1,HUM HD
+https://feed.play.mv/live/1009/h5T18oYbas/master.m3u8
+#EXTINF:-1,HUM MASALA
+https://feed.play.mv/live/1009/uRdwlkNe1U/master.m3u8
+#EXTINF:-1,SONY SAB
+https://feed.play.mv/live/1009/LdG80WcrbS/master.m3u8
+#EXTINF:-1,GEM TV
+https://feed.play.mv/live/1009/agmwLb8LUD/master.m3u8
 #EXTINF:-1,ZEE CINEMA
 https://feed.play.mv/live/1009/U4igJyzIbn/master.m3u8
 #EXTINF:-1,B4U MUSIC
