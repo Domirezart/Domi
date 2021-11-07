@@ -1,4 +1,90 @@
 #EXTM3U
+#EXTINF:-1 group-title="ALB INDIA TV 🇮🇳 "tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",ZEE TV
+https://feed.play.mv/live/10005200/HXW3hMDfn5/master.m3u8
+#EXTINF:-1,ZEE CINEMA
+https://feed.play.mv/live/1009/U4igJyzIbn/master.m3u8
+#EXTINF:-1,B4U MUSIC
+https://feed.play.mv/live/1009/n6W19r2lg7/master.m3u8
+#EXTINF:-1,CRIME INVESTIGATION
+https://feed.play.mv/live/10005200/37MP1b7MI1/master.m3u8
+#EXTINF:-1,HITS HD
+https://feed.play.mv/live/1009/Lvcls9NpJT/master.m3u8
+#EXTINF:-1,HITS MOVIES HD
+https://feed.play.mv/live/1009/OD8M4673DS/master.m3u8
+#EXTINF:-1,COLOURS HD
+https://feed.play.mv/live/10005200/6G8zJ9XsyB/master.m3u8
+#EXTINF:-1,CINEPLEX HD
+https://feed.play.mv/live/10005200/ABTuyrBr22/master.m3u8
+#EXTINF:-1,CINEMA EUROPE HD
+https://feed.play.mv/live/10005200/Ts9R8pNNTP/master.m3u8
+#EXTINF:-1,&TV HD
+https://feed.play.mv/live/1009/Cs525PFAub/master.m3u8
+#EXTINF:-1,ANIMAX HD
+https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
+#EXTINF:-1,SMITHSONIAN CHANNEL HD
+https://feed.play.mv/live/1009/Ffcnij939j/master.m3u8
+#EXTINF:-1,BBC EARTH HD
+https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
+#EXTINF:-1,DA-VINCCI KIDS
+https://feed.play.mv/live/1009/V5eGkRT3A1/master.m3u8
+#EXTINF:-1,KBS WORLD HD
+https://feed.play.mv/live/10005200/s73XpKBMaR/master.m3u8
+#EXTINF:-1,FASHION TV HD
+https://feed.play.mv/live/10005200/tK5q6sJXFy/master.m3u8
+#EXTINF:-1,TVN HD
+https://feed.play.mv/live/10005200/lyQmMBq377/master.m3u8
+#EXTINF:-1,TLC HD
+https://feed.play.mv/live/10005200/HE8qFtMl9Q/master.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+https://feed.play.mv/live/10005200/zC2aLVTjgF/master.m3u8
+#EXTINF:-1,MARVEL HQ
+https://feed.play.mv/live/10005200/niZoVrR2vD/master.m3u8
+#EXTINF:-1,DISNEP JUNIOR
+https://feed.play.mv/live/10005200/o6Yy0uDh9t/master.m3u8
+#EXTINF:-1,DISNEP CHANNEL
+https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
+#EXTINF:-1,DISNEP HD INTERNATIONAL
+https://feed.play.mv/live/10005200/IegKU9vXWg/master.m3u8
+#EXTINF:-1,CBEEBIES HD
+https://feed.play.mv/live/10005200/xU1wA6Ugn9/1.m3u8
+#EXTINF:-1,ZOOMOO HD
+https://feed.play.mv/live/10005200/sdwa8BgXE4/master.m3u8
+#EXTINF:-1,NICK HD
+https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
+#EXTINF:-1,HGTV HD
+https://feed.play.mv/live/10005200/Wvl02Co4S1/1.m3u8
+#EXTINF:-1,DISCOVERY HD
+https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
+#EXTINF:-1,DISCOVERY
+https://feed.play.mv/live/1009/4wC5xmuTf8/master.m3u8 
+#EXTINF:-1,DISCOVERY TURBO
+https://feed.play.mv/live/1009/1UjOk2jBiR/master.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE
+https://feed.play.mv/live/1009/TRKXs71yTR/master.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+https://feed.play.mv/live/10005200/WG2gcEPjHK/master.m3u8
+#EXTINF:-1,LOVE NATURE 4K
+https://feed.play.mv/live/1011/I1AjNshoqG/master.m3u8
+#EXTINF:-1,OUTDOOR CHANNEL
+https://feed.play.mv/live/1009/E6O26jTzFh/master.m3u8
+#EXTINF:-1,TRAVEL CHANNEL HD
+https://feed.play.mv/live/10005200/2dPCepc9DA/master.m3u8
+#EXTINF:-1,HISTORY CHANNEL HD
+https://feed.play.mv/live/10005200/isb9Qf3P5M/master.m3u8
+#EXTINF:-1,HISTORY 2 CHANNEL HD
+https://feed.play.mv/live/10005200/uzBWuYCU0z/master.m3u8
+#EXTINF:-1,PULSE
+https://feed.play.mv/live/1009/u7Ia7Lul0n/master.m3u8
+#EXTINF:-1,UTV MOVIES
+https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
+#EXTINF:-1,TEN1 HD
+https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
+#EXTINF:-1,TEN2 HD
+https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
+#EXTINF:-1,TEN3 HD
+https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
+#EXTINF:-1,SONY SIX HD
+https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
 #EXTINF:-1 group-title="ALB SHQIP Prov TV 🇦🇱"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",Top Channel
 https://5.254.81.2:7090/8708/index.m3u8
 #EXTINF:-1,Klan Tv
