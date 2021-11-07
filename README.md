@@ -4,7 +4,6 @@ https://feed.play.mv/live/10005200/HXW3hMDfn5/master.m3u8
 #EXTINF:-1,SONY ENTERTAINMENT HD
 https://feed.play.mv/live/10005200/7Lc21Ikj4q/master.m3u8
 #EXTINF:-1,SONY MAX HD
-#EXTVLCOPT:program=1
 https://feed.play.mv/live/10005200/Xe5PWNrbRZ/1.m3u8
 #EXTINF:-1,SONY PIX HD
 https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
