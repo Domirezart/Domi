@@ -113,6 +113,16 @@ http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/888.ts
 http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/8765.ts
 #EXTINF:-1,TEN Sports
 http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/307.ts
+#EXTINF:-1 group-title="ALB SHQIP FILM 📽 🇦🇱"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",x
+https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
+#EXTINF:-1,CINEMAX
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+#EXTINF:-1,HBO FAMILY
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#EXTINF:-1,HBO HITS
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#EXTINF:-1,HBO SIGNATURE
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 #EXTINF:-1 group-title="ALB SHQIP Prov TV 🇦🇱"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",Top Channel
 https://5.254.81.2:7090/8708/index.m3u8
 #EXTINF:-1,Klan Tv
