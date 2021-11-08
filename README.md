@@ -101,6 +101,18 @@ https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
 https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
 #EXTINF:-1,SONY SIX HD
 https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
+#EXTINF:-1,Discovery Channel
+http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/17093.ts
+#EXTINF:-1,Nick HD+
+http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7694.ts
+#EXTINF:-1,TEN 1 HD
+http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/887.ts
+#EXTINF:-1,TEN 2 HD
+http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/888.ts
+#EXTINF:-1,TEN 3 HD
+http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/8765.ts
+#EXTINF:-1,TEN Sports
+http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/307.ts
 #EXTINF:-1 group-title="ALB SHQIP Prov TV 🇦🇱"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",Top Channel
 https://5.254.81.2:7090/8708/index.m3u8
 #EXTINF:-1,Klan Tv
