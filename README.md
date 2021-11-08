@@ -19,6 +19,8 @@ https://feed.play.mv/live/1009/agmwLb8LUD/master.m3u8
 https://feed.play.mv/live/1009/U4igJyzIbn/master.m3u8
 #EXTINF:-1,B4U MUSIC
 https://feed.play.mv/live/1009/n6W19r2lg7/master.m3u8
+#EXTINF:-1,SOORIYAN TV 
+https://59d39900ebfb8.streamlock.net/Sooriyantv/Sooriyantv/chunklist.m3u8
 #EXTINF:-1,CRIME INVESTIGATION
 https://feed.play.mv/live/10005200/37MP1b7MI1/master.m3u8
 #EXTINF:-1,HITS HD
