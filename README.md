@@ -1,4 +1,52 @@
 #EXTM3U
+#EXTINF:-1 group-title="ALB WORLD SPORT 🏟 "tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",BEIN SPORT1
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/149
+#EXTINF:-1,BEIN SPORT2
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/147
+#EXTINF:-1,BEIN SPORT3
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/146
+#EXTINF:-1,BEIN SPORT4
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/145
+#EXTINF:-1,BEIN SPORT5
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/144
+#EXTINF:-1,BEIN SPORT6
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/143
+#EXTINF:-1,BEIN SPORT7
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/142
+#EXTINF:-1,SUPERSPORT 1
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/17
+#EXTINF:-1,SUPERSPORT 2
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/18
+#EXTINF:-1,SUPERSPORT 3
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/19
+#EXTINF:-1,SUPERSPORT 4
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/20
+#EXTINF:-1,TRINGSPORT 1
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/78
+#EXTINF:-1,TRINGSPORT 2
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/79
+#EXTINF:-1,TRINGSPORT 3
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/80
+#EXTINF:-1,TRINGSPORT 4
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/81
+#EXTINF:-1,ARENASPORT 1
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/125
+#EXTINF:-1,ARENASPORT 2
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/127
+#EXTINF:-1,ARENASPORT 3
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/128
+#EXTINF:-1,ARENASPORT 4
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/129
+#EXTINF:-1,ARENASPORT 5
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/130
+#EXTINF:-1,DIGISPORT 1
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/85
+#EXTINF:-1,DIGISPORT 2
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/86
+#EXTINF:-1,DIGISPORT 3
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/87
+#EXTINF:-1,DIGISPORT 4
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/88
 #EXTINF:-1 group-title="ALB INDIA TV 🇮🇳 "tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",ZEE TV
 https://feed.play.mv/live/10005200/HXW3hMDfn5/master.m3u8
 #EXTINF:-1,SONY ENTERTAINMENT HD
@@ -101,18 +149,6 @@ https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
 https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
 #EXTINF:-1,SONY SIX HD
 https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
-#EXTINF:-1,Discovery Channel
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/17093.ts
-#EXTINF:-1,Nick HD+
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7694.ts
-#EXTINF:-1,TEN 1 HD
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/887.ts
-#EXTINF:-1,TEN 2 HD
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/888.ts
-#EXTINF:-1,TEN 3 HD
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/8765.ts
-#EXTINF:-1,TEN Sports
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/307.ts
 #EXTINF:-1 group-title="ALB SHQIP FILM 📽 🇦🇱"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/4.m3u8
 #EXTINF:-1,CINEMAX
