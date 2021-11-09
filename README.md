@@ -75,6 +75,16 @@ https://kanale.cdn-stream.com:30443/live/ts2/playlist.m3u8
 https://kanale.cdn-stream.com:30443/live/ts3/playlist.m3u8
 #EXTINF:-1,ts4
 https://kanale.cdn-stream.com:30443/live/ts4/playlist.m3u8
+#EXTINF:-1,ss1
+http://93.157.62.180/Supersport1/tracks-v1a1/mono.m3u8?SBN
+#EXTINF:-1,ss2
+http://93.157.62.180/Supersport2/tracks-v1a1/mono.m3u8?SBN
+#EXTINF:-1,ss3
+http://93.157.62.180/Supersport3/tracks-v1a1/mono.m3u8?SBN
+#EXTINF:-1,ss4
+http://93.157.62.180/Supersport4/tracks-v1a1/mono.m3u8?SBN
+#EXTINF:-1,ss5
+http://93.157.62.180/Supersport5/tracks-v1a1/mono.m3u8?SBN
 #EXTINF:-1 group-title="ALB SHQIP TV 🇦🇱"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",Top Channel
 https://5.254.89.106:7090/8708/index.m3u8
 #EXTINF:-1,Klan Tv
