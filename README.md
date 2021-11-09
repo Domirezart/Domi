@@ -1,147 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="ALB WORLD SPORT 🏟 "tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",BEIN SPORT1
-http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/149
-#EXTINF:-1,BEIN SPORT2
-http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/147
-#EXTINF:-1,BEIN SPORT3
-http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/146
-#EXTINF:-1,BEIN SPORT4
-http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/145
-#EXTINF:-1,BEIN SPORT5
-http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/144
-#EXTINF:-1,BEIN SPORT6
-http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/143
-#EXTINF:-1,BEIN SPORT7
-http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/142
-#EXTINF:-1,SUPERSPORT 1
-http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/17
-#EXTINF:-1,SUPERSPORT 2
-http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/18
-#EXTINF:-1,SUPERSPORT 3
-http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/19
-#EXTINF:-1,SUPERSPORT 4
-http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/20
-#EXTINF:-1,TRINGSPORT 1
-http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/78
-#EXTINF:-1,TRINGSPORT 2
-http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/79
-#EXTINF:-1,TRINGSPORT 3
-http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/80
-#EXTINF:-1,TRINGSPORT 4
-http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/81
-#EXTINF:-1,ARENASPORT 1
-http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/125
-#EXTINF:-1,ARENASPORT 2
-http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/127
-#EXTINF:-1,ARENASPORT 3
-http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/128
-#EXTINF:-1,ARENASPORT 4
-http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/129
-#EXTINF:-1,ARENASPORT 5
-http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/130
-#EXTINF:-1,DIGISPORT 1
-http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/85
-#EXTINF:-1,DIGISPORT 2
-http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/86
-#EXTINF:-1,DIGISPORT 3
-http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/87
-#EXTINF:-1,DIGISPORT 4
-http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/88
-#EXTINF:-1 group-title="ALB INDIA TV 🇮🇳 "tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",ZEE TV
-https://feed.play.mv/live/10005200/HXW3hMDfn5/master.m3u8
-#EXTINF:-1,SONY ENTERTAINMENT HD
-https://feed.play.mv/live/10005200/7Lc21Ikj4q/master.m3u8
-#EXTINF:-1,SONY MAX HD
-https://feed.play.mv/live/10005200/Xe5PWNrbRZ/1.m3u8
-#EXTINF:-1,SONY PIX HD
-https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
-#EXTINF:-1,HUM HD
-https://feed.play.mv/live/1009/h5T18oYbas/master.m3u8
-#EXTINF:-1,HUM MASALA
-https://feed.play.mv/live/1009/uRdwlkNe1U/master.m3u8
-#EXTINF:-1,SONY SAB
-https://feed.play.mv/live/1009/LdG80WcrbS/master.m3u8
-#EXTINF:-1,GEM TV
-https://feed.play.mv/live/1009/agmwLb8LUD/master.m3u8
-#EXTINF:-1,ZEE CINEMA
-https://feed.play.mv/live/1009/U4igJyzIbn/master.m3u8
-#EXTINF:-1,B4U MUSIC
-https://feed.play.mv/live/1009/n6W19r2lg7/master.m3u8
-#EXTINF:-1,SOORIYAN TV 
-https://59d39900ebfb8.streamlock.net/Sooriyantv/Sooriyantv/chunklist.m3u8
-#EXTINF:-1,CRIME INVESTIGATION
-https://feed.play.mv/live/10005200/37MP1b7MI1/master.m3u8
-#EXTINF:-1,HITS HD
-https://feed.play.mv/live/1009/Lvcls9NpJT/master.m3u8
-#EXTINF:-1,HITS MOVIES HD
-https://feed.play.mv/live/1009/OD8M4673DS/master.m3u8
-#EXTINF:-1,COLOURS HD
-https://feed.play.mv/live/10005200/6G8zJ9XsyB/master.m3u8
-#EXTINF:-1,CINEPLEX HD
-https://feed.play.mv/live/10005200/ABTuyrBr22/master.m3u8
-#EXTINF:-1,CINEMA EUROPE HD
-https://feed.play.mv/live/10005200/Ts9R8pNNTP/master.m3u8
-#EXTINF:-1,&TV HD
-https://feed.play.mv/live/1009/Cs525PFAub/master.m3u8
-#EXTINF:-1,ANIMAX HD
-https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
-#EXTINF:-1,SMITHSONIAN CHANNEL HD
-https://feed.play.mv/live/1009/Ffcnij939j/master.m3u8
-#EXTINF:-1,BBC EARTH HD
-https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
-#EXTINF:-1,DA-VINCCI KIDS
-https://feed.play.mv/live/1009/V5eGkRT3A1/master.m3u8
-#EXTINF:-1,KBS WORLD HD
-https://feed.play.mv/live/10005200/s73XpKBMaR/master.m3u8
-#EXTINF:-1,FASHION TV HD
-https://feed.play.mv/live/10005200/tK5q6sJXFy/master.m3u8
-#EXTINF:-1,TVN HD
-https://feed.play.mv/live/10005200/lyQmMBq377/master.m3u8
-#EXTINF:-1,TLC HD
-https://feed.play.mv/live/10005200/HE8qFtMl9Q/master.m3u8
-#EXTINF:-1,PARAMOUNT CHANNEL HD
-https://feed.play.mv/live/10005200/zC2aLVTjgF/master.m3u8
-#EXTINF:-1,MARVEL HQ
-https://feed.play.mv/live/10005200/niZoVrR2vD/master.m3u8
-#EXTINF:-1,DISNEP JUNIOR
-https://feed.play.mv/live/10005200/o6Yy0uDh9t/master.m3u8
-#EXTINF:-1,DISNEP CHANNEL
-https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
-#EXTINF:-1,DISNEP HD INTERNATIONAL
-https://feed.play.mv/live/10005200/IegKU9vXWg/master.m3u8
-#EXTINF:-1,CBEEBIES HD
-https://feed.play.mv/live/10005200/xU1wA6Ugn9/1.m3u8
-#EXTINF:-1,ZOOMOO HD
-https://feed.play.mv/live/10005200/sdwa8BgXE4/master.m3u8
-#EXTINF:-1,NICK HD
-https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
-#EXTINF:-1,HGTV HD
-https://feed.play.mv/live/10005200/Wvl02Co4S1/1.m3u8
-#EXTINF:-1,DISCOVERY HD
-https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
-#EXTINF:-1,DISCOVERY
-https://feed.play.mv/live/1009/4wC5xmuTf8/master.m3u8 
-#EXTINF:-1,DISCOVERY TURBO
-https://feed.play.mv/live/1009/1UjOk2jBiR/master.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE
-https://feed.play.mv/live/1009/TRKXs71yTR/master.m3u8
-#EXTINF:-1,ANIMAL PLANET HD
-https://feed.play.mv/live/10005200/WG2gcEPjHK/master.m3u8
-#EXTINF:-1,LOVE NATURE 4K
-https://feed.play.mv/live/1011/I1AjNshoqG/master.m3u8
-#EXTINF:-1,OUTDOOR CHANNEL
-https://feed.play.mv/live/1009/E6O26jTzFh/master.m3u8
-#EXTINF:-1,TRAVEL CHANNEL HD
-https://feed.play.mv/live/10005200/2dPCepc9DA/master.m3u8
-#EXTINF:-1,HISTORY CHANNEL HD
-https://feed.play.mv/live/10005200/isb9Qf3P5M/master.m3u8
-#EXTINF:-1,HISTORY 2 CHANNEL HD
-https://feed.play.mv/live/10005200/uzBWuYCU0z/master.m3u8
-#EXTINF:-1,PULSE
-https://feed.play.mv/live/1009/u7Ia7Lul0n/master.m3u8
-#EXTINF:-1,UTV MOVIES
-https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
-#EXTINF:-1,TEN1 HD
+#EXTINF:-1 group-title="ALB SPORT TV 🇦🇱 "tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",TEN1 HD
 https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
 #EXTINF:-1,TEN2 HD
 https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
@@ -149,19 +7,75 @@ https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
 https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
 #EXTINF:-1,SONY SIX HD
 https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
-#EXTINF:-1 group-title="ALB SHQIP FILM 📽 🇦🇱"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/4.m3u8
-#EXTINF:-1,CINEMAX
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/4.m3u8
-#EXTINF:-1,HBO FAMILY
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/4.m3u8
-#EXTINF:-1,HBO RED
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/4.m3u8
-#EXTINF:-1,HBO HITS
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/4.m3u8
-#EXTINF:-1,HBO SIGNATURE
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/4.m3u8
-#EXTINF:-1 group-title="ALB SHQIP Prov TV 🇦🇱"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",Top Channel
+#EXTINF:-1,Tring Sport 1
+https://5.254.81.2:7090/8796/index.m3u8
+#EXTINF:-1,Tring Sport 2
+https://5.254.81.2:7090/8797/index.m3u8
+#EXTINF:-1,Tring Sport 3
+https://5.254.81.2:7090/8798/index.m3u8
+#EXTINF:-1,Tring Sport 4
+https://5.254.81.2:7090/8799/index.m3u8
+#EXTINF:-1,Tring sport1
+https://srv1.iptviliria.com/TringSport1HD/index.m3u8?token=undefined
+#EXTINF:-1,Tring sport2
+https://srv1.iptviliria.com/TringSport2HD/index.m3u8?token=undefined
+#EXTINF:-1,Super Sport1
+https://srv1.iptviliria.com/Supersport1/index.m3u8?token=undefined
+#EXTINF:-1,Super Sport2
+https://srv1.iptviliria.com/Supersport2/index.m3u8?token=undefined
+#EXTINF:-1,Super Sport3
+https://srv1.iptviliria.com/Supersport3/index.m3u8?token=undefined
+#EXTINF:-1,Super Sport4
+https://srv1.iptviliria.com/Supersport4/index.m3u8?token=undefined
+#EXTINF:-1,Super Sport5
+https://srv1.iptviliria.com/Supersport5/index.m3u8?token=undefined
+#EXTINF:-1,Super Sport6
+https://srv1.iptviliria.com/Supersport6/index.m3u8?token=undefined
+#EXTINF:-1,Super Sport7
+https://srv1.iptviliria.com/Supersport7/index.m3u8?token=undefined
+#EXTINF:-1,K sport1
+https://srv1.iptviliria.com/KSport1/index.m3u8?token=undefined
+#EXTINF:-1,K sport2
+https://srv1.iptviliria.com/KSport2/index.m3u8?token=undefined
+#EXTINF:-1,K sport3
+https://srv1.iptviliria.com/KSport3/index.m3u8?token=undefined
+#EXTINF:-1,K Sport4
+https://srv1.iptviliria.com/KSport4/index.m3u8?token=undefined
+#EXTINF:-1,tringsport1
+http://stream.bestvideostreaming.is/8796/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
+#EXTINF:-1,tringsport2
+http://stream.bestvideostreaming.is/8797/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
+#EXTINF:-1,tringsport3
+http://stream.bestvideostreaming.is/8798/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
+#EXTINF:-1,tringsport4
+http://stream.bestvideostreaming.is/8799/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
+#EXTINF:-1,SuperSport1
+http://stream.bestvideostreaming.is/10030/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
+#EXTINF:-1,SuperSport2
+http://stream.bestvideostreaming.is/8734/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
+#EXTINF:-1,SuperSport3
+http://stream.bestvideostreaming.is/8741/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
+#EXTINF:-1,SuperSport4
+http://stream.bestvideostreaming.is/8743/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
+#EXTINF:-1,SuperSport5
+http://stream.bestvideostreaming.is/8736/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
+#EXTINF:-1,Tring sport 1
+http://95.107.132.106/out/u/683_2.m3u8
+#EXTINF:-1,Tring sport 2
+http://95.107.132.106/out/u/692_2.m3u8
+#EXTINF:-1,Tring sport 3
+http://95.107.132.106/out/u/699_2.m3u8
+#EXTINF:-1,Tring sport 4
+http://95.107.132.106/out/u/713_4.m3u8
+#EXTINF:-1,ts1 
+https://kanale.cdn-stream.com:30443/live/ts1/playlist.m3u8
+#EXTINF:-1,ts2
+https://kanale.cdn-stream.com:30443/live/ts2/playlist.m3u8
+#EXTINF:-1,ts3
+https://kanale.cdn-stream.com:30443/live/ts3/playlist.m3u8
+#EXTINF:-1,ts4
+https://kanale.cdn-stream.com:30443/live/ts4/playlist.m3u8
+#EXTINF:-1 group-title="ALB SHQIP TV 🇦🇱"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",Top Channel
 https://5.254.89.106:7090/8708/index.m3u8
 #EXTINF:-1,Klan Tv
 https://5.254.89.106:7090/8704/index.m3u8
@@ -243,14 +157,6 @@ https://5.254.81.2:7090/8767/index.m3u8
 https://5.254.81.2:7090/8802/index.m3u8
 #EXTINF:-1,Tring Shqip
 https://5.254.81.2:7090/8762/index.m3u8
-#EXTINF:-1,Tring Sport 1
-https://5.254.81.2:7090/8796/index.m3u8
-#EXTINF:-1,Tring Sport 2
-https://5.254.81.2:7090/8797/index.m3u8
-#EXTINF:-1,Tring Sport 3
-https://5.254.81.2:7090/8798/index.m3u8
-#EXTINF:-1,Tring Sport 4
-https://5.254.81.2:7090/8799/index.m3u8
 #EXTINF:-1,Tring Sport News
 https://5.254.81.2:7090/8785/index.m3u8
 #EXTINF:-1,Tring Super
@@ -263,17 +169,7 @@ https://5.254.81.2:7090/8763/index.m3u8
 https://5.254.81.2:7090/2508/index.m3u8
 #EXTINF:-1,Tv Mitrovica
 https://5.254.81.2:7090/8716/index.m3u8
-#EXTINF:-1 group-title="ALB SHQIP TEST TV 🇦🇱" tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",AL SAT HD
-http://212.102.60.40:2200/ALB-EX/Alsat_M_HD_AL-alb/index.m3u8?token=t.me/EXTM3U
-#EXTINF:-1,KLAN HD
-http://212.102.60.40:2200/ALB-EX/Klan_HD_AL-alb/index.m3u8?token=t.me/EXTM3U
-#EXTINF:-1,TOP CHANNEL HD
-http://212.102.60.40:2200/ALB-EX/Top_Channel_HD_AL-alb/index.m3u8?token=t.me/EXTM3U
-#EXTINF:-1,VIZION PLUS HD
-http://212.102.60.40:2200/ALB-EX/Vizion_Plus_FHD_VIP_AL-alb/index.m3u8?token=t.me/EXTM3U
-#EXTINF:-1,KLAN PLUS HD
-http://212.102.60.40:2200/ALB-EX/Klan_Plus_HD_AL-alb/index.m3u8?token=t.me/EXTM3U
-#EXTINF:-1,top channel
+#EXTINF:-1 group-title="ALB SHQIP TEST TV 🇦🇱" tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",top channel
 https://srv1.iptviliria.com/TopChannel/index.m3u8?token=undefined
 #EXTINF:-1,Big brother1
 https://srv1.iptviliria.com/BigBrother1/index.m3u8?token=undefined
@@ -415,52 +311,6 @@ http://32.shqiptv.org/korca/albplus/index.m3u8
 https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
 #EXTINF:-1,Atd hd
 http://46.99.146.236/0.m3u8
-#EXTINF:-1,SuperSport 1
-http://212.102.60.40:2200/ALB-EX/Super_Sport_1_FHD_VIP_AL-alb/index.m3u8?token=t.me/EXTM3U
-#EXTINF:-1,SuperSport 2
-http://212.102.60.40:2200/ALB-EX/Super_Sport_2_FHD_VIP_AL-alb/index.m3u8?token=t.me/EXTM3U
-#EXTINF:-1,SuperSport 3
-http://212.102.60.40:2200/ALB-EX/Super_Sport_3_FHD_VIP_AL-alb/index.m3u8?token=t.me/EXTM3U
-#EXTINF:-1,SuperSport 4
-http://212.102.60.40:2200/ALB-EX/Super_Sport_4_FHD_VIP_AL-alb/index.m3u8?token=t.me/EXTM3U
-#EXTINF:-1,SuperSport 5
-http://212.102.60.40:2200/ALB-EX/Super_Sport_5_FHD_VIP_AL-alb/index.m3u8?token=t.me/EXTM3U
-#EXTINF:-1,SuperSport 6
-http://212.102.60.40:2200/ALB-EX/Super_Sport_6_FHD_VIP_AL-alb/index.m3u8?token=t.me/EXTM3U
-#EXTINF:-1,Tring Sport 1
-http://212.102.60.40:2200/ALB-EX/Tring_Sport_1_FHD_VIP_AL-alb/index.m3u8?token=t.me/EXTM3U
-#EXTINF:-1,Tring Sport 2
-http://212.102.60.40:2200/ALB-EX/Tring_Sport_2_FHD_VIP_AL-alb/index.m3u8?token=t.me/EXTM3U
-#EXTINF:-1,Tring Sport 3
-http://212.102.60.40:2200/ALB-EX/Tring_Sport_3_FHD_VIP_AL-alb/index.m3u8?token=t.me/EXTM3U
-#EXTINF:-1,Tring Sport 4
-http://212.102.60.40:2200/ALB-EX/Tring_Sport_4_FHD_VIP_AL-alb/index.m3u8?token=t.me/EXTM3U
-#EXTINF:-1,Tring sport1
-https://srv1.iptviliria.com/TringSport1HD/index.m3u8?token=undefined
-#EXTINF:-1,Tring sport2
-https://srv1.iptviliria.com/TringSport2HD/index.m3u8?token=undefined
-#EXTINF:-1,Super Sport1
-https://srv1.iptviliria.com/Supersport1/index.m3u8?token=undefined
-#EXTINF:-1,Super Sport2
-https://srv1.iptviliria.com/Supersport2/index.m3u8?token=undefined
-#EXTINF:-1,Super Sport3
-https://srv1.iptviliria.com/Supersport3/index.m3u8?token=undefined
-#EXTINF:-1,Super Sport4
-https://srv1.iptviliria.com/Supersport4/index.m3u8?token=undefined
-#EXTINF:-1,Super Sport5
-https://srv1.iptviliria.com/Supersport5/index.m3u8?token=undefined
-#EXTINF:-1,Super Sport6
-https://srv1.iptviliria.com/Supersport6/index.m3u8?token=undefined
-#EXTINF:-1,Super Sport7
-https://srv1.iptviliria.com/Supersport7/index.m3u8?token=undefined
-#EXTINF:-1,K sport1
-https://srv1.iptviliria.com/KSport1/index.m3u8?token=undefined
-#EXTINF:-1,K sport2
-https://srv1.iptviliria.com/KSport2/index.m3u8?token=undefined
-#EXTINF:-1,K sport3
-https://srv1.iptviliria.com/KSport3/index.m3u8?token=undefined
-#EXTINF:-1,K Sport4
-https://srv1.iptviliria.com/KSport4/index.m3u8?token=undefined
 #EXTINF:-1,Art sport1
 https://srv1.iptviliria.com/ArtSport1HD/index.m3u8?token=undefined
 #EXTINF:-1,Art sport2
