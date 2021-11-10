@@ -85,6 +85,38 @@ http://93.157.62.180/Supersport3/tracks-v1a1/mono.m3u8?SBN
 http://93.157.62.180/Supersport4/tracks-v1a1/mono.m3u8?SBN
 #EXTINF:-1,ss5
 http://93.157.62.180/Supersport5/tracks-v1a1/mono.m3u8?SBN
+#EXTINF:-1 group-title="ALB FILM SHQIP TV 🇦🇱"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",Premiere 1 HD
+http://46.4.40.167/Premiere1/index.m3u8
+#EXTINF:-1 ,Premiere 2 HD
+http://46.4.40.167/Premiere2/index.m3u8
+#EXTINF:-1 ,Premiere 3 HD
+http://46.4.40.167/Premiere3/index.m3u8
+#EXTINF:-1 ,Premiere 4 HD
+http://46.4.40.167/Premiere4/index.m3u8
+#EXTINF:-1 ,Action
+http://46.4.40.167/action/index.m3u8
+#EXTINF:-1 ,Drama
+http://46.4.40.167/drama/index.m3u8
+#EXTINF:-1 ,Gold
+http://46.4.40.167/gold/index.m3u8
+#EXTINF:-1 ,GOLD 1
+http://46.4.40.167/gold1/index.m3u8
+#EXTINF:-1 ,GOLD 2
+http://46.4.40.167/gold2/index.m3u8
+#EXTINF:-1 ,GOLD 3
+http://46.4.40.167/gold3/index.m3u8
+#EXTINF:-1 ,GOLD 4
+http://46.4.40.167/gold4/index.m3u8
+#EXTINF:-1 ,Sci-Fi
+http://46.4.40.167/scifi/index.m3u8
+#EXTINF:-1 ,Comedy
+http://46.4.40.167/comedy/index.m3u8
+#EXTINF:-1 ,Family
+http://46.4.40.167/family/index.m3u8
+#EXTINF:-1 ,Dark
+http://46.4.40.167/dark/index.m3u8
+#EXTINF:-1 ,Western
+http://46.4.40.167/western/index.m3u8
 #EXTINF:-1 group-title="ALB SHQIP TV 🇦🇱"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",Top Channel
 https://5.254.89.106:7090/8708/index.m3u8
 #EXTINF:-1,Klan Tv
