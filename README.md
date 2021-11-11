@@ -97,6 +97,8 @@ http://46.4.40.167/Premiere4/index.m3u8
 http://46.4.40.167/action/index.m3u8
 #EXTINF:-1 ,Drama
 http://46.4.40.167/drama/index.m3u8
+#EXTINF:-1,Thriller
+http://46.4.40.167/Thriller/index.m3u8
 #EXTINF:-1 ,Gold
 http://46.4.40.167/gold/index.m3u8
 #EXTINF:-1 ,GOLD 1
@@ -116,7 +118,7 @@ http://46.4.40.167/family/index.m3u8
 #EXTINF:-1 ,Dark
 http://46.4.40.167/dark/index.m3u8
 #EXTINF:-1 ,Western
-http://46.4.40.167/western/index.m3u8
+http://46.4.40.167/west/index.m3u8
 #EXTINF:-1 group-title="ALB SHQIP TV 🇦🇱"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",Top Channel
 https://5.254.89.106:7090/8708/index.m3u8
 #EXTINF:-1,Klan Tv
