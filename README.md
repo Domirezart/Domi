@@ -120,19 +120,19 @@ http://46.4.40.167/dark/index.m3u8
 #EXTINF:-1 ,Western
 http://46.4.40.167/west/index.m3u8
 #EXTINF:-1 group-title="ALB SHQIP TV 🇦🇱"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",Top Channel
-https://5.254.89.106:7090/8708/index.m3u8
+https://5.254.89.106:7090/8708/playlist.m3u8
 #EXTINF:-1,Klan Tv
-https://5.254.89.106:7090/8704/index.m3u8
+https://5.254.89.106:7090/8704/playlist.m3u8
 #EXTINF:-1,Vizion Plus
-https://5.254.89.106:7090/8703/index.m3u8
+https://5.254.89.106:7090/8703/playlist.m3u8
 #EXTINF:-1,Klan Plus
-https://5.254.89.106:7090/8720/index.m3u8
+https://5.254.89.106:7090/8720/playlist.m3u8
 #EXTINF:-1,Alsat M
-https://5.254.89.106:7090/8713/index.m3u8
+https://5.254.89.106:7090/8713/playlist.m3u8
 #EXTINF:-1,3 Plus
-https://5.254.81.2:7090/8773/index.m3u8
+https://5.254.81.2:7090/8773/playlist.m3u8
 #EXTINF:-1,Abc
-https://5.254.81.2:7090/10023/index.m3u8
+https://5.254.81.2:7090/10023/playlist.m3u8
 #EXTINF:-1,Arta Tv
 https://5.254.81.2:7090/8745/index.m3u8
 #EXTINF:-1,Atv Kosovë
