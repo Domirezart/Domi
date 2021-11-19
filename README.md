@@ -549,6 +549,8 @@ http://ott-albkanale.duckdns.org/out/u/205_1.m3u8
 https://deb10stream.duckdns.org/hls/stream.m3u8
 #EXTINF:-1,vizion plus
 http://95.107.132.106/out/u/gfhsghshsgfhsfgh.m3u8
+#EXTINF:-1,start tv
+http://starttv.casacam.net:5500/live/starttv/8888/472.ts
 #EXTINF:-1,tirana tv
 http://ott-albkanale.duckdns.org/out/u/163_1.m3u8
 #EXTINF:-1,tv johaniter
