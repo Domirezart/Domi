@@ -11,8 +11,14 @@ https://sc.id-tv.kz/Nickelodeon.m3u8
 https://sc.id-tv.kz/NickJr.m3u8
 #EXTINF:-1,NatGeo_Wild
 https://sc.id-tv.kz/NatGeoWildHD.m3u8
-#EXTINF:-1,o
+#EXTINF:-1,o tv
 https://sc.id-tv.kz/o.m3u8
+#EXTINF:-1,Abai tv
+https://sc.id-tv.kz/AbaiTV.m3u8
+#EXTINF:-1,A1 tv
+https://sc.id-tv.kz/A1.m3u8
+#EXTINF:-1,A2 tv
+https://sc.id-tv.kz/A2.m3u8
 #EXTINF:-1 group-title="ALB SPORT TV 🇦🇱 "tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",TEN1 HD
 https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
 #EXTINF:-1,TEN2 HD
