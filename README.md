@@ -11,6 +11,8 @@ http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/107.ts
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/167.ts
 #EXTINF:-1,Alsat
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/116.ts
+#EXTINF:-1,Euronews
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/162.ts
 #EXTINF:-1,NatGeo_Wild
 https://sc.id-tv.kz/NatGeoWildHD.m3u8
 #EXTINF:-1 group-title="ALB SPORT TV 🇦🇱 "tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",TEN1 HD
