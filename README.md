@@ -139,7 +139,7 @@ http://46.4.40.167/family/index.m3u8
 http://46.4.40.167/dark/index.m3u8
 #EXTINF:-1 ,Western
 http://46.4.40.167/west/index.m3u8
-#EXTINF:-1 group-title="ALB SHQIP TV 🇦🇱"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",Top Channel
+#EXTINF:-1 group-title="ALB SHQIP TV 1🇦🇱"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",Top Channel
 https://5.254.89.106:7090/8708/index.m3u8
 #EXTINF:-1,Klan Tv
 https://5.254.89.106:7090/8704/index.m3u8
@@ -435,7 +435,7 @@ https://srv1.iptviliria.com/PinkShow/mono.m3u8?token=undefined
 https://srv1.iptviliria.com/PinkMusic/mono.m3u8?token=undefined
 #EXTINF:-1,pink music 2
 https://srv1.iptviliria.com/PinkMusic2/mono.m3u8?token=undefined
-#EXTINF:-1group-title="ALB SHQIP TV 🇦🇱"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",Top Channel Hd
+#EXTINF:-1group-title="ALB SHQIP TV 2🇦🇱"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",Top Channel Hd
 https://kanale.cdn-stream.com:30443/live/top/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyMSA2OjI3OjMwIEFNJmhhc2hfdmFsdWU9a042Vk5DazJKMUE0UTNlVHc4MXE1UT09JnZhbGlkbWludXRlcz00MCZzdHJtX2xlbj00
 #EXTINF:-1,klan hd
 https://kanale.cdn-stream.com:30443/live/klan/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyMSA2OjI3OjMwIEFNJmhhc2hfdmFsdWU9a042Vk5DazJKMUE0UTNlVHc4MXE1UT09JnZhbGlkbWludXRlcz00MCZzdHJtX2xlbj00
@@ -576,7 +576,7 @@ http://ott-albkanale.duckdns.org/out/u/163_1.m3u8
 #EXTINF:-1,tv johaniter
 https://nesertv.live/webstream/tracks-v1a1/mono.m3u8
 #EXTINF:-1,shijak tv live stream
-https://www.youtube.com/watch?v=PwQjlqmztpU
+https://www.youtube.com/watch?v=r2h1vBf_Nh4
 #EXTINF:-1,ora hd
 http://ott-albkanale.duckdns.org/out/u/343_1.m3u8
 #EXTINF:-1,news 7
