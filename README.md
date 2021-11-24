@@ -1,24 +1,8 @@
 #EXTM3U
-#EXTINF:-1,Bollywood hd
-https://sc.id-tv.kz/bollywood_hd.m3u8
-#EXTINF:-1,Hollywood hd
-https://sc.id-tv.kz/Hollywood.m3u8
-#EXTINF:-1,Mezzo tv
-https://sc.id-tv.kz/mezzo.m3u8
-#EXTINF:-1,Nichelodeon tv
-https://sc.id-tv.kz/Nickelodeon.m3u8
-#EXTINF:-1,Nichelodeon junior
-https://sc.id-tv.kz/NickJr.m3u8
+#EXTINF:-1,TopChannel
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/131.ts
 #EXTINF:-1,NatGeo_Wild
 https://sc.id-tv.kz/NatGeoWildHD.m3u8
-#EXTINF:-1,o tv
-https://sc.id-tv.kz/o.m3u8
-#EXTINF:-1,Abai tv
-https://sc.id-tv.kz/AbaiTV.m3u8
-#EXTINF:-1,A1 tv
-https://sc.id-tv.kz/A1.m3u8
-#EXTINF:-1,A2 tv
-https://sc.id-tv.kz/A2.m3u8
 #EXTINF:-1 group-title="ALB SPORT TV 🇦🇱 "tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",TEN1 HD
 https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
 #EXTINF:-1,TEN2 HD
