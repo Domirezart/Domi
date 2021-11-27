@@ -139,6 +139,24 @@ http://46.4.40.167/family/index.m3u8
 http://46.4.40.167/dark/index.m3u8
 #EXTINF:-1 ,Western
 http://46.4.40.167/west/index.m3u8
+#EXTINF:-1,Cine Sky Play 1
+http://icego.club:80/Ronald2021/2021ronald/46263
+#EXTINF:-1,Cine Sky Play 2
+http://icego.club:80/Ronald2021/2021ronald/46264
+#EXTINF:-1,Cine Sky Play 3
+http://icego.club:80/Ronald2021/2021ronald/46265
+#EXTINF:-1,Cine Sky Play 4
+http://icego.club:80/Ronald2021/2021ronald/46266
+#EXTINF:-1,Cine Sky Play 5
+http://icego.club:80/Ronald2021/2021ronald/46267
+#EXTINF:-1,Cine Sky Play 6
+http://icego.club:80/Ronald2021/2021ronald/46268
+#EXTINF:-1,Cine Sky Play 7
+http://icego.club:80/Ronald2021/2021ronald/46269
+#EXTINF:-1,Cine Sky Play 8
+http://icego.club:80/Ronald2021/2021ronald/46270
+#EXTINF:-1,Cine Sky Play 9
+http://icego.club:80/Ronald2021/2021ronald/46271
 #EXTINF:-1 group-title="ALB SHQIP TV 1🇦🇱"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",Top Channel
 https://5.254.89.106:7090/8708/index.m3u8
 #EXTINF:-1,Klan Tv
