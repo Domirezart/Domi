@@ -2,11 +2,11 @@
 #EXTINF:-1,TopChannel
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/131.ts
 #EXTINF:-1,VizionPlus
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/111.ts
+http://95.107.132.222/live/localdisk/Vizion/SA/Vizion.m3u8
 #EXTINF:-1,Klan TV
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/106.ts
+http://95.107.132.222/live/localdisk/KlanTV/SA/KlanTV.m3u8
 #EXTINF:-1,KlanPlus
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/107.ts
+http://95.107.132.222/live/localdisk/KlanPlus/SA/KlanPlus.m3u8
 #EXTINF:-1,KlanNews
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/167.ts
 #EXTINF:-1,Alsat
