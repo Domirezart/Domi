@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,TopChannel
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/131.ts
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/131.ts
 #EXTINF:-1,VizionPlus
 http://95.107.132.222/live/localdisk/Vizion/SA/Vizion.m3u8
 #EXTINF:-1,Klan TV
@@ -8,15 +8,15 @@ http://95.107.132.222/live/localdisk/KlanTV/SA/KlanTV.m3u8
 #EXTINF:-1,KlanPlus
 http://95.107.132.222/live/localdisk/KlanPlus/SA/KlanPlus.m3u8
 #EXTINF:-1,KlanNews
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/167.ts
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/167.ts
 #EXTINF:-1,Alsat
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/116.ts
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/116.ts
 #EXTINF:-1,Johaniter
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/162.ts
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/162.ts
 #EXTINF:-1,Euronews
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/175.ts
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/175.ts
 #EXTINF:-1,Tirana TV
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/85.ts
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/85.ts
 #EXTINF:-1,NatGeo_Wild
 https://sc.id-tv.kz/NatGeoWildHD.m3u8
 #EXTINF:-1 group-title="ALB SPORT TV 🇦🇱 "tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",TEN1 HD
