@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,TopChannel
-http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/131.m3u8
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/131.index.m3u8
 #EXTINF:-1,VizionPlus
 http://95.107.132.222/live/localdisk/Vizion/SA/Vizion.m3u8
 #EXTINF:-1,Klan TV
