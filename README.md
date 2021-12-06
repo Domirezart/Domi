@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,TopChannel
-http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/131.index.m3u8
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/177.ts
 #EXTINF:-1,top channel
 http://albastream.fun:88/Esjona/aUB7me8K1m5GAZp9/30137
 #EXTINF:-1,VizionPlus
