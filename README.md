@@ -134,7 +134,7 @@ http://cdn.ayproviders.xyz/live/RELk7tQ2Dk/25RzJ9rsY8/46290.ts
 #EXTINF:-1,Primafila 6 HD
 http://cdn.ayproviders.xyz/live/RELk7tQ2Dk/25RzJ9rsY8/46289.ts
 #EXTINF:-1,Primafila 7 HD
-http://cdn.ayproviders.xyz/live/RELk7tQ2Dk/25RzJ9rsY8/46288.ts
+http://cdn.ayproviders.xyz/live/RELk7tQ2Dk/25RzJ9rsY8/13994.ts
 #EXTINF:-1,Primafila 8 HD
 http://cdn.ayproviders.xyz/live/RELk7tQ2Dk/25RzJ9rsY8/46288.ts
 #EXTINF:-1,Primafila 9 HD
