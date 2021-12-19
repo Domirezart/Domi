@@ -141,6 +141,42 @@ http://cdn.ayproviders.xyz/live/RELk7tQ2Dk/25RzJ9rsY8/46288.ts
 http://cdn.ayproviders.xyz/live/RELk7tQ2Dk/25RzJ9rsY8/46287.ts
 #EXTINF:-1,Primafila 10 HD
 http://cdn.ayproviders.xyz/live/RELk7tQ2Dk/25RzJ9rsY8/46286.ts
+#EXTINF:-1,xpremium 1
+http://f4.tvxweb.net:8082/24263/playlist.m3u8
+#EXTINF:-1,xpremium 2
+http://f4.tvxweb.net:8082/24264/playlist.m3u8
+#EXTINF:-1,xpremium 3
+http://f4.tvxweb.net:8082/24265/playlist.m3u8
+#EXTINF:-1,xpremium 4
+http://f4.tvxweb.net:8082/24266/playlist.m3u8
+#EXTINF:-1,xpremium 5
+http://f4.tvxweb.net:8082/24267/playlist.m3u8
+#EXTINF:-1,xpremium 6
+http://f4.tvxweb.net:8082/24268/playlist.m3u8
+#EXTINF:-1,xpremium 7
+http://f4.tvxweb.net:8082/24269/playlist.m3u8
+#EXTINF:-1,xpremium 8
+http://f4.tvxweb.net:8082/24270/index.m3u8
+#EXTINF:-1,xpremium 9
+http://f4.tvxweb.net:8082/24271/index.m3u8
+#EXTINF:-1,xpremium 10
+http://f4.tvxweb.net:8082/24272/playlist.m3u8
+#EXTINF:-1,xpremium 11
+http://f4.tvxweb.net:8082/24273/playlist.m3u8
+#EXTINF:-1,xpremium 12
+http://f4.tvxweb.net:8082/24316/playlist.m3u8
+#EXTINF:-1,xpremium 13
+http://f4.tvxweb.net:8082/35970/video.m3u8
+#EXTINF:-1,xpremium 14
+http://f4.tvxweb.net:8082/35974/video.m3u8
+#EXTINF:-1,xpremium 15
+http://f4.tvxweb.net:8082/35975/video.m3u8
+#EXTINF:-1,xpremium 16
+http://f4.tvxweb.net:8082/35976/video.m3u8
+#EXTINF:-1,xpremium 17
+http://f4.tvxweb.net:8082/35977/video.m3u8
+#EXTINF'-1,xpremium 18
+http://f4.tvxweb.net:8082/35979/video.m3u8
 #EXTINF:-1 group-title="ALB SHQIP TV 1🇦🇱"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",Top Channel
 https://5.254.89.106:7090/8708/index.m3u8
 #EXTINF:-1,Klan Tv
