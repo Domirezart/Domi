@@ -36,13 +36,13 @@ http://solutionplay.xyz:8080/live/techruthes/10987658/27706.ts
 #EXTINF:-1,NICKELODEON HD
 http://solutionplay.xyz:8080/live/techruthes/10987658/27676.ts
 #EXTINF:-1 group-title="ALB SPORT TV 🇦🇱 "tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",TEN1 HD
-https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
+http://208.86.19.21:80/711.stream/index.m3u8
 #EXTINF:-1,TEN2 HD
-https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
+http://208.86.19.21:80/712.stream/index.m3u8
 #EXTINF:-1,TEN3 HD
-https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
+http://208.86.19.21:80/713.stream/index.m3u8
 #EXTINF:-1,SONY SIX HD
-https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
+http://208.86.19.21:80/740.stream/index.m3u8
 #EXTINF:-1,Tring Sport 1
 https://5.254.81.2:7090/8796/index.m3u8
 #EXTINF:-1,Tring Sport 2
