@@ -35,6 +35,38 @@ http://solutionplay.xyz:8080/live/techruthes/10987658/27688.ts
 http://solutionplay.xyz:8080/live/techruthes/10987658/27706.ts
 #EXTINF:-1,NICKELODEON HD
 http://solutionplay.xyz:8080/live/techruthes/10987658/27676.ts
+#EXTINF:-1 group-title="BamarTV/Sports",POL | ELEVEN SPORTS 1
+http://internetowa.tv/?c=hlsPlay&channel=eleven&token=d2f67eb91b3818c1ee8931a5b68c5adba02ed60d0d28a7e4f7d73ab68de148f96dd6219a40898e23f8d868184c1d1fd0da30088401faba26814cc1988752e379
+#EXTINF:-1 group-title="BamarTV/Sports",POL | ELEVEN SPORTS 2
+http://internetowa.tv/?c=hlsPlay&channel=eleven2&token=d2f67eb91b3818c1ee8931a5b68c5adba02ed60d0d28a7e4f7d73ab68de148f96dd6219a40898e23f8d868184c1d1fd0da30088401faba26814cc1988752e379
+#EXTINF:-1 group-title="BamarTV/Sports",POL | ELEVEN SPORTS 3
+http://internetowa.tv/?c=hlsPlay&channel=eleven3&token=d2f67eb91b3818c1ee8931a5b68c5adba02ed60d0d28a7e4f7d73ab68de148f96dd6219a40898e23f8d868184c1d1fd0da30088401faba26814cc1988752e379
+#EXTINF:-1 group-title="BamarTV/Sports",POL | ELEVEN SPORTS 4
+http://internetowa.tv/?c=hlsPlay&channel=eleven4&token=d2f67eb91b3818c1ee8931a5b68c5adba02ed60d0d28a7e4f7d73ab68de148f96dd6219a40898e23f8d868184c1d1fd0da30088401faba26814cc1988752e379
+#EXTINF:-1 group-title="BamarTV/Sports",POL | CANAL + SPORTS
+http://internetowa.tv/?c=hlsPlay&channel=canalplussport&token=d2f67eb91b3818c1ee8931a5b68c5adba02ed60d0d28a7e4f7d73ab68de148f96dd6219a40898e23f8d868184c1d1fd0da30088401faba26814cc1988752e379
+#EXTINF:-1 group-title="BamarTV/Sports",POL | CANAL + SPORTS2
+http://internetowa.tv/?c=hlsPlay&channel=canalplussport2&token=d2f67eb91b3818c1ee8931a5b68c5adba02ed60d0d28a7e4f7d73ab68de148f96dd6219a40898e23f8d868184c1d1fd0da30088401faba26814cc1988752e379
+#EXTINF:-1 group-title="BamarTV/Sports",POL |polsat sport
+http://internetowa.tv/?c=hlsPlay&channel=polsatsport&token=d2f67eb91b3818c1ee8931a5b68c5adba02ed60d0d28a7e4f7d73ab68de148f96dd6219a40898e23f8d868184c1d1fd0da30088401faba26814cc1988752e379
+#EXTINF:-1 group-title="BamarTV/Sports",POL |polsatsportextra
+http://internetowa.tv/?c=hlsPlay&channel=polsatsportextra&token=d2f67eb91b3818c1ee8931a5b68c5adba02ed60d0d28a7e4f7d73ab68de148f96dd6219a40898e23f8d868184c1d1fd0da30088401faba26814cc1988752e379
+#EXTINF:-1 group-title="BamarTV/Sports",POL |polsatsportfight
+http://internetowa.tv/?c=hlsPlay&channel=polsatsportfight&token=d2f67eb91b3818c1ee8931a5b68c5adba02ed60d0d28a7e4f7d73ab68de148f96dd6219a40898e23f8d868184c1d1fd0da30088401faba26814cc1988752e379
+#EXTINF:-1 group-title="BamarTV/Sports",POL |polsatsportnews
+http://internetowa.tv/?c=hlsPlay&channel=polsatsportnews&token=d2f67eb91b3818c1ee8931a5b68c5adba02ed60d0d28a7e4f7d73ab68de148f96dd6219a40898e23f8d868184c1d1fd0da30088401faba26814cc1988752e379
+#EXTINF:-1 group-title="BamarTV/Sports",POL |polsat sport premium1
+http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium&token=d2f67eb91b3818c1ee8931a5b68c5adba02ed60d0d28a7e4f7d73ab68de148f96dd6219a40898e23f8d868184c1d1fd0da30088401faba26814cc1988752e379
+#EXTINF:-1 group-title="BamarTV/Sports",POL |polsat sport premium2
+http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium2&token=d2f67eb91b3818c1ee8931a5b68c5adba02ed60d0d28a7e4f7d73ab68de148f96dd6219a40898e23f8d868184c1d1fd0da30088401faba26814cc1988752e379
+#EXTINF:-1 group-title="BamarTV/Sports",POL |polsat sport premium3
+http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium3&token=d2f67eb91b3818c1ee8931a5b68c5adba02ed60d0d28a7e4f7d73ab68de148f96dd6219a40898e23f8d868184c1d1fd0da30088401faba26814cc1988752e379
+#EXTINF:-1 group-title="BamarTV/Sports",POL |polsat sport premium4
+http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium4&token=d2f67eb91b3818c1ee8931a5b68c5adba02ed60d0d28a7e4f7d73ab68de148f96dd6219a40898e23f8d868184c1d1fd0da30088401faba26814cc1988752e379
+#EXTINF:-1 group-title="BamarTV/Sports",POL |polsat sport premium5
+http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium5&token=d2f67eb91b3818c1ee8931a5b68c5adba02ed60d0d28a7e4f7d73ab68de148f96dd6219a40898e23f8d868184c1d1fd0da30088401faba26814cc1988752e379
+#EXTINF:-1 group-title="BamarTV/Sports",POL |polsat sport premium6
+http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium6&token=d2f67eb91b3818c1ee8931a5b68c5adba02ed60d0d28a7e4f7d73ab68de148f96dd6219a40898e23f8d868184c1d1fd0da30088401faba26814cc1988752e379
 #EXTINF:-1 group-title="ALB SPORT TV 🇦🇱 "tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",TEN1 HD
 http://208.86.19.21:80/711.stream/index.m3u8
 #EXTINF:-1,TEN2 HD
