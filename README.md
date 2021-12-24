@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,🇦🇱  (DOMI) SHIJAKSI
+#EXTINF:-1,DOMI SHIJAKSI 🇦🇱
 #EXTINF:-1,TopChannel
 https://kanale.cdn-stream.com:30443/live/top/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyMSA2OjI3OjMwIEFNJmhhc2hfdmFsdWU9a042Vk5DazJKMUE0UTNlVHc4MXE1UT09JnZhbGlkbWludXRlcz00MCZzdHJtX2xlbj00
 #EXTINF:-1,KlanTV
