@@ -233,6 +233,26 @@ http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/297515.ts
 http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/297516.ts
 #EXTINF:-1,Cinebox 15 HD
 http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/297517.ts
+#EXTINF:-1,Netflix 1 HD
+http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/244058.ts
+#EXTINF:-1,Netflix 2 HD
+http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/244059.ts
+#EXTINF:-1,Netflix 3 HD
+http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/244060.ts
+#EXTINF:-1,Netflix 4 HD
+http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/244061.ts
+#EXTINF:-1,Netflix 5 HD
+http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/244062.ts
+#EXTINF:-1,Netflix 6 HD
+http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/244063.ts
+#EXTINF:-1,Netflix 7 HD
+http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/244064.ts
+#EXTINF:-1,Netflix 8 HD
+http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/244065.ts
+#EXTINF:-1,Netflix 9 HD
+http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/244066.ts
+#EXTINF:-1,Netflix 10 HD
+http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/244067.ts
 #EXTINF:-1,xpremium 1
 http://f4.tvxweb.net:8082/24263/playlist.m3u8
 #EXTINF:-1,xpremium 2
