@@ -203,26 +203,36 @@ http://93.157.62.180/Supersport3/tracks-v1a1/mono.m3u8?SBN
 http://93.157.62.180/Supersport4/tracks-v1a1/mono.m3u8?SBN
 #EXTINF:-1,ss5
 http://93.157.62.180/Supersport5/tracks-v1a1/mono.m3u8?SBN
-#EXTINF:-1 group-title="ALB FILM SHQIP TV 🇦🇱"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",Primafila 1 HD
-http://cdn.ayproviders.xyz/live/RELk7tQ2Dk/25RzJ9rsY8/46294.ts
-#EXTINF:-1,Primafila 2 HD
-http://cdn.ayproviders.xyz/live/RELk7tQ2Dk/25RzJ9rsY8/46293.ts
-#EXTINF:-1,Primafila 3 HD
-http://cdn.ayproviders.xyz/live/RELk7tQ2Dk/25RzJ9rsY8/46292.ts
-#EXTINF:-1,Primafila 4 HD
-http://cdn.ayproviders.xyz/live/RELk7tQ2Dk/25RzJ9rsY8/46291.ts
-#EXTINF:-1,Primafila 5 HD
-http://cdn.ayproviders.xyz/live/RELk7tQ2Dk/25RzJ9rsY8/46290.ts
-#EXTINF:-1,Primafila 6 HD
-http://cdn.ayproviders.xyz/live/RELk7tQ2Dk/25RzJ9rsY8/46289.ts
-#EXTINF:-1,Primafila 7 HD
-http://cdn.ayproviders.xyz/live/RELk7tQ2Dk/25RzJ9rsY8/13994.ts
-#EXTINF:-1,Primafila 8 HD
-http://cdn.ayproviders.xyz/live/RELk7tQ2Dk/25RzJ9rsY8/46288.ts
-#EXTINF:-1,Primafila 9 HD
-http://cdn.ayproviders.xyz/live/RELk7tQ2Dk/25RzJ9rsY8/46287.ts
-#EXTINF:-1,Primafila 10 HD
-http://cdn.ayproviders.xyz/live/RELk7tQ2Dk/25RzJ9rsY8/46286.ts
+#EXTINF:-1 group-title="ALB FILM SHQIP TV 🇦🇱"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",Cinebox 1 HD
+http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/297503.ts
+#EXTINF:-1,Cinebox 2 HD
+http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/297504.ts
+#EXTINF:-1,Cinebox 3 HD
+http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/297505.ts
+#EXTINF:-1,Cinebox 4 HD
+http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/297506.ts
+#EXTINF:-1,Cinebox 5 HD
+http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/297507.ts
+#EXTINF:-1,Cinebox 6 HD
+http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/297508.ts
+#EXTINF:-1,Cinebox 7 HD
+http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/297509.ts
+#EXTINF:-1,Cinebox 8 HD
+http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/297510.ts
+#EXTINF:-1,Cinebox 9 HD
+http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/297511.ts
+#EXTINF:-1,Cinebox 10 HD
+http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/297512.ts
+#EXTINF:-1,Cinebox 11 HD
+http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/297513.ts
+#EXTINF:-1,Cinebox 12 HD
+http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/297514.ts
+#EXTINF:-1,Cinebox 13 HD
+http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/297515.ts
+#EXTINF:-1,Cinebox 14 HD
+http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/297516.ts
+#EXTINF:-1,Cinebox 15 HD
+http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/297517.ts
 #EXTINF:-1,xpremium 1
 http://f4.tvxweb.net:8082/24263/playlist.m3u8
 #EXTINF:-1,xpremium 2
