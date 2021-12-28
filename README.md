@@ -204,7 +204,7 @@ http://93.157.62.180/Supersport4/tracks-v1a1/mono.m3u8?SBN
 #EXTINF:-1,ss5
 http://93.157.62.180/Supersport5/tracks-v1a1/mono.m3u8?SBN
 #EXTINF:-1 group-title="ALB FILM SHQIP TV 🇦🇱"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",Cinebox 1 HD
-http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/297503.ts
+http://5.183.209.167/auth/8RKaX8wZfiKPJlIdvVeIfNWcTex_lVhJu8tWzZJ41nE2HIJM3t_RiS4yLHW01VFZMWAxvvk2jnFBNfTTKk0-M8rhX0st_lv5aceLxQQChUAZVaoBP0ygM1qFu0uGuIwvc0tVwQtFY9STiEduQ5VP_OGSgrHMI9-BfJcJx4F2O-dyWWfzp9FV5O8ZK5ifg-EaeQje2hkgEtRKN2CSLu4GxuAChA8INsBGgjCJFrpqAVVY2nVVIbKXSVeClOJCDmhEZGfQvyxXVl0X2juk-F16yejhi-V9wIgnj-j-v6_njl4MRnNzET0aj9dV7m0geJYE9t7jdgScZcdQmX7Mcj_xbXQAG9u9VCPV1_IDSPy_E4lfQmHTLFgBE7Gz0rw9bD8wLI7aEPaGlbpxKW-w5BvuSNFOQZPoD5lzDJMUDSGOgQ5mqdrwZU6mjoSj-1N4kVRq4dyL8_fV0MO16MJ_PE3YIQta5Z8Uy-l_weJrWRubpTa9o2nj5whbkc4tOK3OZ8x5JgvNJcR4BE4FLPtc_8RWI8JO9FGvWCZm8eXC4y1LbvdnNfAfj6UNBExzW-fngoORzkHYCKLmsCPVirhZS6x2rxHx1mIRxL1VqZt6Rq3Rm6TMbIK79SgKsG5zzJGQJRespeXRYQ3ZrMVr4pD2d39IqfPxHsoss0_kvKCv8evus6A
 #EXTINF:-1,Cinebox 2 HD
 http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/297504.ts
 #EXTINF:-1,Cinebox 3 HD
