@@ -109,6 +109,8 @@ https://ssl.surfmusik.de/s/s.php?s=http://www.radioemigranti.com:8000/radioauto6
 https://radiolive.rtsh.dev/radiokorca?1640842907
 #EXTINF:-1,radio lushnja
 https://stream.radiolushnja.al/radio/8000/radio.mp3?1640843018
+#EXTINF:-1,radio marimanga
+https://s11.ssl-stream.com/ssl/marimanga?mp=/stream&amp;1640843119
 #EXTINF:-1 group-title="ALB SPORT TV 🇦🇱 "tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",TEN1 HD
 http://208.86.19.21:80/711.stream/index.m3u8
 #EXTINF:-1,TEN2 HD
