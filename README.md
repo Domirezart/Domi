@@ -89,6 +89,8 @@ http://solutionplay.xyz:8080/live/techruthes/10987658/27676.ts
 https://cp1.sednastream.com/proxy/clubfm?mp=%2F%3Bstream.mp3&_=1&amp;1640841204
 #EXTINF:-1,radio kanali shqip
 http://64.150.176.42:8178/stream.mp3;?1640840920
+#EXTINF:-1,radio club disco
+https://cp1.sednastream.com/proxy/clubfm?mp=%2F%3Bstream.mp3&_=1&amp;1640841884
 #EXTINF:-1 group-title="ALB SPORT TV 🇦🇱 "tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",TEN1 HD
 http://208.86.19.21:80/711.stream/index.m3u8
 #EXTINF:-1,TEN2 HD
