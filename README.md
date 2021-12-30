@@ -103,6 +103,8 @@ https://cp1.sednastream.com/proxy/radio7albania?mp=/live&amp;1640842454
 https://ice31.securenetsystems.net/AL09?1640842380
 #EXTINF:-1,radio dardania
 https://ssl.surfmusik.de/s/s.php?s=http://94.23.52.95:4000/stream?1640842716
+#EXTINF:-1,radio emigranti
+https://ssl.surfmusik.de/s/s.php?s=http://www.radioemigranti.com:8000/radioauto64?1640842781
 #EXTINF:-1 group-title="ALB SPORT TV 🇦🇱 "tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",TEN1 HD
 http://208.86.19.21:80/711.stream/index.m3u8
 #EXTINF:-1,TEN2 HD
