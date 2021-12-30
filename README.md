@@ -115,6 +115,8 @@ https://s11.ssl-stream.com/ssl/marimanga?mp=/stream&amp;1640843119
 https://radiocast.ch/9000/;?1640843241
 #EXTINF:-1,radio shkodra
 https://radiolive.rtsh.dev/radioshkodra?1640843336
+#EXTINF:-1,radio shqip
+https://cp1.sednastream.com/proxy/radioshqip?mp=%2F%3Bstream.mp3&_=1&amp;1640843406
 #EXTINF:-1 group-title="ALB SPORT TV 🇦🇱 "tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",TEN1 HD
 http://208.86.19.21:80/711.stream/index.m3u8
 #EXTINF:-1,TEN2 HD
