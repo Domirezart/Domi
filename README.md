@@ -127,6 +127,8 @@ https://radiolive.rtsh.dev/radiotirana2?1640843812
 https://radiolive.rtsh.dev/radiokukesi?1640843886
 #EXTINF:-1,top albania radio
 https://www.topalbaniaradio.com/v7/live/tar/
+#EXTINF:-1,top gold radio
+https://www.topalbaniaradio.com/v7/live/topgold/
 #EXTINF:-1 group-title="ALB SPORT TV 🇦🇱 "tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",TEN1 HD
 http://208.86.19.21:80/711.stream/index.m3u8
 #EXTINF:-1,TEN2 HD
