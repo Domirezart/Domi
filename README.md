@@ -50,9 +50,7 @@ https://kanale.cdn-stream.com:30443/live/tringaksion/playlist.m3u8?wmsAuthSign=c
 #EXTINF:-1,TringSuper
 https://kanale.cdn-stream.com:30443/live/tringsuper/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyMSA2OjI3OjMwIEFNJmhhc2hfdmFsdWU9a042Vk5DazJKMUE0UTNlVHc4MXE1UT09JnZhbGlkbWludXRlcz00MCZzdHJtX2xlbj00
 #EXTINF:-1,TopChannel
-http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/177.ts
-#EXTINF:-1,top channel
-http://albastream.fun:88/Esjona/aUB7me8K1m5GAZp9/30137
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/177.m3u8
 #EXTINF:-1,VizionPlus
 http://95.107.132.222/live/localdisk/Vizion/SA/Vizion.m3u8
 #EXTINF:-1,Klan TV
@@ -205,6 +203,12 @@ http://208.86.19.21:80/712.stream/index.m3u8
 http://208.86.19.21:80/713.stream/index.m3u8
 #EXTINF:-1,SONY SIX HD
 http://208.86.19.21:80/740.stream/index.m3u8
+#EXTINF:-1,ten 1
+http://indo51.gcdn.co/TEN1HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ten 2
+http://indo51.gcdn.co/TEN2HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ten 3
+http://indo51.gcdn.co/TEN3HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Tring Sport 1
 https://5.254.81.2:7090/8796/index.m3u8
 #EXTINF:-1,Tring Sport 2
