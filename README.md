@@ -97,6 +97,8 @@ https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD/720p.m3u8
 https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
 #EXTINF:-1,VIP_Serial_HD
 http://dmitry-tv.ml/hls/CH_ViPSERIALHD.m3u8
+#EXTINF:-1,Sci_Fi_HD
+http://dmitry-tv.ml/hls/CH_SCI-FI.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="|AL| FILMA24 ACTION 4K" tvg-logo="" group-title="EU | ALBANIA BOX OFFICE",|AL| FILMA24 ACTION 4K
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/156673
 #EXTINF:-1 tvg-ID="" tvg-name="|AL| FILMA24 AVENTUR 4K" tvg-logo="" group-title="EU | ALBANIA BOX OFFICE",|AL| FILMA24 AVENTUR 4K
