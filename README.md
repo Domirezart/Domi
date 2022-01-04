@@ -83,6 +83,20 @@ http://solutionplay.xyz:8080/live/techruthes/10987658/27688.ts
 http://solutionplay.xyz:8080/live/techruthes/10987658/27706.ts
 #EXTINF:-1,NICKELODEON HD
 http://solutionplay.xyz:8080/live/techruthes/10987658/27676.ts
+#EXTINF:-1,TV1000_Action_HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
+#EXTINF:-1,TV1000_HD
+http://dmitry-tv.ml/hls/CH_TV1000.m3u8
+#EXTINF:-1,TV1000_Rus_Kino_HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD/1080p.m3u8
+#EXTINF:-1,Vip_Comedy_HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
+#EXTINF:-1,ViP_Megahit_HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD/720p.m3u8
+#EXTINF:-1,VIP_Premiere_HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
+#EXTINF:-1,VIP_Serial_HD
+http://dmitry-tv.ml/hls/CH_ViPSERIALHD.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="|AL| FILMA24 ACTION 4K" tvg-logo="" group-title="EU | ALBANIA BOX OFFICE",|AL| FILMA24 ACTION 4K
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/156673
 #EXTINF:-1 tvg-ID="" tvg-name="|AL| FILMA24 AVENTUR 4K" tvg-logo="" group-title="EU | ALBANIA BOX OFFICE",|AL| FILMA24 AVENTUR 4K
