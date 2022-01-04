@@ -83,72 +83,26 @@ http://solutionplay.xyz:8080/live/techruthes/10987658/27688.ts
 http://solutionplay.xyz:8080/live/techruthes/10987658/27706.ts
 #EXTINF:-1,NICKELODEON HD
 http://solutionplay.xyz:8080/live/techruthes/10987658/27676.ts
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Tamil.png" group-title="Jio TV Tamil",History TV18 HD Tamil
-https://jo123.biz/jweb/m3u8.php?c=History_18_Tamil&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Tamil.png" group-title="Jio TV Tamil",Sony BBC Earth HD Tamil
-https://jo123.biz/jweb/m3u8.php?c=Sony_BBC_Earth_HD_Tamil&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="Jio TV Tamil",Zee Tamil
-https://jo123.biz/jweb/m3u8.php?c=Zee_Tamil&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" group-title="Jio TV Tamil",Jaya TV HD
-https://jo123.biz/jweb/m3u8.php?c=Jaya_TV_HD&q=800&e=.m3u8
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Puthu_Yugam.png" group-title="Jio TV Tamil",Puthu Yugam
-https://jo123.biz/jweb/m3u8.php?c=Puthu_Yugam&q=800&e=.m3u8
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MK_TV.png" group-title="Jio TV Tamil",MK TV
-https://jo123.biz/jweb/m3u8.php?c=MK_TV&q=800&e=.m3u8
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_TV.png" group-title="Jio TV Tamil",Kalaignar TV
-https://jo123.biz/jweb/m3u8.php?c=Kalaignar_TV&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_TV.png" group-title="Jio TV Tamil",Raj TV
-https://jo123.biz/jweb/m3u8.php?c=Raj_TV&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Puthiya_Thalimurai.png" group-title="Jio TV Tamil",Puthiya Thalimurai
-https://jo123.biz/jweb/m3u8.php?c=Puthiya_Thalimurai&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Vasanth_TV.png" group-title="Jio TV Tamil",Vasanth TV
-https://jo123.biz/jweb/m3u8.php?c=Vasanth_TV&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Max.png" group-title="Jio TV Tamil",Jaya Max
-https://jo123.biz/jweb/m3u8.php?c=Jaya_Max&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_TV.png" group-title="Jio TV Tamil",Polimer TV
-https://jo123.biz/jweb/m3u8.php?c=Polimer_TV&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Thanthi_TV.png" group-title="Jio TV Tamil",Thanthi TV
-https://jo123.biz/jweb/m3u8.php?c=Thanthi_TV&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Makkal_TV.png" group-title="Jio TV Tamil",Makkal TV
-https://jo123.biz/jweb/m3u8.php?c=Makkal_TV&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Plus.png" group-title="Jio TV Tamil",Jaya Plus
-https://jo123.biz/jweb/m3u8.php?c=Jaya_Plus&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/J_Movies.png" group-title="Jio TV Tamil",J Movies
-https://jo123.biz/jweb/m3u8.php?c=J_Movies&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News7_Tamil.png" group-title="Jio TV Tamil",News7 Tamil
-https://jo123.biz/jweb/m3u8.php?c=News7_Tamil&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_News.png" group-title="Jio TV Tamil",Polimer News
-https://jo123.biz/jweb/m3u8.php?c=Polimer_News&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png" group-title="Jio TV Tamil",News 18 Tamilnadu
-https://jo123.biz/jweb/m3u8.php?c=News_18_Tamilnadu&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_Seithigal_.png" group-title="Jio TV Tamil",Kalaignar Seithigal 
-https://jo123.biz/jweb/m3u8.php?c=Kalaignar_Seithigal_&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Digital_Plus.png" group-title="Jio TV Tamil",Raj Digital Plus
-https://jo123.biz/jweb/m3u8.php?c=Raj_Digital_Plus&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Musix.png" group-title="Jio TV Tamil",Raj Musix
-https://jo123.biz/jweb/m3u8.php?c=Raj_Musix&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" group-title="Jio TV Tamil",Colors Tamil HD
-https://jo123.biz/jweb/m3u8.php?c=Colors_Tamil_HD&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Tamil.png" group-title="Jio TV Tamil",CN Tamil
-https://jo123.biz/jweb/m3u8.php?c=Cartoon_Network_Tamil&=800&e=.m3u8
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sathiyam.png" group-title="Jio TV Tamil",Sathiyam TV
-https://jo123.biz/jweb/m3u8.php?c=Sathiyam&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Captain_News.png" group-title="Jio TV Tamil",Captain News
-https://jo123.biz/jweb/m3u8.php?c=Captain_News&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Malai_Murasu.png" group-title="Jio TV Tamil",Malai Murasu
-https://jo123.biz/jweb/m3u8.php?c=Malai_Murasu&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Captain_tv.png" group-title="Jio TV Tamil",Captain tv
-https://jo123.biz/jweb/m3u8.php?c=Captain_tv&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sahana_Music.png" group-title="Jio TV Tamil",Sahana Music
-https://jo123.biz/jweb/m3u8.php?c=Sahana_Music&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nambikkai.png" group-title="Jio TV Tamil",Nambikkai
-https://jo123.biz/jweb/m3u8.php?c=Nambikkai&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_Tamil.png" group-title="Jio TV Tamil",Travel XP Tamil
-https://jo123.biz/jweb/m3u8.php?c=Travel_XP_Tamil&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Vendhar_TV.png" group-title="Jio TV Tamil",Vendhar TV
-https://jo123.biz/jweb/m3u8.php?c=Vendhar_TV&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD5_Podhigai.png" group-title="Jio TV Tamil",DD5 Podhigai
-https://jo123.biz/jweb/m3u8.php?c=DD5_Podhigai&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|AL| FILMA24 ACTION 4K" tvg-logo="" group-title="EU | ALBANIA BOX OFFICE",|AL| FILMA24 ACTION 4K
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/156673
+#EXTINF:-1 tvg-ID="" tvg-name="|AL| FILMA24 AVENTUR 4K" tvg-logo="" group-title="EU | ALBANIA BOX OFFICE",|AL| FILMA24 AVENTUR 4K
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/156675
+#EXTINF:-1 tvg-ID="" tvg-name="|AL| FILMA24 BIOGRAFI 4K" tvg-logo="" group-title="EU | ALBANIA BOX OFFICE",|AL| FILMA24 BIOGRAFI 4K
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/156676
+#EXTINF:-1 tvg-ID="" tvg-name="|AL| FILMA24 DRAMA 4K" tvg-logo="" group-title="EU | ALBANIA BOX OFFICE",|AL| FILMA24 DRAMA 4K
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/156677
+#EXTINF:-1 tvg-ID="" tvg-name="|AL| FILMA24 FAMILJAR 4K" tvg-logo="" group-title="EU | ALBANIA BOX OFFICE",|AL| FILMA24 FAMILJAR 4K
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/156678
+#EXTINF:-1 tvg-ID="" tvg-name="|AL| FILMA24 FANTASY 4K" tvg-logo="" group-title="EU | ALBANIA BOX OFFICE",|AL| FILMA24 FANTASY 4K
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/156679
+#EXTINF:-1 tvg-ID="" tvg-name="|AL| FILMA24 HISTORI 4K" tvg-logo="" group-title="EU | ALBANIA BOX OFFICE",|AL| FILMA24 HISTORI 4K
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/156680
+#EXTINF:-1 tvg-ID="" tvg-name="|AL| FILMA24 KOMEDI 4K" tvg-logo="" group-title="EU | ALBANIA BOX OFFICE",|AL| FILMA24 KOMEDI 4K
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/156681
+#EXTINF:-1 tvg-ID="" tvg-name="|AL| FILMA24 KRIM 4K" tvg-logo="" group-title="EU | ALBANIA BOX OFFICE",|AL| FILMA24 KRIM 4K
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/156682
+#EXTINF:-1 tvg-ID="" tvg-name="|AL| FILMA24 MISTER 4K" tvg-logo="" group-title="EU | ALBANIA BOX OFFICE",|AL| FILMA24 MISTER 4K
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/156683
 #EXTINF:-1 group-title="ALB RADIO SHQIP 🇦🇱 "tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",Radio Club
 https://cp1.sednastream.com/proxy/clubfm?mp=%2F%3Bstream.mp3&_=1&amp;1640841204
 #EXTINF:-1,radio kanali shqip
