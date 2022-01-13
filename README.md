@@ -1,36 +1,6 @@
 #EXTM3U
 #EXTINF:-1,DOMI SHIJAKSI 🇦🇱
 https://albportal.net/albkanalemusic.m3u8
-#EXTINF:-1,TOP CHANNEL HD
-http://x365.ml:80/SCSTLQFG/DXF90HJJFH/3634
-#EXTINF:-1,TOP CHANNEL 4K
-http://x365.ml:80/SCSTLQFG/DXF90HJJFH/3633
-#EXTINF:-1,BIG BROTHER 1 HD
-http://x365.ml:80/SCSTLQFG/DXF90HJJFH/241002
-#EXTINF:-1,BIG BROTHER 2 HD
-http://x365.ml:80/SCSTLQFG/DXF90HJJFH/241003
-#EXTINF:-1,KLAN TV HD
-http://x365.ml:80/SCSTLQFG/DXF90HJJFH/3632
-#EXTINF:-1,KLAN 4K
-http://x365.ml:80/SCSTLQFG/DXF90HJJFH/3631
-#EXTINF:-1,KLAN PLUS 4K
-http://x365.ml:80/SCSTLQFG/DXF90HJJFH/3630
-#EXTINF:-1,KLAN PLUS HD
-http://x365.ml:80/SCSTLQFG/DXF90HJJFH/3629
-#EXTINF:-1,VIZION PLUS HD
-http://x365.ml:80/SCSTLQFG/DXF90HJJFH/3628
-#EXTINF:-1,VIZION PLUS 4K
-http://x365.ml:80/SCSTLQFG/DXF90HJJFH/3627
-#EXTINF:-1,KANAL 10
-http://x365.ml:80/SCSTLQFG/DXF90HJJFH/72662
-#EXTINF:-1,KLAN KOSOVA HD
-http://x365.ml:80/SCSTLQFG/DXF90HJJFH/3626
-#EXTINF:-1,KLAN MACEDONIA
-http://x365.ml:80/SCSTLQFG/DXF90HJJFH/3625
-#EXTINF:-1,ALSAT M HD
-http://x365.ml:80/SCSTLQFG/DXF90HJJFH/3624
-#EXTINF:-1,ALSAT M
-http://x365.ml:80/SCSTLQFG/DXF90HJJFH/3623
 #EXTINF:-1,TopChannel
 https://kanale.cdn-stream.com:30443/live/top/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyMSA2OjI3OjMwIEFNJmhhc2hfdmFsdWU9a042Vk5DazJKMUE0UTNlVHc4MXE1UT09JnZhbGlkbWludXRlcz00MCZzdHJtX2xlbj00
 #EXTINF:-1,KlanTV
@@ -69,56 +39,8 @@ http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/175.m3u8
 http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/85.m3u8
 #EXTINF:-1,NatGeo_Wild
 https://sc.id-tv.kz/NatGeoWildHD.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL HD
-http://solutionplay.xyz:8080/live/techruthes/10987658/27712.ts
-#EXTINF:-1,DISCOVERY TURBO HD
-http://solutionplay.xyz:8080/live/techruthes/10987658/27739.ts
-#EXTINF:-1,DISCOVERY HOME & HEALTH HD
-http://solutionplay.xyz:8080/live/techruthes/10987658/27717.ts
-#EXTINF:-1,ANIMAL PLANET HD
-http://solutionplay.xyz:8080/live/techruthes/10987658/27681.ts
-#EXTINF:-1,HISTORY CHANNEL HD
-http://solutionplay.xyz:8080/live/techruthes/10987658/27688.ts
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://solutionplay.xyz:8080/live/techruthes/10987658/27706.ts
-#EXTINF:-1,NICKELODEON HD
-http://solutionplay.xyz:8080/live/techruthes/10987658/27676.ts
-#EXTINF:-1,TV1000_Action_HD
-https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
-#EXTINF:-1,TV1000_HD
-http://dmitry-tv.ml/hls/CH_TV1000.m3u8
-#EXTINF:-1,TV1000_Rus_Kino_HD
-https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD/1080p.m3u8
-#EXTINF:-1,Vip_Comedy_HD
-https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
-#EXTINF:-1,ViP_Megahit_HD
-https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD/720p.m3u8
-#EXTINF:-1,VIP_Premiere_HD
-https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
-#EXTINF:-1,VIP_Serial_HD
-http://dmitry-tv.ml/hls/CH_ViPSERIALHD.m3u8
 #EXTINF:-1,Sci_Fi_HD
 http://dmitry-tv.ml/hls/CH_SCI-FI.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="|AL| FILMA24 ACTION 4K" tvg-logo="" group-title="EU | ALBANIA BOX OFFICE",|AL| FILMA24 ACTION 4K
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/156673
-#EXTINF:-1 tvg-ID="" tvg-name="|AL| FILMA24 AVENTUR 4K" tvg-logo="" group-title="EU | ALBANIA BOX OFFICE",|AL| FILMA24 AVENTUR 4K
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/156675
-#EXTINF:-1 tvg-ID="" tvg-name="|AL| FILMA24 BIOGRAFI 4K" tvg-logo="" group-title="EU | ALBANIA BOX OFFICE",|AL| FILMA24 BIOGRAFI 4K
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/156676
-#EXTINF:-1 tvg-ID="" tvg-name="|AL| FILMA24 DRAMA 4K" tvg-logo="" group-title="EU | ALBANIA BOX OFFICE",|AL| FILMA24 DRAMA 4K
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/156677
-#EXTINF:-1 tvg-ID="" tvg-name="|AL| FILMA24 FAMILJAR 4K" tvg-logo="" group-title="EU | ALBANIA BOX OFFICE",|AL| FILMA24 FAMILJAR 4K
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/156678
-#EXTINF:-1 tvg-ID="" tvg-name="|AL| FILMA24 FANTASY 4K" tvg-logo="" group-title="EU | ALBANIA BOX OFFICE",|AL| FILMA24 FANTASY 4K
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/156679
-#EXTINF:-1 tvg-ID="" tvg-name="|AL| FILMA24 HISTORI 4K" tvg-logo="" group-title="EU | ALBANIA BOX OFFICE",|AL| FILMA24 HISTORI 4K
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/156680
-#EXTINF:-1 tvg-ID="" tvg-name="|AL| FILMA24 KOMEDI 4K" tvg-logo="" group-title="EU | ALBANIA BOX OFFICE",|AL| FILMA24 KOMEDI 4K
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/156681
-#EXTINF:-1 tvg-ID="" tvg-name="|AL| FILMA24 KRIM 4K" tvg-logo="" group-title="EU | ALBANIA BOX OFFICE",|AL| FILMA24 KRIM 4K
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/156682
-#EXTINF:-1 tvg-ID="" tvg-name="|AL| FILMA24 MISTER 4K" tvg-logo="" group-title="EU | ALBANIA BOX OFFICE",|AL| FILMA24 MISTER 4K
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/156683
 #EXTINF:-1 group-title="ALB RADIO SHQIP 🇦🇱 "tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",Radio Club
 https://cp1.sednastream.com/proxy/clubfm?mp=%2F%3Bstream.mp3&_=1&amp;1640841204
 #EXTINF:-1,radio kanali shqip
@@ -257,56 +179,20 @@ http://93.157.62.180/Supersport3/tracks-v1a1/mono.m3u8?SBN
 http://93.157.62.180/Supersport4/tracks-v1a1/mono.m3u8?SBN
 #EXTINF:-1,ss5
 http://93.157.62.180/Supersport5/tracks-v1a1/mono.m3u8?SBN
-#EXTINF:-1 group-title="ALB FILM SHQIP TV 🇦🇱"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",Cinebox 1 HD
-http://5.183.209.167/auth/8RKaX8wZfiKPJlIdvVeIfNWcTex_lVhJu8tWzZJ41nE2HIJM3t_RiS4yLHW01VFZMWAxvvk2jnFBNfTTKk0-M8rhX0st_lv5aceLxQQChUAZVaoBP0ygM1qFu0uGuIwvc0tVwQtFY9STiEduQ5VP_OGSgrHMI9-BfJcJx4F2O-dyWWfzp9FV5O8ZK5ifg-EaeQje2hkgEtRKN2CSLu4GxuAChA8INsBGgjCJFrpqAVVY2nVVIbKXSVeClOJCDmhEZGfQvyxXVl0X2juk-F16yejhi-V9wIgnj-j-v6_njl4MRnNzET0aj9dV7m0geJYE9t7jdgScZcdQmX7Mcj_xbXQAG9u9VCPV1_IDSPy_E4lfQmHTLFgBE7Gz0rw9bD8wLI7aEPaGlbpxKW-w5BvuSNFOQZPoD5lzDJMUDSGOgQ5mqdrwZU6mjoSj-1N4kVRq4dyL8_fV0MO16MJ_PE3YIQta5Z8Uy-l_weJrWRubpTa9o2nj5whbkc4tOK3OZ8x5JgvNJcR4BE4FLPtc_8RWI8JO9FGvWCZm8eXC4y1LbvdnNfAfj6UNBExzW-fngoORzkHYCKLmsCPVirhZS6x2rxHx1mIRxL1VqZt6Rq3Rm6TMbIK79SgKsG5zzJGQJRespeXRYQ3ZrMVr4pD2d39IqfPxHsoss0_kvKCv8evus6A
-#EXTINF:-1,Cinebox 2 HD
-http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/297504.ts
-#EXTINF:-1,Cinebox 3 HD
-http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/297505.ts
-#EXTINF:-1,Cinebox 4 HD
-http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/297506.ts
-#EXTINF:-1,Cinebox 5 HD
-http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/297507.ts
-#EXTINF:-1,Cinebox 6 HD
-http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/297508.ts
-#EXTINF:-1,Cinebox 7 HD
-http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/297509.ts
-#EXTINF:-1,Cinebox 8 HD
-http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/297510.ts
-#EXTINF:-1,Cinebox 9 HD
-http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/297511.ts
-#EXTINF:-1,Cinebox 10 HD
-http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/297512.ts
-#EXTINF:-1,Cinebox 11 HD
-http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/297513.ts
-#EXTINF:-1,Cinebox 12 HD
-http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/297514.ts
-#EXTINF:-1,Cinebox 13 HD
-http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/297515.ts
-#EXTINF:-1,Cinebox 14 HD
-http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/297516.ts
-#EXTINF:-1,Cinebox 15 HD
-http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/297517.ts
-#EXTINF:-1,Netflix 1 HD
-http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/244058.ts
-#EXTINF:-1,Netflix 2 HD
-http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/244059.ts
-#EXTINF:-1,Netflix 3 HD
-http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/244060.ts
-#EXTINF:-1,Netflix 4 HD
-http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/244061.ts
-#EXTINF:-1,Netflix 5 HD
-http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/244062.ts
-#EXTINF:-1,Netflix 6 HD
-http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/244063.ts
-#EXTINF:-1,Netflix 7 HD
-http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/244064.ts
-#EXTINF:-1,Netflix 8 HD
-http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/244065.ts
-#EXTINF:-1,Netflix 9 HD
-http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/244066.ts
-#EXTINF:-1,Netflix 10 HD
-http://link.iptvlogin.com//live/LfPdKKYE9k/yqCMLZS6h5/244067.ts
+#EXTINF:-1 group-title="ALB FILM SHQIP TV 🇦🇱"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",TV1000_Action_HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
+#EXTINF:-1,TV1000_HD
+http://dmitry-tv.ml/hls/CH_TV1000.m3u8
+#EXTINF:-1,TV1000_Rus_Kino_HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD/1080p.m3u8
+#EXTINF:-1,Vip_Comedy_HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
+#EXTINF:-1,ViP_Megahit_HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD/720p.m3u8
+#EXTINF:-1,VIP_Premiere_HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
+#EXTINF:-1,VIP_Serial_HD
+http://dmitry-tv.ml/hls/CH_ViPSERIALHD.m3u8
 #EXTINF:-1,xpremium 1
 http://f4.tvxweb.net:8082/24263/playlist.m3u8
 #EXTINF:-1,xpremium 2
