@@ -179,6 +179,16 @@ http://93.157.62.180/Supersport3/tracks-v1a1/mono.m3u8?SBN
 http://93.157.62.180/Supersport4/tracks-v1a1/mono.m3u8?SBN
 #EXTINF:-1,ss5
 http://93.157.62.180/Supersport5/tracks-v1a1/mono.m3u8?SBN
+#EXTINF:0,Arena Sport 1
+http://catchup.iptv.iinet.rs/playlist.m3u8?id=147&token=y_sel
+#EXTINF:0,Arena Sport 2
+http://catchup.iptv.iinet.rs/playlist.m3u8?id=184&token=y_sel
+#EXTINF:0,Arena Sport 3
+http://catchup.iptv.iinet.rs/playlist.m3u8?id=185&token=y_sel
+#EXTINF:0,Arena Sport 4
+http://catchup.iptv.iinet.rs/playlist.m3u8?id=186&token=y_sel
+#EXTINF:0,Arena Sport 5
+http://catchup.iptv.iinet.rs/playlist.m3u8?id=187&token=y_sel
 #EXTINF:-1 group-title="ALB FILM SHQIP TV 🇦🇱"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",TV1000_Action_HD
 https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
 #EXTINF:-1,TV1000_HD
