@@ -217,6 +217,8 @@ https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD/720p.m3u8
 https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
 #EXTINF:-1,VIP_Serial_HD
 http://dmitry-tv.ml/hls/CH_ViPSERIALHD.m3u8
+#EXTINF:-1,Premier 1
+http://195.154.242.229/Premiere_HD/video.m3u8?token=telegram-premieregroup
 #EXTINF:-1,xpremium 1
 http://f4.tvxweb.net:8082/24263/playlist.m3u8
 #EXTINF:-1,xpremium 2
