@@ -41,6 +41,20 @@ http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/85.m3u8
 https://sc.id-tv.kz/NatGeoWildHD.m3u8
 #EXTINF:-1,Sci_Fi_HD
 http://dmitry-tv.ml/hls/CH_SCI-FI.m3u8
+#EXTINF:0,Discovery Channel
+http://31.173.178.110:8004/play/a07a/index.m3u8
+#EXTINF:0,Discovery Science HD
+http://31.173.178.110:8004/play/a09r/index.m3u8
+#EXTINF:0,Nat Geo HD
+https://okkotv-live.cdnvideo.ru/channel/NGC_HD/720p.m3u8
+#EXTINF:0,Nat Geo Wild HD
+https://okkotv-live.cdnvideo.ru/channel/NGC_Wild_HD.m3u8
+#EXTINF:0,Viasat Explore HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
+#EXTINF:0,Viasat History HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
+#EXTINF:0,Viasat Nature HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
 #EXTINF:-1 group-title="ALB RADIO SHQIP 🇦🇱 "tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",Radio Club
 https://cp1.sednastream.com/proxy/clubfm?mp=%2F%3Bstream.mp3&_=1&amp;1640841204
 #EXTINF:-1,radio kanali shqip
