@@ -617,60 +617,26 @@ http://us.bestvideostreaming.is/8713/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
 http://us.bestvideostreaming.is/8720/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
 #EXTINF:-1,klan Kosova
 http://us.bestvideostreaming.is/8706/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
-#EXTINF:-1,rtv 21
-http://ott-albkanale.duckdns.org/out/u/490_1.m3u8
-#EXTINF:-1,rtv 21mix
-http://ott-albkanale.duckdns.org/out/u/135_1.m3u8
-#EXTINF:-1,rtv 21macedonia
-http://ott-albkanale.duckdns.org/out/u/159_1.m3u8
-#EXTINF:-1,kanal 10
-http://ott-albkanale.duckdns.org/out/u/188_1.m3u8
-#EXTINF:-1,JollyHD
-http://ott-albkanale.duckdns.org/out/u/463_1.m3u8
-#EXTINF:-1,tring action
-http://ott-albkanale.duckdns.org/out/u/561_1.m3u8
-#EXTINF:-1,tring action
-http://ott-albkanale.duckdns.org/out/u/562_1.m3u8
-#EXTINF:-1,tring super
-http://ott-albkanale.duckdns.org/out/u/689_1.m3u8
 #EXTINF:-1,tring classic
-http://95.107.132.106/out/u/842_2.m3u8
+http://95.107.132.106/out/u/842_5.m3u8
 #EXTINF:-1,tring novelas
-http://95.107.132.106/out/u/858_2.m3u8
+http://95.107.132.106/out/u/858_4.m3u8
 #EXTINF:-1,tring 3plus
 http://95.107.132.106/out/u/869_2.m3u8
 #EXTINF:-1,tring life
 http://95.107.132.106/out/u/871_2.m3u8
 #EXTINF:-1,tring comedy
 http://95.107.132.106/out/u/884_2.m3u8
-#EXTINF:-1,tring family
-http://ott-albkanale.duckdns.org/out/u/672_1.m3u8
+#EXTINF:-1,tring collection
+http://95.107.132.106/out/u/846_5.m3u8
 #EXTINF:-1,tring fantasy
 http://95.107.132.106/out/u/879_2.m3u8
-#EXTINF:-1,tring drama
-http://ott-albkanale.duckdns.org/out/u/601_1.m3u8
-#EXTINF:-1,tring living
-http://ott-albkanale.duckdns.org/out/u/606_1.m3u8
-#EXTINF:-1,tring shqip
-http://ott-albkanale.duckdns.org/out/u/682_1.m3u8
-#EXTINF:-1,tring internazional
-http://ott-albkanale.duckdns.org/out/u/606_1.m3u8
-#EXTINF:-1,tring kids
-http://ott-albkanale.duckdns.org/out/u/341_1.m3u8
 #EXTINF:-1,tring tring
 http://95.107.132.106/out/u/881_2.m3u8
 #EXTINF:-1,tring tip tv
 http://95.107.132.106/out/u/883_2.m3u8
 #EXTINF:-1,tring planet
 http://95.107.132.106/out/u/874_2.m3u8
-#EXTINF:-1,rtl
-http://ott-albkanale.duckdns.org/out/u/116_1.m3u8
-#EXTINF:-1,rtl 2
-http://ott-albkanale.duckdns.org/out/u/120_1.m3u8
-#EXTINF:-1,vox
-http://ott-albkanale.duckdns.org/out/u/123_1.m3u8
-#EXTINF:-1,clich tv
-http://ott-albkanale.duckdns.org/out/u/695_1.m3u8
 #EXTINF:-1,rtk1
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
 #EXTINF:-1,rtk2
