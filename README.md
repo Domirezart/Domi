@@ -55,6 +55,12 @@ http://95.107.132.106/out/u/gfhsghshsgfhsfgh.m3u8
 http://103.194.169.171:8282/AL:_Alsat_M_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 #EXTINF:-1,T HD
 http://103.194.169.171:8282/AL:_T_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1,Tring Action
+http://103.194.169.171:8282/AL:_Tring_Action_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1,Tring Super
+http://103.194.169.171:8282/AL:_Tring_Super_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1,Tring Jolly
+http://103.194.169.171:8282/AL:_Tring_Jolly_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 #EXTINF:-1,Super Sport 1
 http://103.194.169.171:8282/AL:_Super_Sport_1_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 #EXTINF:-1,Super Sport 2
