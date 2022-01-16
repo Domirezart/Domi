@@ -43,6 +43,18 @@ https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
 #EXTINF:0,Viasat Nature HD
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
+#EXTINF:-1,Top Channel
+http://103.194.169.171:8282/AL:_Top_Channel_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1,TV Klan
+http://103.194.169.171:8282/AL:_Klan_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1,Klan Plus
+http://103.194.169.171:8282/AL:_Klan_Plus_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1,Vizion plus
+http://95.107.132.106/out/u/gfhsghshsgfhsfgh.m3u8
+#EXTINF:-1,Alsat M
+http://103.194.169.171:8282/AL:_Alsat_M_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1,T HD
+http://103.194.169.171:8282/AL:_T_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 #EXTINF:-1,Super Sport 1
 http://103.194.169.171:8282/AL:_Super_Sport_1_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 #EXTINF:-1,Super Sport 2
