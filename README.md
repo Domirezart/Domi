@@ -19,24 +19,12 @@ https://kanale.cdn-stream.com:30443/live/tringjolly/playlist.m3u8?wmsAuthSign=c2
 https://kanale.cdn-stream.com:30443/live/tringaksion/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyMSA2OjI3OjMwIEFNJmhhc2hfdmFsdWU9a042Vk5DazJKMUE0UTNlVHc4MXE1UT09JnZhbGlkbWludXRlcz00MCZzdHJtX2xlbj00
 #EXTINF:-1,TringSuper
 https://kanale.cdn-stream.com:30443/live/tringsuper/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyMSA2OjI3OjMwIEFNJmhhc2hfdmFsdWU9a042Vk5DazJKMUE0UTNlVHc4MXE1UT09JnZhbGlkbWludXRlcz00MCZzdHJtX2xlbj00
-#EXTINF:-1,TopChannel
-http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/177.m3u8
 #EXTINF:-1,VizionPlus
 http://95.107.132.222/live/localdisk/Vizion/SA/Vizion.m3u8
 #EXTINF:-1,Klan TV
 http://95.107.132.222/live/localdisk/KlanTV/SA/KlanTV.m3u8
 #EXTINF:-1,KlanPlus
 http://95.107.132.222/live/localdisk/KlanPlus/SA/KlanPlus.m3u8
-#EXTINF:-1,KlanNews
-http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/167.m3u8
-#EXTINF:-1,Alsat
-http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/116.m3u8
-#EXTINF:-1,Johaniter
-http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/162.m3u8
-#EXTINF:-1,Euronews
-http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/175.m3u8
-#EXTINF:-1,Tirana TV
-http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/85.m3u8
 #EXTINF:-1,NatGeo_Wild
 https://sc.id-tv.kz/NatGeoWildHD.m3u8
 #EXTINF:-1,Sci_Fi_HD
@@ -55,6 +43,24 @@ https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
 #EXTINF:0,Viasat Nature HD
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
+#EXTINF:-1,Super Sport 1
+http://103.194.169.171:8282/AL:_Super_Sport_1_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1,Super Sport 2
+http://103.194.169.171:8282/AL:_Super_Sport_2_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1,Super Sport 3
+http://103.194.169.171:8282/AL:_Super_Sport_3_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1,Super Sport 4
+http://103.194.169.171:8282/AL:_Super_Sport_4_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1,Super Sport 5
+http://103.194.169.171:8282/AL:_Super_Sport_5_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1,Tring Sport 1
+http://103.194.169.171:8282/AL:_Tring_Sport_1_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1,Tring Sport 2
+http://103.194.169.171:8282/AL:_Tring_Sport_2_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1,Tring Sport 3
+http://103.194.169.171:8282/AL:_Tring_Sport_3_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1,Tring Sport 4
+http://103.194.169.171:8282/AL:_Tring_Sport_4_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 #EXTINF:-1 group-title="ALB RADIO SHQIP 🇦🇱 "tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",Radio Club
 https://cp1.sednastream.com/proxy/clubfm?mp=%2F%3Bstream.mp3&_=1&amp;1640841204
 #EXTINF:-1,radio kanali shqip
