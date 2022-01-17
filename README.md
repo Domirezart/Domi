@@ -33,6 +33,8 @@ http://dmitry-tv.ml/hls/CH_SCI-FI.m3u8
 http://31.173.178.110:8004/play/a07a/index.m3u8
 #EXTINF:0,Discovery Science HD
 http://31.173.178.110:8004/play/a09r/index.m3u8
+#EXTINF:-1,Animal Planet
+http://78.58.133.179:28000/play/a01l/index.m3u8
 #EXTINF:0,Nat Geo HD
 https://okkotv-live.cdnvideo.ru/channel/NGC_HD/720p.m3u8
 #EXTINF:0,Nat Geo Wild HD
