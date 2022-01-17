@@ -243,8 +243,22 @@ https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD/720p.m3u8
 https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
 #EXTINF:-1,VIP_Serial_HD
 http://dmitry-tv.ml/hls/CH_ViPSERIALHD.m3u8
-#EXTINF:-1,Premier 1
+#EXTINF:-1,Premier hd
 http://195.154.242.229/Premiere_HD/video.m3u8?token=telegram-premieregroup
+#EXTINF:-1,Paradise hd
+http://195.154.242.229/Paradise_HD/video.m3u8?token=telegram-premieregroup
+#EXTINF:-1,Paradox hd
+http://195.154.242.229/Paradox_HD/video.m3u8?token=telegram-premieregroup
+#EXTINF:-1,Premium hd
+http://195.154.242.229/Premium_HD/video.m3u8?token=telegram-premieregroup
+#EXTINF:-1,Serial hd
+http://195.154.242.229/Serial_HD/video.m3u8?token=telegram-premieregroup
+#EXTINF:-1,Thriller hd
+http://195.154.242.229/Thriller_HD/video.m3u8?token=telegram-premieregroup
+#EXTINF:-1,Victory hd
+http://195.154.242.229/Victory_HD/video.m3u8?token=telegram-premieregroup
+#EXTINF:-1,Rukino hd
+http://195.154.242.229/RuKino_HD/video.m3u8?token=telegram-premieregroup
 #EXTINF:-1,xpremium 1
 http://f4.tvxweb.net:8082/24263/playlist.m3u8
 #EXTINF:-1,xpremium 2
