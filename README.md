@@ -707,6 +707,8 @@ http://ott-albkanale.duckdns.org/out/u/163_1.m3u8
 https://nesertv.live/webstream/tracks-v1a1/mono.m3u8
 #EXTINF:-1,shijak tv live stream
 https://www.youtube.com/watch?v=VGJbhiKUlUI
+#EXTINF:-1,euronews alb live strem
+https://www.youtube.com/watch?v=d7Purq6_5T0
 #EXTINF:-1,ora hd
 http://ott-albkanale.duckdns.org/out/u/343_1.m3u8
 #EXTINF:-1,news 7
