@@ -706,7 +706,7 @@ http://ott-albkanale.duckdns.org/out/u/163_1.m3u8
 #EXTINF:-1,tv johaniter
 https://nesertv.live/webstream/tracks-v1a1/mono.m3u8
 #EXTINF:-1,shijak tv live stream
-https://www.youtube.com/watch?v=VGJbhiKUlUI
+https://www.youtube.com/watch?v=n3D55QEtPik
 #EXTINF:-1,euronews alb live strem
 https://www.youtube.com/watch?v=d7Purq6_5T0
 #EXTINF:-1,ora hd
