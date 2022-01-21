@@ -81,6 +81,88 @@ http://103.194.169.171:8282/AL:_Tring_Sport_2_HD/mono.m3u8?token=93a611c10082e5e
 http://103.194.169.171:8282/AL:_Tring_Sport_3_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 #EXTINF:-1,Tring Sport 4
 http://103.194.169.171:8282/AL:_Tring_Sport_4_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM", Cartelera Premiere HD 1080P
+http://f4.tvxweb.net:8082/9040/mpegts?token=MxPReBvRE1
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",  HBO East HD 1080P
+http://f4.tvxweb.net:8082/1777/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",  HBO SIGNATURE HD 1080P
+http://f4.tvxweb.net:8082/18085/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",  SHOWTIME HD 1080P
+http://f4.tvxweb.net:8082/18087/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",  HBO West HD 1080P
+http://f4.tvxweb.net:8082/18094/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",  HBO Plus HD 1080P
+http://f4.tvxweb.net:8082/18095/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",  HBO Family HD 1080P
+http://f4.tvxweb.net:8082/18096/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",  Starz East HD 1080P
+http://f4.tvxweb.net:8082/24167/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",  Starz West HD 1080P
+http://f4.tvxweb.net:8082/24193/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",   Canal Film 0 (Dual Audio)
+http://f4.tvxweb.net:8082/24309/video.m3u8?token=MxPReBvRE10
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",  Starz Encore HD
+http://f4.tvxweb.net:8082/24310/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",  Starz Comedy HD
+http://f4.tvxweb.net:8082/24311/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",  Showtime West HD
+http://f4.tvxweb.net:8082/24312/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",  Showtime HD
+http://f4.tvxweb.net:8082/24313/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",  Showtime East HD
+http://f4.tvxweb.net:8082/24314/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",  Showtime Beyond HD 1080P
+http://f4.tvxweb.net:8082/24315/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",  Cinemax HD- 1080P
+http://f4.tvxweb.net:8082/24316/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",  Canal Film 01 (Dual Audio)
+http://f4.tvxweb.net:8082/24317/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",  Canal Film 00 (Dual Audio)
+http://f4.tvxweb.net:8082/35939/video.m3u8?token=MxPReBvRE40
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",  Starz HD 1080P
+http://f4.tvxweb.net:8082/35940/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",  Starz Edge HD 1080P
+http://f4.tvxweb.net:8082/35941/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",  Starz Comedy HD 1080P
+http://f4.tvxweb.net:8082/35942/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",  Starz Cinema HD 1080P
+http://f4.tvxweb.net:8082/35943/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",  Starz Kids & Family HD 1080P
+http://f4.tvxweb.net:8082/35944/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",  Starz Encore HD 1080P
+http://f4.tvxweb.net:8082/35945/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",  Starz Encore Action 1080P
+http://f4.tvxweb.net:8082/35946/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",  Starz Encore Classic HD 1080P
+http://f4.tvxweb.net:8082/35947/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",  Starz Encore Black HD 1080P
+http://f4.tvxweb.net:8082/35948/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",  Starz Encore Family HD 1080P
+http://f4.tvxweb.net:8082/35949/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",  Starz Encore Suspense HD 1080P
+http://f4.tvxweb.net:8082/35950/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",  MoviePlex HD 1080P
+http://f4.tvxweb.net:8082/35951/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",  Starz Encore Western HD 1080P
+http://f4.tvxweb.net:8082/35952/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",  IndiePlex HD 1080P
+http://f4.tvxweb.net:8082/35967/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",  RetroPlex HD 1080P
+http://f4.tvxweb.net:8082/35969/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",  Canal Film 02 (Dual Audio)
+http://f4.tvxweb.net:8082/35971/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",  MoreMax HD 1080P
+http://f4.tvxweb.net:8082/35972/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",  Crackle original movie (Dual audio)
+http://f4.tvxweb.net:8082/35973/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",  Canal Film 03 (Dual Audio)
+http://f4.tvxweb.net:8082/35974/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",  MovieMax HD 1080P
+http://f4.tvxweb.net:8082/35975/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",  OuterMax HD 1080P
+http://f4.tvxweb.net:8082/35976/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",  Canal RCN
+http://f4.tvxweb.net:8082/42145/video.m3u8?token=MxPReBvRE18
 #EXTINF:-1 group-title="ALB RADIO SHQIP 🇦🇱 "tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",Radio Club
 https://cp1.sednastream.com/proxy/clubfm?mp=%2F%3Bstream.mp3&_=1&amp;1640841204
 #EXTINF:-1,radio kanali shqip
