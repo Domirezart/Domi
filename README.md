@@ -19,12 +19,6 @@ https://kanale.cdn-stream.com:30443/live/tringjolly/playlist.m3u8?wmsAuthSign=c2
 https://kanale.cdn-stream.com:30443/live/tringaksion/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyMSA2OjI3OjMwIEFNJmhhc2hfdmFsdWU9a042Vk5DazJKMUE0UTNlVHc4MXE1UT09JnZhbGlkbWludXRlcz00MCZzdHJtX2xlbj00
 #EXTINF:-1,TringSuper
 https://kanale.cdn-stream.com:30443/live/tringsuper/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyMSA2OjI3OjMwIEFNJmhhc2hfdmFsdWU9a042Vk5DazJKMUE0UTNlVHc4MXE1UT09JnZhbGlkbWludXRlcz00MCZzdHJtX2xlbj00
-#EXTINF:-1,VizionPlus
-http://95.107.132.222/live/localdisk/Vizion/SA/Vizion.m3u8
-#EXTINF:-1,Klan TV
-http://95.107.132.222/live/localdisk/KlanTV/SA/KlanTV.m3u8
-#EXTINF:-1,KlanPlus
-http://95.107.132.222/live/localdisk/KlanPlus/SA/KlanPlus.m3u8
 #EXTINF:-1,NatGeo_Wild
 https://sc.id-tv.kz/NatGeoWildHD.m3u8
 #EXTINF:-1,Sci_Fi_HD
@@ -45,42 +39,6 @@ https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
 #EXTINF:0,Viasat Nature HD
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
-#EXTINF:-1,Top Channel
-http://103.194.169.171:8282/AL:_Top_Channel_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:-1,TV Klan
-http://103.194.169.171:8282/AL:_Klan_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:-1,Klan Plus
-http://103.194.169.171:8282/AL:_Klan_Plus_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:-1,Vizion plus
-http://95.107.132.106/out/u/gfhsghshsgfhsfgh.m3u8
-#EXTINF:-1,Alsat M
-http://103.194.169.171:8282/AL:_Alsat_M_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:-1,T HD
-http://103.194.169.171:8282/AL:_T_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:-1,Tring Action
-http://103.194.169.171:8282/AL:_Tring_Action_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:-1,Tring Super
-http://103.194.169.171:8282/AL:_Tring_Super_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:-1,Tring Jolly
-http://103.194.169.171:8282/AL:_Tring_Jolly_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:-1,Super Sport 1
-http://103.194.169.171:8282/AL:_Super_Sport_1_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:-1,Super Sport 2
-http://103.194.169.171:8282/AL:_Super_Sport_2_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:-1,Super Sport 3
-http://103.194.169.171:8282/AL:_Super_Sport_3_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:-1,Super Sport 4
-http://103.194.169.171:8282/AL:_Super_Sport_4_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:-1,Super Sport 5
-http://103.194.169.171:8282/AL:_Super_Sport_5_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:-1,Tring Sport 1
-http://103.194.169.171:8282/AL:_Tring_Sport_1_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:-1,Tring Sport 2
-http://103.194.169.171:8282/AL:_Tring_Sport_2_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:-1,Tring Sport 3
-http://103.194.169.171:8282/AL:_Tring_Sport_3_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:-1,Tring Sport 4
-http://103.194.169.171:8282/AL:_Tring_Sport_4_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM", Cartelera Premiere HD 1080P
 http://f4.tvxweb.net:8082/9040/mpegts?token=MxPReBvRE1
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",  HBO East HD 1080P
@@ -487,18 +445,8 @@ https://srv1.iptviliria.com/KlanPlus/index.m3u8?token=undefined
 https://srv1.iptviliria.com/AlsatM/index.m3u8?token=undefined
 #EXTINF:-1,Klan Kosova Hd
 https://srv1.iptviliria.com/KlanKosova/index.m3u8?token=undefined
-#EXTINF:-1,Tv Johaniter
-https://nesertv.live/webstream/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Kopliku TV
 https://srv1.iptviliria.com/KoplikuTV/index.m3u8?token=undefined
-#EXTINF:-1,Shijak tv
-http://edge01eu.ekranet.com/shijaktv/index.m3u8?e=a1b50034586210607ba890953fcba974&c=shijaktv&medium=websocket
-#EXTINF:0,Scan TV
-http://edge01eu.ekranet.com/scantv/index.m3u8?e=a1b50034586210607ba890953fcba974&c=scantv&medium=websocket
-#EXTINF:0,MCN TV
-http://edge01eu.ekranet.com/mcntv/index.m3u8?e=a1b50034586210607ba890953fcba974&c=mcntv&medium=websocket
-#EXTINF:0,FAX News TV
-http://edge01eu.ekranet.com/faxnews/index.m3u8?e=a1b50034586210607ba890953fcba974&c=faxnews&medium=websocket
 #EXTINF:-1,Top news
 https://srv1.iptviliria.com/TopNews/index.m3u8?token=undefined
 #EXTINF:-1,News 24
@@ -559,36 +507,6 @@ https://srv1.iptviliria.com/TringAction/index.m3u8?token=undefined
 https://srv1.iptviliria.com/3Plus/index.m3u8?token=undefined
 #EXTINF:-1,tring shqip
 https://srv1.iptviliria.com/TringShqip/index.m3u8?token=undefined
-#EXTINF:-1,RTSH 1
-http://79.106.48.2:4578/live/rtsh_1mob_pp2/playlist.m3u8
-#EXTINF:-1,RTSH 2
-http://79.106.48.2:4578/live/rtsh_2mob_p2/playlist.m3u8
-#EXTINF:-1,RTSH 24
-http://79.106.48.2:4578/live/rtsh_24_mob/playlist.m3u8
-#EXTINF:-1,RTSH 3
-http://79.106.48.2:4578/live/rtsh3mobp1/playlist.m3u8
-#EXTINF:-1,RTSH Film
-http://79.106.48.2:4578/live/rtsh_film_mob_p1/playlist.m3u8
-#EXTINF:-1,RTSH Gjirokastra
-http://79.106.48.2:4578/live/rtsh_gjirokastra_mob_p1/playlist.m3u8
-#EXTINF:-1,RTSH Kids
-http://79.106.48.2:4578/live/rtsh_femije_mob_p1/playlist.m3u8
-#EXTINF:-1,RTSH Korça
-http://79.106.48.2:4578/live/rtsh_korca_mob_p1/playlist.m3u8
-#EXTINF:-1,RTSH Kukesi
-http://79.106.48.2:4578/live/rtsh_kukesi_mob_p1/playlist.m3u8
-#EXTINF:-1,RTSH Muzike
-http://79.106.48.2:4578/live/rtsh_muzike_mob_p1/playlist.m3u8
-#EXTINF:-1,RTSH Plus
-http://79.106.48.2:4578/live/rtsh_plus_mob_p1/playlist.m3u8
-#EXTINF:-1,RTSH Sat
-http://79.106.48.2:4578/live/rtsh_sat_mob_p1/playlist.m3u8
-#EXTINF:-1,RTSH Shkodra
-http://79.106.48.2:4578/live/rtsh_shkodra_mob_p1/playlist.m3u8
-#EXTINF:-1,RTSH Shqip
-http://79.106.48.2:4578/live/rtsh_shqip_mob_p1/playlist.m3u8
-#EXTINF:-1,RTSH Sport
-http://79.106.48.2:4578/live/sport_mob_ppp1/playlist.m3u8
 #EXTINF:-1,Rtsh 1
 https://srv1.iptviliria.com/RTSH1/index.m3u8?token=undefined
 #EXTINF:-1,Rtsh 2
@@ -619,60 +537,6 @@ https://srv1.iptviliria.com/ArtSport1HD/index.m3u8?token=undefined
 https://srv1.iptviliria.com/ArtSport2/index.m3u8?token=undefined
 #EXTINF:-1,Art sport3
 https://srv1.iptviliria.com/ArtSport3/index.m3u8?token=undefined
-#EXTINF:-1,klan plus
-http://us.bestvideostreaming.is/8720/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
-#EXTINF:-1,klan
-http://us.bestvideostreaming.is/8704/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
-#EXTINF:-1,topchannal
-http://us.bestvideostreaming.is/8708/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
-#EXTINF:-1,klan ks
-http://us.bestvideostreaming.is/8706/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
-#EXTINF:-1,vizionplus
-http://us.bestvideostreaming.is/8703/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
-#EXTINF:-1,Big brother al1
-http://us.bestvideostreaming.is/8803/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
-#EXTINF:-1,Big brother al2
-http://us.bestvideostreaming.is/8804/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
-#EXTINF:-1,pink movies
-https://srv1.iptviliria.com/PinkMovies/mono.m3u8?token=undefined
-#EXTINF:-1,pink rolls
-https://srv1.iptviliria.com/PinkRoll/mono.m3u8?token=undefined
-#EXTINF:-1,pink kids
-https://srv1.iptviliria.com/PinkKids/mono.m3u8?token=undefined
-#EXTINF:-1,pink action
-https://srv1.iptviliria.com/PinkAction/mono.m3u8?token=undefined
-#EXTINF:-1,pink western
-https://srv1.iptviliria.com/PinkWestern/mono.m3u8?token=undefined
-#EXTINF:-1,pink horror
-https://srv1.iptviliria.com/PinkHorror/mono.m3u8?token=undefined
-#EXTINF:-1,pink comedy
-https://srv1.iptviliria.com/PinkComedy/mono.m3u8?token=undefined
-#EXTINF:-1,pink thriller
-https://srv1.iptviliria.com/PinkThriller/mono.m3u8?token=undefined
-#EXTINF:-1,pink hits 1
-https://srv1.iptviliria.com/PinkHits1/mono.m3u8?token=undefined
-#EXTINF:-1,pink hits 2
-https://srv1.iptviliria.com/PinkHits2/mono.m3u8?token=undefined
-#EXTINF:-1,pink romance
-https://srv1.iptviliria.com/PinkRomance/mono.m3u8?token=undefined
-#EXTINF:-1,pink premium
-https://srv1.iptviliria.com/PinkPremium/mono.m3u8?token=undefined
-#EXTINF:-1,pink plus
-https://srv1.iptviliria.com/PinkPlus/mono.m3u8?token=undefined
-#EXTINF:-1,pink family
-https://srv1.iptviliria.com/PinkFamily/mono.m3u8?token=undefined
-#EXTINF:-1,pink extra
-https://srv1.iptviliria.com/PinkExtra/mono.m3u8?token=undefined
-#EXTINF:-1,pink classic
-https://srv1.iptviliria.com/PinkClassic/mono.m3u8?token=undefined
-#EXTINF:-1,pink kuvar
-https://srv1.iptviliria.com/PinkKuvar/mono.m3u8?token=undefined
-#EXTINF:-1,pink show
-https://srv1.iptviliria.com/PinkShow/mono.m3u8?token=undefined
-#EXTINF:-1,pink music 1
-https://srv1.iptviliria.com/PinkMusic/mono.m3u8?token=undefined
-#EXTINF:-1,pink music 2
-https://srv1.iptviliria.com/PinkMusic2/mono.m3u8?token=undefined
 #EXTINF:-1group-title="ALB SHQIP TV 2🇦🇱"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",Top Channel Hd
 https://kanale.cdn-stream.com:30443/live/top/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyMSA2OjI3OjMwIEFNJmhhc2hfdmFsdWU9a042Vk5DazJKMUE0UTNlVHc4MXE1UT09JnZhbGlkbWludXRlcz00MCZzdHJtX2xlbj00
 #EXTINF:-1,klan hd
