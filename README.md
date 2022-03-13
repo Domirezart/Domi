@@ -91,8 +91,10 @@ http://171.22.150.202:2040/live/scanmob/playlist.m3u8
 http://171.22.150.202:2040/live/faxnewsmobpp1/playlist.m3u8
 #EXTINF:-1,A2 CNN
 http://171.22.150.202:2040/live/a2pp2/playlist.m3u8
-#EXTINF:-1, Folklorit TV
+#EXTINF:-1,Folklorit TV
 https://5a1178b42cc03.streamlock.net/8144/8144/chunklist_w1031408207.m3u8
+#EXTINF:-1,Ulqini tv
+http://195.154.176.63/megatv-ulqinitv/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM", Cartelera Premiere HD 1080P
 http://f4.tvxweb.net:8082/9040/mpegts?token=MxPReBvRE1
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",  HBO East HD 1080P
