@@ -117,6 +117,8 @@ http://live.topestrada.com/live/topestrada/playlist.m3u8
 http://109.69.2.120:8337/tvsole/Stream1_720p/index.m3u8
 #EXTINF:-1,atd hd
 http://46.99.146.236/0.m3u8
+#EXTINF:-1,zjarr HD
+http://95.107.132.106/out/u/495_1.m3u8
 #EXTINF:-1,vizion plus
 http://95.107.132.106/out/u/737_5.m3u8
 #EXTINF:-1,tv klan
