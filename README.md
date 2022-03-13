@@ -125,6 +125,8 @@ http://95.107.132.106/out/u/773_2.m3u8
 http://95.107.132.106/out/u/724_2.m3u8
 #EXTINF:-1,bbf
 http://95.107.132.106/out/u/425_2.m3u8
+#EXTINF:-1,tring super
+http://95.107.132.106/out/u/790_2.m3u8
 #EXTINF:-1,tring classic
 http://95.107.132.106/out/u/842_5.m3u8
 #EXTINF:-1,tring novelas
@@ -139,6 +141,8 @@ http://95.107.132.106/out/u/884_2.m3u8
 http://95.107.132.106/out/u/846_5.m3u8
 #EXTINF:-1,tring fantasy
 http://95.107.132.106/out/u/879_2.m3u8
+#EXTINF:-1,tring
+http://95.107.132.106/out/u/792_2.m3u8
 #EXTINF:-1,tring tring
 http://95.107.132.106/out/u/881_2.m3u8
 #EXTINF:-1,tring tip tv
