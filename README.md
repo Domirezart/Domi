@@ -75,6 +75,24 @@ http://32.shqiptv.org/korca/albplus/index.m3u8
 https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
 #EXTINF:0,Nesër TV
 https://monamour.agency/ntv/livestream/tracks-v1a1/mono.m3u8
+#EXTINF:-1,KLAN HD
+http://79.106.90.114:3030/live/klanhdmobpp3/playlist.m3u8
+#EXTINF:-1,BBF
+http://79.106.90.122:5000/live/bbfottpp1/playlist.m3u8
+#EXTINF:-1,KLAN Plus
+http://171.22.150.202:2040/live/klanplusmobpp2/playlist.m3u8
+#EXTINF:-1,KLAN News
+http://171.22.150.202:2040/live/klannewsmobpp3/playlist.m3u8
+#EXTINF:-1,EURONEWS
+http://171.22.150.202:2040/live/euronewsmob/playlist.m3u8
+#EXTINF:-1,SCAN TV
+http://171.22.150.202:2040/live/scanmob/playlist.m3u8
+#EXTINF:-1,FAX News
+http://171.22.150.202:2040/live/faxnewsmobpp1/playlist.m3u8
+#EXTINF:-1,A2 CNN
+http://171.22.150.202:2040/live/a2pp2/playlist.m3u8
+#EXTINF:-1, Folklorit TV
+https://5a1178b42cc03.streamlock.net/8144/8144/chunklist_w1031408207.m3u8
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM", Cartelera Premiere HD 1080P
 http://f4.tvxweb.net:8082/9040/mpegts?token=MxPReBvRE1
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",  HBO East HD 1080P
