@@ -123,6 +123,8 @@ http://95.107.132.106/out/u/737_5.m3u8
 http://95.107.132.106/out/u/773_2.m3u8
 #EXTINF:-1,klan plus
 http://95.107.132.106/out/u/724_2.m3u8
+#EXTINF:-1,bbf
+http://95.107.132.106/out/u/425_2.m3u8
 #EXTINF:-1,tring classic
 http://95.107.132.106/out/u/842_5.m3u8
 #EXTINF:-1,tring novelas
