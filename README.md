@@ -136,7 +136,7 @@ http://95.107.132.106/out/u/858_5.m3u8
 #EXTINF:-1,tring 3plus
 http://95.107.132.106/out/u/896_2.m3u8
 #EXTINF:-1,tring life
-http://95.107.132.106/out/u/871_2.m3u8
+http://95.107.132.106/out/u/887_1.m3u8
 #EXTINF:-1,tring comedy
 http://95.107.132.106/out/u/884_2.m3u8
 #EXTINF:-1,living HD
@@ -144,7 +144,7 @@ http://95.107.132.106/out/u/894_2.m3u8
 #EXTINF:-1,tring collection
 http://95.107.132.106/out/u/846_5.m3u8
 #EXTINF:-1,tring fantasy
-http://95.107.132.106/out/u/879_2.m3u8
+http://95.107.132.106/out/u/900_2.m3u8
 #EXTINF:-1,tring
 http://95.107.132.106/out/u/792_2.m3u8
 #EXTINF:-1,tring tring
