@@ -133,6 +133,12 @@ http://79.106.90.114:3030/live/radiosyri/playlist.m3u8
 https://radio.oranews.tv:8443/stream
 #EXTINF:0,City Radio 88.0 FM
 https://cp1.sednastream.com/proxy/cityradio?mp=/stream
+#EXTINF:0,Radio Tirana 1
+http://79.106.48.2:2040/live/radio_tirana_1/playlist.m3u8
+#EXTINF:0,Radio Tirana 2
+http://79.106.48.2:2040/live/radio_tirana_2/playlist.m3u8
+#EXTINF:0,Radio Tirana 3
+http://79.106.48.2:2040/live/radio_3/playlist.m3u8
 EXTINF:-1 group-title="ALB SPORT TV 🇦🇱 "tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",TEN1 HD
 http://208.86.19.21:80/711.stream/index.m3u8
 #EXTINF:-1,TEN2 HD
