@@ -133,6 +133,14 @@ http://79.106.90.114:3030/live/radiosyri/playlist.m3u8
 https://radio.oranews.tv:8443/stream
 #EXTINF:0,City Radio 88.0 FM
 https://cp1.sednastream.com/proxy/cityradio?mp=/stream
+#EXTINF:0,Club FM 100.4 FM
+https://cp1.sednastream.com/proxy/clubfm?mp=/;stream.mp3
+#EXTINF:0,ENERGY Radio Albania
+https://ice31.securenetsystems.net:80/AL09
+#EXTINF:0,Radio DJ
+https://radio.albaniaradiodj.al/stream
+#EXTINF:0,Radio One
+https://cp1.sednastream.com/proxy/radioone94?mp=/stream
 #EXTINF:0,Radio Tirana 1
 http://79.106.48.2:2040/live/radio_tirana_1/playlist.m3u8
 #EXTINF:0,Radio Tirana 2
