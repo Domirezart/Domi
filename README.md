@@ -125,6 +125,8 @@ http://95.107.132.106/out/u/773_2.m3u8
 http://95.107.132.106/out/u/724_2.m3u8
 #EXTINF:-1,bbf
 http://95.107.132.106/out/u/425_2.m3u8
+#EXTINF:-1,euronews al
+http://95.107.132.106/out/u/818_1.m3u8
 #EXTINF:-1,tring super
 http://95.107.132.106/out/u/890_2.m3u8
 #EXTINF:-1,tring classic
@@ -155,6 +157,8 @@ http://95.107.132.106/out/u/883_2.m3u8
 http://95.107.132.106/out/u/874_2.m3u8
 #EXTINF:-1,tring world
 http://95.107.132.106/out/u/876_4.m3u8
+#EXTINF:-1,tring sport news
+http://95.107.132.106/out/u/815_1.m3u8
 #EXTINF:-1,tring sport 1
 http://95.107.132.106/out/u/864_4.m3u8
 #EXTINF:-1,tring sport 2
