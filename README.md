@@ -101,6 +101,8 @@ https://monamour.agency/real-tv-livsream/index.m3u8
 http://195.154.176.63/agon-iptvshqip-aanewyorktv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Teuta tv
 http://143.244.204.5/tvteuta/index.m3u8
+#EXTINF:-1,Tv 7
+http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM", Cartelera Premiere HD 1080P
 http://f4.tvxweb.net:8082/9040/mpegts?token=MxPReBvRE1
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",  HBO East HD 1080P
