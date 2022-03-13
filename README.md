@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,DOMI SHIJAKSI 🇦🇱
 https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1,VIZION +
+http://95.107.132.106/out/u/gfhsghshsgfhsfgh.m3u8
 #EXTINF:0,RTSH 1
 http://79.106.48.2:2040/live/rtsh_1mob_pp2/playlist.m3u8
 #EXTINF:0,RTSH 2
@@ -41,8 +43,26 @@ http://edge01eu.ekranet.com//elroditv_240p/index.m3u8?e=7969eb3ece993e9c0fd641af
 http://151.80.250.173:5000/live/adriamed/playlist.m3u8
 #EXTINF:-1,MCN TV
 http://edge01eu.ekranet.com/mcntv_720p/index.m3u8
-#EXTINF:-1,VIZION +
-http://95.107.132.106/out/u/gfhsghshsgfhsfgh.m3u8
+#EXTINF:0,NEWS 24
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:0,Syri TV
+https://tv.syri.net/syrilive/webtv/chunks.m3u8
+#EXTINF:0,REPORT TV
+https://deb10stream.duckdns.org/hls/stream.m3u8
+#EXTINF:0, Kanali 7
+http://95.107.132.105/out/u/581_1.m3u8
+#EXTINF:0,Shqiptarja TV
+https://sh-stream.duckdns.org/hls/stream.m3u8
+#EXTINF:0,Alpo TV
+https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
+#EXTINF:0,Premium TV
+http://151.80.250.173:5000/live/premium/playlist.m3u8
+#EXTINF:0,Korça Plus
+http://32.shqiptv.org/korca/albplus/index.m3u8
+#EXTINF:0,Apollon TV
+https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
+#EXTINF:0,Nesër TV
+https://monamour.agency/ntv/livestream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM", Cartelera Premiere HD 1080P
 http://f4.tvxweb.net:8082/9040/mpegts?token=MxPReBvRE1
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",  HBO East HD 1080P
