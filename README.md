@@ -1,44 +1,48 @@
 #EXTM3U
 #EXTINF:-1,DOMI SHIJAKSI 🇦🇱
 https://albportal.net/albkanalemusic.m3u8
-#EXTINF:-1,TopChannel
-https://kanale.cdn-stream.com:30443/live/top/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyMSA2OjI3OjMwIEFNJmhhc2hfdmFsdWU9a042Vk5DazJKMUE0UTNlVHc4MXE1UT09JnZhbGlkbWludXRlcz00MCZzdHJtX2xlbj00
-#EXTINF:-1,KlanTV
-https://kanale.cdn-stream.com:30443/live/klan/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyMSA2OjI3OjMwIEFNJmhhc2hfdmFsdWU9a042Vk5DazJKMUE0UTNlVHc4MXE1UT09JnZhbGlkbWludXRlcz00MCZzdHJtX2xlbj00
-#EXTINF:-1,VizionPlus
-https://kanale.cdn-stream.com:30443/live/vizionplus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyMSA2OjI3OjMwIEFNJmhhc2hfdmFsdWU9a042Vk5DazJKMUE0UTNlVHc4MXE1UT09JnZhbGlkbWludXRlcz00MCZzdHJtX2xlbj00
-#EXTINF:-1,KlanPlus
-https://kanale.cdn-stream.com:30443/live/klanplus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyMSA2OjI3OjMwIEFNJmhhc2hfdmFsdWU9a042Vk5DazJKMUE0UTNlVHc4MXE1UT09JnZhbGlkbWludXRlcz00MCZzdHJtX2xlbj00
-#EXTINF:-1,KlanKosova
-https://kanale.cdn-stream.com:30443/live/klanks/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyMSA2OjI3OjMwIEFNJmhhc2hfdmFsdWU9a042Vk5DazJKMUE0UTNlVHc4MXE1UT09JnZhbGlkbWludXRlcz00MCZzdHJtX2xlbj00
-#EXTINF:-1,Alsat
-https://kanale.cdn-stream.com:30443/live/alsat/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyMSA2OjI3OjMwIEFNJmhhc2hfdmFsdWU9a042Vk5DazJKMUE0UTNlVHc4MXE1UT09JnZhbGlkbWludXRlcz00MCZzdHJtX2xlbj00
-#EXTINF:-1,JollyHD
-https://kanale.cdn-stream.com:30443/live/tringjolly/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyMSA2OjI3OjMwIEFNJmhhc2hfdmFsdWU9a042Vk5DazJKMUE0UTNlVHc4MXE1UT09JnZhbGlkbWludXRlcz00MCZzdHJtX2xlbj00
-#EXTINF:-1,Tringaction
-https://kanale.cdn-stream.com:30443/live/tringaksion/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyMSA2OjI3OjMwIEFNJmhhc2hfdmFsdWU9a042Vk5DazJKMUE0UTNlVHc4MXE1UT09JnZhbGlkbWludXRlcz00MCZzdHJtX2xlbj00
-#EXTINF:-1,TringSuper
-https://kanale.cdn-stream.com:30443/live/tringsuper/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyMSA2OjI3OjMwIEFNJmhhc2hfdmFsdWU9a042Vk5DazJKMUE0UTNlVHc4MXE1UT09JnZhbGlkbWludXRlcz00MCZzdHJtX2xlbj00
-#EXTINF:-1,NatGeo_Wild
-https://sc.id-tv.kz/NatGeoWildHD.m3u8
-#EXTINF:-1,Sci_Fi_HD
-http://dmitry-tv.ml/hls/CH_SCI-FI.m3u8
-#EXTINF:0,Discovery Channel
-http://31.173.178.110:8004/play/a07a/index.m3u8
-#EXTINF:0,Discovery Science HD
-http://31.173.178.110:8004/play/a09r/index.m3u8
-#EXTINF:-1,Animal Planet
-http://78.58.133.179:28000/play/a01l/index.m3u8
-#EXTINF:0,Nat Geo HD
-https://okkotv-live.cdnvideo.ru/channel/NGC_HD/720p.m3u8
-#EXTINF:0,Nat Geo Wild HD
-https://okkotv-live.cdnvideo.ru/channel/NGC_Wild_HD.m3u8
-#EXTINF:0,Viasat Explore HD
-https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
-#EXTINF:0,Viasat History HD
-https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
-#EXTINF:0,Viasat Nature HD
-https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
+#EXTINF:0,RTSH 1
+http://79.106.48.2:2040/live/rtsh_1mob_pp2/playlist.m3u8
+#EXTINF:0,RTSH 2
+http://79.106.48.2:2040/live/rtsh_2mob_p2/playlist.m3u8
+#EXTINF:0,RTSH 3
+http://79.106.48.2:2040/live/rtsh3mobp2/playlist.m3u8
+#EXTINF:-1,RTSH Plus
+http://151.80.250.173:5000/live/rtsh_plus_mob/playlist.m3u8
+#EXTINF:0,RTSH Shqip
+http://79.106.48.2:2040/live/rtsh_shqip_mob/playlist.m3u8
+#EXTINF:0,RTSH Sport
+http://51.178.89.160:8621/live/sport_mob_ppp2/playlist.m3u8
+#EXTINF:0,RTSH Korça
+http://151.80.250.173:5000/live/rtsh_korca_ott/playlist.m3u8
+#EXTINF:0,RTSH Muzikë
+http://51.91.154.19:35712/live/rtsh_muzike_ott/playlist.m3u8
+#EXTINF:0,RTSH 24
+http://79.106.48.2:2040/live/rtsh_24_mob_p2/playlist.m3u8
+#EXTINF:0,RTSH Femijë
+http://79.106.90.114:3030/live/rtshfemijemob/playlist.m3u8
+#EXTINF:0,RTSH Shkollë
+http://79.106.48.2:2040/live/rtsh_shkolle_mob_p2/playlist.m3u8
+#EXTINF:0,RTSH Film
+http://79.106.48.2:2040/live/rtsh_film_mob_p2/playlist.m3u8
+#EXTINF:0,RTSH Kuvend
+http://151.80.250.173:5000/live/rtsh_kuvendi_mob/playlist.m3u8
+#EXTINF:0,RTSH Gjirokastra
+http://151.80.250.173:5000/live/rtsh_gjirokastra_mob/playlist.m3u8
+#EXTINF:-1,RTSH Kukësi
+http://151.80.250.173:5000/live/rtsh_kukesi_mob/playlist.m3u8
+#EXTINF:-1,RTSH Shkodra
+http://151.80.250.173:5000/live/rtsh_shkodra_mob/playlist.m3u8
+#EXTINF:-1,RTSH Agro
+http://151.80.250.173:5000/live/rtsh_agro_mob/playlist.m3u8
+#EXTINF:-1,Elrodi TV
+http://edge01eu.ekranet.com//elroditv_240p/index.m3u8?e=7969eb3ece993e9c0fd641afff5c6797&c=elroditv_240p&medium=websocket
+#EXTINF:-1,Adria Med
+http://151.80.250.173:5000/live/adriamed/playlist.m3u8
+#EXTINF:-1,MCN TV
+http://edge01eu.ekranet.com/mcntv_720p/index.m3u8
+#EXTINF:-1,VIZION +
+http://95.107.132.106/out/u/gfhsghshsgfhsfgh.m3u8
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM", Cartelera Premiere HD 1080P
 http://f4.tvxweb.net:8082/9040/mpegts?token=MxPReBvRE1
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",  HBO East HD 1080P
