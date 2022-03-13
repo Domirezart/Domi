@@ -121,52 +121,18 @@ http://f4.tvxweb.net:8082/35975/video.m3u8?token=MxPReBvRE1
 http://f4.tvxweb.net:8082/35976/video.m3u8?token=MxPReBvRE1
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",  Canal RCN
 http://f4.tvxweb.net:8082/42145/video.m3u8?token=MxPReBvRE18
-#EXTINF:-1 group-title="ALB RADIO SHQIP 🇦🇱 "tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",Radio Club
-https://cp1.sednastream.com/proxy/clubfm?mp=%2F%3Bstream.mp3&_=1&amp;1640841204
-#EXTINF:-1,radio kanali shqip
-http://64.150.176.42:8178/stream.mp3;?1640840920
-#EXTINF:-1,radio club disco
-https://cp1.sednastream.com/proxy/clubfm?mp=%2F%3Bstream.mp3&_=1&amp;1640841884
-#EXTINF:-1,radio club kosova
-https://cp1.sednastream.com/proxy/clubfmkosova?mp=/stream&amp;1640842010
-#EXTINF:-1,radio club shqip
-https://cp1.sednastream.com/proxy/clubfm?mp=%2F%3Bstream.mp3&_=1&amp;1640842104
-#EXTINF:-1,radio cmendina
-http://chillstep.info:1984/listen.mp3?1640842180
-#EXTINF:-1,radio 7
-https://cp1.sednastream.com/proxy/radio7albania?mp=/live&amp;1640842454
-#EXTINF:-1,radio nrg
-https://ice31.securenetsystems.net/AL09?1640842380
-#EXTINF:-1,radio dardania
-https://ssl.surfmusik.de/s/s.php?s=http://94.23.52.95:4000/stream?1640842716
-#EXTINF:-1,radio emigranti
-https://ssl.surfmusik.de/s/s.php?s=http://www.radioemigranti.com:8000/radioauto64?1640842781
-#EXTINF:-1,radio korca
-https://radiolive.rtsh.dev/radiokorca?1640842907
-#EXTINF:-1,radio lushnja
-https://stream.radiolushnja.al/radio/8000/radio.mp3?1640843018
-#EXTINF:-1,radio marimanga
-https://s11.ssl-stream.com/ssl/marimanga?mp=/stream&amp;1640843119
-#EXTINF:-1,radio rainca
-https://radiocast.ch/9000/;?1640843241
-#EXTINF:-1,radio shkodra
-https://radiolive.rtsh.dev/radioshkodra?1640843336
-#EXTINF:-1,radio shqip
-https://cp1.sednastream.com/proxy/radioshqip?mp=%2F%3Bstream.mp3&_=1&amp;1640843406
-#EXTINF:-1,radio Tirana 1
-https://radiolive.rtsh.dev/radiotirana1?1640843487
-#EXTINF:-1,radio Tirana 2
-https://radiolive.rtsh.dev/radiotirana2?1640843619
-#EXTINF:-1,radio Tirana 3
-https://radiolive.rtsh.dev/radiotirana2?1640843812
-#EXTINF:-1,radio kukesi
-https://radiolive.rtsh.dev/radiokukesi?1640843886
-#EXTINF:-1,top albania radio
-https://www.topalbaniaradio.com/v7/live/tar/
-#EXTINF:-1,top gold radio
-https://www.topalbaniaradio.com/v7/live/topgold/
-#EXTINF:-1,my music radio
-https://www.topalbaniaradio.com/v7/live/mmr/
+#EXTINF:-1 group-title="ALB RADIO SHQIP 🇦🇱 "tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",top albania radio
+https://live.top-media.al/tar
+#EXTINF:0,TOP GOLD
+https://live.topgold.al/topgold
+#EXTINF:0,My Music Radio
+https://live.top-media.al/mmr
+#EXTINF:0,Syri Radio
+http://79.106.90.114:3030/live/radiosyri/playlist.m3u8
+#EXTINF:0,ORA Radio
+https://radio.oranews.tv:8443/stream
+#EXTINF:0,City Radio 88.0 FM
+https://cp1.sednastream.com/proxy/cityradio?mp=/stream
 EXTINF:-1 group-title="ALB SPORT TV 🇦🇱 "tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",TEN1 HD
 http://208.86.19.21:80/711.stream/index.m3u8
 #EXTINF:-1,TEN2 HD
