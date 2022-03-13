@@ -123,6 +123,8 @@ http://95.107.132.106/out/u/737_5.m3u8
 http://95.107.132.106/out/u/773_2.m3u8
 #EXTINF:-1,klan plus
 http://95.107.132.106/out/u/724_2.m3u8
+#EXTINF:-1,al sat
+http://95.107.132.106/out/u/801_1.m3u8
 #EXTINF:-1,bbf
 http://95.107.132.106/out/u/425_2.m3u8
 #EXTINF:-1,euronews al
@@ -135,6 +137,8 @@ http://95.107.132.106/out/u/842_5.m3u8
 http://95.107.132.106/out/u/892_2.m3u8
 #EXTINF:-1,tring novelas
 http://95.107.132.106/out/u/858_5.m3u8
+#EXTINF:-1,news 24
+http://95.107.132.106/out/u/792_1.m3u8
 #EXTINF:-1,tring 3plus
 http://95.107.132.106/out/u/896_2.m3u8
 #EXTINF:-1,tring life
