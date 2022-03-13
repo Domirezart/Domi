@@ -7,6 +7,14 @@ http://local.liveline.nu:2085/play/a0artopchannel/index.m3u8
 http://local.liveline.nu:2085/play/a0b2ALSAMMFHD/index.m3u8
 #EXTINF:-1,VIZION +
 http://95.107.132.106/out/u/gfhsghshsgfhsfgh.m3u8
+#EXTINF:-1,Top Channel
+http://199.127.60.117:8081/live/top/playlist.m3u8
+#EXTINF:-1,klan hd
+http://199.127.60.117:8081/live/klan/playlist.m3u8
+#EXTINF:-1,klan plus
+http://199.127.60.117:8081/live/klanplus/playlist.m3u8
+#EXTINF:-1,vizion plus
+http://199.127.60.117:8081/live/vizionplus/playlist.m3u8
 #EXTINF:0,RTSH 1
 http://79.106.48.2:2040/live/rtsh_1mob_pp2/playlist.m3u8
 #EXTINF:0,RTSH 2
