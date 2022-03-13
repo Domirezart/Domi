@@ -120,13 +120,15 @@ http://46.99.146.236/0.m3u8
 #EXTINF:-1,vizion plus
 http://95.107.132.106/out/u/737_5.m3u8
 #EXTINF:-1,tv klan
-http://95.107.132.106/out/u/773_2.m3u8
+http://95.107.132.106/out/u/778_1.m3u8
 #EXTINF:-1,klan plus
 http://95.107.132.106/out/u/724_2.m3u8
 #EXTINF:-1,al sat
 http://95.107.132.106/out/u/801_1.m3u8
 #EXTINF:-1,bbf
 http://95.107.132.106/out/u/425_2.m3u8
+#EXTINF:-1,abc news
+http://95.107.132.106/out/u/781_1.m3u8
 #EXTINF:-1,euronews al
 http://95.107.132.106/out/u/818_1.m3u8
 #EXTINF:-1,tring super
