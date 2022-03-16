@@ -119,6 +119,20 @@ http://109.69.2.120:8337/tvsole/Stream1_720p/index.m3u8
 http://46.99.146.236/0.m3u8
 #EXTINF:-1,zjarr HD
 http://95.107.132.106/out/u/495_1.m3u8
+#EXTINF:-1,TRING SUPER
+http://194.15.225.98:8000/play/a005
+#EXTINF:-1,Tring ACTION
+http://194.15.225.98:8000/play/a2qs
+#EXTINF:-1,SportCLUB 1
+http://194.15.225.98:8000/play/a2qu
+#EXTINF:-1SportCLUB 2
+http://194.15.225.98:8000/play/a2qz
+#EXTINF:-1,SportCLUB 3
+http://194.15.225.98:8000/play/a2qt
+#EXTINF:-1,Makkah TV
+http://194.15.225.98:8000/play/a2qp
+#EXTINF:-1,Kanal D DRAMA
+http://194.15.225.98:8000/play/a2qx
 #EXTINF:-1,vizion plus
 http://95.107.132.106/out/u/737_5.m3u8
 #EXTINF:-1,tv klan
