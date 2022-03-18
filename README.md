@@ -279,6 +279,10 @@ https://vipottbpkstream.vip.hr/Content/onevip-hls-vmx/Live/Channel(Telma)/index.
 https://vipottbpkstream.vip.hr/Content/onevip-hls-vmx/Live/Channel(Alfa)/index.m3u8
 #EXTINF:0,Mrt1
 https://vipottbpkstream.vip.hr/Content/onevip-hls-vmx/Live/Channel(MRT_1)/index.m3u8
+#EXTINF:-1,Sky Folk M
+http://eu.live.skyfolk.mk/live.m3u8
+#EXTINF:-1,Nasha tv
+https://vipottbpkstream.vip.hr/Content/onevip-hls-vmx/Live/Channel(Nasha_TV)/index.m3u8
 #EXTINF:0,Tv24
 https://vipottbpkstream.vip.hr/Content/onevip-hls-vmx/Live/Channel(24_Vesti)/index.m3u8
 #EXTINF:0,Tv21
