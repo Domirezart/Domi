@@ -270,7 +270,7 @@ https://vipottbpkstream.vip.hr/Content/onevip-hls-vmx/Live/Channel(Alsat_M)/inde
 #EXTINF:0,Tv shenja
 https://vipottbpkstream.vip.hr/Content/onevip-hls-vmx/Live/Channel(TV_Shenja)/index.m3u8
 #EXTINF:0,Kanal 5
-https://vipottbpkstream.vip.hr/Content/onevip-hls-vmx/Live/Channel(Kanal_5_MK)/index.m3u8
+https://vipottbpkstream.vip.hr/Content/onevip-hls-vmx/Live/Channel(Kanal_5)/index.m3u8
 #EXTINF:0,Sitel
 https://vipottbpkstream.vip.hr/Content/onevip-hls-vmx/Live/Channel(Sitel)/index.m3u8
 #EXTINF:0, Telma
