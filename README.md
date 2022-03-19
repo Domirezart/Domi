@@ -85,6 +85,8 @@ http://local.liveline.nu:2085/play/a0artopchannel/index.m3u8
 http://local.liveline.nu:2085/play/a0b2ALSAMMFHD/index.m3u8
 #EXTINF:-1,VIZION +
 http://95.107.132.106/out/u/gfhsghshsgfhsfgh.m3u8
+#EXTINF:-1,TV Johaniter
+https://monamour.agency/johaniter007web/index.m3u8
 #EXTINF:-1,Top Channel
 http://199.127.60.117:8081/live/top/playlist.m3u8
 #EXTINF:-1,klan hd
