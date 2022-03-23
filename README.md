@@ -79,6 +79,10 @@ http://185.204.32.4:9981/stream/channelid/101480720?ticket=85C315C2135C0FBA73CFB
 http://185.204.32.4:9981/stream/channelid/321131333?ticket=63310FAF763EEF851DBC441D6FEF32A2AEE1E8FE&profile=pass
 #EXTINF:-1,Top Channel HD
 http://185.204.32.4:9981/stream/channelid/1406086565?ticket=5758D9BC41F9A718717A721B14F5C4F118A9BD8B&profile=pass
+#EXTINF:-1,Klan HD
+http://digital-tv.online/live.ts?channelId=11528&uid=33487&deviceMac=00:1A:79:40:9B:D8
+#EXTINF:-1,,Klan Kosova
+http://digital-tv.online/live.ts?channelId=11527&uid=33487&deviceMac=00:1A:79:40:9B:D8
 #EXTINF:-1,Top Channel
 http://local.liveline.nu:2085/play/a0artopchannel/index.m3u8
 #EXTINF:-1,Alsat M
