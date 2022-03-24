@@ -9,6 +9,12 @@ http://146.19.16.207:8020/play/a04d/index.m3u8
 http://146.19.16.207:8020/play/a04e/index.m3u8
 #EXTINF:-1,Rai 4 HD
 http://146.19.16.207:8020/play/a04f/index.m3u8
+#EXTINF:-1,Rai 5 HD
+http://146.19.16.207:8018/play/a04g/index.m3u8
+#EXTINF:-1,Rai Sport + HD
+http://146.19.16.207:8018/play/a04f/index.m3u8
+#EXTINF:-1,Rai YoYo HD
+http://146.19.16.207:8018/play/a04e/index.m3u8
 #EXTINF:-1,Rai Movie HD
 http://146.19.16.207:8020/play/a04g/index.m3u8
 #EXTINF:-1,Rai 1
