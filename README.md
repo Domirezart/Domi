@@ -17,6 +17,14 @@ http://146.19.16.207:8018/play/a04f/index.m3u8
 http://146.19.16.207:8018/play/a04e/index.m3u8
 #EXTINF:-1,Rai Movie HD
 http://146.19.16.207:8020/play/a04g/index.m3u8
+#EXTINF:-1,Canale5 HD
+http://146.19.16.207:8019/play/a04h/index.m3u8
+#EXTINF:-1,Italia1 HD
+http://146.19.16.207:8019/play/a04g/index.m3u8
+#EXTINF:-1,Rete4 HD
+http://146.19.16.207:8019/play/a04i/index.m3u8
+#EXTINF:-1,La 5
+http://146.19.16.207:8019/play/a04l/index.m3u8
 #EXTINF:-1,Rai 1
 http://185.204.32.4:9981/stream/channelid/2078368351?ticket=80099E9F14D55595344578A29F73FFA8E3B1743C&profile=pass
 #EXTINF:-1,Rai 2
