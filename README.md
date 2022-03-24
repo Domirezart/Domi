@@ -1,6 +1,16 @@
 #EXTM3U
 #EXTINF:-1,DOMI SHIJAKSI 🇦🇱
 https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1,Rai 1 HD
+http://146.19.16.207:8020/play/a04c/index.m3u8
+#EXTINF:-1,Rai 2 HD
+http://146.19.16.207:8020/play/a04d/index.m3u8
+#EXTINF:-1,Rai 3 HD
+http://146.19.16.207:8020/play/a04e/index.m3u8
+#EXTINF:-1,Rai 4 HD
+http://146.19.16.207:8020/play/a04f/index.m3u8
+#EXTINF:-1,Rai Movie HD
+http://146.19.16.207:8020/play/a04g/index.m3u8
 #EXTINF:-1,Rai 1
 http://185.204.32.4:9981/stream/channelid/2078368351?ticket=80099E9F14D55595344578A29F73FFA8E3B1743C&profile=pass
 #EXTINF:-1,Rai 2
