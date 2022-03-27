@@ -199,6 +199,18 @@ http://171.22.150.202:2040/live/scanmob/playlist.m3u8
 http://171.22.150.202:2040/live/faxnewsmobpp1/playlist.m3u8
 #EXTINF:-1,A2 CNN
 http://171.22.150.202:2040/live/a2pp2/playlist.m3u8
+#EXTINF:-1,SPIN-TV HD 
+http://45.84.119.46:8022/0.m3u8
+#EXTINF:-1,TV TROPOJA HD
+http://live2.tropoja.tv/al/tropoja/playlist.m3u8
+#EXTINF:-1,TV BERATI HD
+http://32.shqiptv.org/TV-BERATI/playlist.m3u8
+#EXTINF:-1,ALBANIAN TV USA
+https://tna5.bozztv.com/ALBANIANTVUSA/index.m3u8
+#EXTINF:-1,ALB UK HD
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
+#EXTINF:-1,TV SHQIPONJA
+http://ott.iptvshqipott.com:8080/live/shqiponja/tv/236.m3u8
 #EXTINF:-1,Folklorit TV
 https://5a1178b42cc03.streamlock.net/8144/8144/chunklist_w1031408207.m3u8
 #EXTINF:-1,Ulqini tv
