@@ -214,7 +214,7 @@ http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8
 #EXTINF:-1,Opoja tv
 http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
 #EXTINF:-1,kopliku tv
-http://167.86.125.240:25461/live/kopliku/12/1.m3u8
+http://livetv.kopliku.tv:1935/live/koplikutv.stream/index.m3u8
 #EXTINF:-1,elrodi tv
 http://79.137.66.111/elroditv_240p/index.m3u8
 #EXTINF:-1,alb dreams
