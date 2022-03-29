@@ -239,6 +239,24 @@ http://109.69.2.120:8337/tvsole/Stream1_720p/index.m3u8
 http://46.99.146.236/0.m3u8
 #EXTINF:-1,zjarr HD
 http://95.107.132.106/out/u/495_1.m3u8
+#EXTINF:-1,Animax tv
+http://iptv.tvfix.org/hls/animax.m3u8
+#EXTINF:-2,Fox HD
+http://iptv.tvfix.org/hls/fox.m3u8
+#EXTINF:-1,Axn HD
+http://iptv.tvfix.org/hls/axn.m3u8
+#EXTINF:-1,Hbo hd
+http://iptv.tvfix.org/hls/hbo.m3u8
+#EXTINF:-1,Discovery chanal
+http://iptv.tvfix.org/hls/discovery.m3u8
+#EXTINF:-1,Discovery wild
+http://iptv.tvfix.org/hls/discoverywild.m3u8
+#EXTINF:-1,Animal planet
+http://iptv.tvfix.org/hls/animal.m3u8
+#EXTINF:-1,Planet world
+http://iptv.tvfix.org/hls/planet.m3u8
+#EXTINF:-1,History hd
+http://iptv.tvfix.org/hls/history.m3u8
 #EXTINF:-1,TRING SUPER
 http://194.15.225.98:8000/play/a005
 #EXTINF:-1,Tring ACTION
