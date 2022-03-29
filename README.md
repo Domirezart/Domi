@@ -253,8 +253,6 @@ http://iptv.tvfix.org/hls/discovery.m3u8
 http://iptv.tvfix.org/hls/discoverywild.m3u8
 #EXTINF:-1,Animal planet
 http://iptv.tvfix.org/hls/animal.m3u8
-#EXTINF:-1,Animal planet 2
-http://iptv.tvfix.org/hls/animal2.m3u8
 #EXTINF:-1,Planet world
 http://iptv.tvfix.org/hls/planet.m3u8
 #EXTINF:-1,History hd
@@ -265,10 +263,24 @@ http://194.15.225.98:8000/play/a005
 http://194.15.225.98:8000/play/a2qs
 #EXTINF:-1,SportCLUB 1
 http://194.15.225.98:8000/play/a2qu
-#EXTINF:-1SportCLUB 2
+#EXTINF:-1,SportCLUB 2
 http://194.15.225.98:8000/play/a2qz
 #EXTINF:-1,SportCLUB 3
 http://194.15.225.98:8000/play/a2qt
+#EXTINF:-1,ArtSport 4 HD
+http://185.222.138.163:9000/play/a0up
+#EXTINF:-1,ArtSport 5 HD
+http://185.222.138.163:9000/play/a0uq
+#EXTINF:-1,ArtSport 6 HD
+http://185.222.138.163:9000/play/a0ur
+#EXTINF:-1,K Sport 1 HD
+http://185.222.138.163:9000/play/a0ts
+#EXTINF:-1,K Sport 2 HD
+http://185.222.138.163:9000/play/a0tt
+#EXTINF:-1,K Sport 3 HD
+http://185.222.138.163:9000/play/a0tu
+#EXTINF:-1,K Sport 4 HD
+http://185.222.138.163:9000/play/a0k3
 #EXTINF:-1,Makkah TV
 http://194.15.225.98:8000/play/a2qp
 #EXTINF:-1,Kanal D DRAMA
