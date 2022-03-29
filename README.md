@@ -253,6 +253,8 @@ http://iptv.tvfix.org/hls/discovery.m3u8
 http://iptv.tvfix.org/hls/discoverywild.m3u8
 #EXTINF:-1,Animal planet
 http://iptv.tvfix.org/hls/animal.m3u8
+#EXTINF:-1,Animal planet 2
+http://iptv.tvfix.org/hls/animal2.m3u8
 #EXTINF:-1,Planet world
 http://iptv.tvfix.org/hls/planet.m3u8
 #EXTINF:-1,History hd
