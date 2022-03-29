@@ -339,42 +339,6 @@ http://95.107.132.106/out/u/864_4.m3u8
 http://95.107.132.106/out/u/865_4.m3u8
 #EXTINF:-1,tring sport 3
 http://95.107.132.106/out/u/867_4.m3u8
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV MAQEDONIA ",Alsat
-https://vipottbpkstream.vip.hr/Content/onevip-hls-vmx/Live/Channel(Alsat_M)/index.m3u8
-#EXTINF:0,Tv shenja
-https://vipottbpkstream.vip.hr/Content/onevip-hls-vmx/Live/Channel(TV_Shenja)/index.m3u8
-#EXTINF:0,Kanal 5
-https://vipottbpkstream.vip.hr/Content/onevip-hls-vmx/Live/Channel(Kanal_5)/index.m3u8
-#EXTINF:0,Sitel
-https://vipottbpkstream.vip.hr/Content/onevip-hls-vmx/Live/Channel(Sitel)/index.m3u8
-#EXTINF:0, Telma
-https://vipottbpkstream.vip.hr/Content/onevip-hls-vmx/Live/Channel(Telma)/index.m3u8
-#EXTINF:0,Alfa
-https://vipottbpkstream.vip.hr/Content/onevip-hls-vmx/Live/Channel(Alfa)/index.m3u8
-#EXTINF:0,Mrt1
-https://vipottbpkstream.vip.hr/Content/onevip-hls-vmx/Live/Channel(MRT_1)/index.m3u8
-#EXTINF:-1,Sky Folk M
-http://eu.live.skyfolk.mk/live.m3u8
-#EXTINF:-1,Nasha tv
-https://vipottbpkstream.vip.hr/Content/onevip-hls-vmx/Live/Channel(Nasha_TV)/index.m3u8
-#EXTINF:0,Tv24
-https://vipottbpkstream.vip.hr/Content/onevip-hls-vmx/Live/Channel(24_Vesti)/index.m3u8
-#EXTINF:0,Tv21
-https://vipottbpkstream.vip.hr/Content/onevip-hls-vmx/Live/Channel(TV21)/index.m3u8
-#EXTINF:0,Tv nova
-https://vipottbpkstream.vip.hr/Content/onevip-hls-vmx/Live/Channel(TV_Nova_MK)/index.m3u8
-#EXTINF:0,Kanal 5+
-https://vipottbpkstream.vip.hr/Content/onevip-hls-vmx/Live/Channel(Kanal_5_Plus_MK)/index.m3u8
-#EXTINF:0,Mrt2
-https://vipottbpkstream.vip.hr/Content/onevip-hls-vmx/Live/Channel(MRT_2)/index.m3u8
-#EXTINF:0,Mtm
-https://vipottbpkstream.vip.hr/Content/onevip-hls-vmx/Live/Channel(MTM)/index.m3u8
-#EXTINF:0,Sobraniski
-https://vipottbpkstream.vip.hr/Content/onevip-hls-vmx/Live/Channel(Sobraniski_Kanal)/index.m3u8
-#EXTINF:0,Shutel
-https://vipottbpkstream.vip.hr/Content/onevip-hls-vmx/Live/Channel(Shutel)/index.m3u8
-#EXTINF:0,Tv era
-https://vipottbpkstream.vip.hr/Content/onevip-hls-vmx/Live/Channel(ERA)/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM", Cartelera Premiere HD 1080P
 http://f4.tvxweb.net:8082/9040/mpegts?token=MxPReBvRE1
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",  HBO East HD 1080P
