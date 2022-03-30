@@ -29,6 +29,10 @@ https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
 #EXTINF:-1,La 5
 http://146.19.16.207:8019/play/a04l/index.m3u8
+#EXTINF:-1,Rsi 1
+http://190.2.155.162/RSI1/index.m3u8
+#EXTINF:-1,Rsi 2
+http://190.2.155.162/RSI2/index.m3u8
 #EXTINF:-1,Rai 1
 http://185.204.32.4:9981/stream/channelid/2078368351?ticket=80099E9F14D55595344578A29F73FFA8E3B1743C&profile=pass
 #EXTINF:-1,Rai 2
