@@ -23,6 +23,8 @@ http://146.19.16.207:8019/play/a04h/index.m3u8
 http://146.19.16.207:8019/play/a04g/index.m3u8
 #EXTINF:-1,Rete4 HD
 http://146.19.16.207:8019/play/a04i/index.m3u8
+#EXTINF:-1,La 7 HD
+https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
 #EXTINF:-1,La 5
 http://146.19.16.207:8019/play/a04l/index.m3u8
 #EXTINF:-1,Rai 1
