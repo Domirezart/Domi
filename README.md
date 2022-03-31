@@ -11,6 +11,8 @@ http://146.19.16.207:8020/play/a04e/index.m3u8
 http://146.19.16.207:8020/play/a04f/index.m3u8
 #EXTINF:-1,Rai 5 HD
 http://146.19.16.207:8018/play/a04g/index.m3u8
+#EXTINF:-1,Rai news HD
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 #EXTINF:-1,Rai Sport + HD
 http://146.19.16.207:8018/play/a04f/index.m3u8
 #EXTINF:-1,Rai YoYo HD
