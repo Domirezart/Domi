@@ -26,7 +26,9 @@ http://146.19.16.207:8019/play/a04g/index.m3u8
 #EXTINF:-1,Rete4 HD
 http://146.19.16.207:8019/play/a04i/index.m3u8
 #EXTINF:-1,La 7 HD
-https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
+https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live_1280x720_.m3u8
+#EXTINF:-1,La 7D HD
+https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live_1280x720_.m3u8
 #EXTINF:-1,La 9
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
 #EXTINF:-1,La 5
