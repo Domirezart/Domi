@@ -129,6 +129,10 @@ http://95.107.132.106/out/u/gfhsghshsgfhsfgh.m3u8
 https://monamour.agency/johaniter007web/index.m3u8
 #EXTINF:-1,News 24
 http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
+#EXTINF:-1,Ora tv
+http://live1.mediadesk.al/oratv.m3u8
+#EXTINF:-1,Ora news
+http://live1.mediadesk.al/oranews.m3u8
 #EXTINF:-1,Top Channel
 http://199.127.60.117:8081/live/top/playlist.m3u8
 #EXTINF:-1,klan hd
