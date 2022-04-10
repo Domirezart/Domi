@@ -127,6 +127,8 @@ http://local.liveline.nu:2085/play/a0b2ALSAMMFHD/index.m3u8
 http://95.107.132.106/out/u/gfhsghshsgfhsfgh.m3u8
 #EXTINF:-1,TV Johaniter
 https://monamour.agency/johaniter007web/index.m3u8
+#EXTINF:-1,ONE HD
+http://rtmp.one.by:1300
 #EXTINF:-1,News 24
 http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
 #EXTINF:-1,Ora tv
