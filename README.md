@@ -771,22 +771,20 @@ http://93.152.174.144:4000/play/btsport1/index.m3u8
 http://93.152.174.144:4000/play/btsport2/index.m3u8
 #EXTINF:-1,bt sport3
 http://93.152.174.144:4000/play/btsport3/index.m3u8
-#EXTINF:-1 group-title="ALB XXX 🔞 TV 🇦🇱" tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",xx 1 🔞
+#EXTINF:-1 group-title="ALB XXX 🔞 TV 🇦🇱" tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",redlight hd 🔞
 http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,xx 2 🔞
-http://flusonic-13.platinum-tv.com/Brazzers/index.m3u8?token=test
-#EXTINF:-1,xx 3 🔞
-http://185.96.176.139:8080/superone/index.m3u8
-#EXTINF:-1,xx 4 🔞
-https://www.filmon.com/vr-streams/6155.high/playlist.m3u8
-#EXTINF:-1,xx 5 🔞
-https://www.filmon.com/vr-streams/6149.high/playlist.m3u8
-#EXTINF:-1,xx 6 🔞
-https://www.filmon.com/vr-streams/6152.high/playlist.m3u8
-#EXTINF:-1,xx 7 🔞
-https://www.filmon.com/vr-streams/6158.high/playlist.m3u8
-#EXTINF:-1,xx 8 🔞
-https://www.filmon.com/vr-streams/6170.high/playlist.m3u8
+#EXTINF:-1,Penthouse Gold 🔞
+http://80.24.75.92:5555/udp/239.111.4.1:1234
+#EXTINF:-1,Penthouse Quickies 🔞
+http://80.24.75.92:5555/udp/239.111.4.2:1234
+#EXTINF:-1,REDLIGHT HD 🔞
+http://93.152.174.144:4000/play/privatetv1/index.m3u8
+#EXTINF:-1,Hustler HD 🔞
+http://193.33.240.8:80/hustler_hd/index.m3u8
+#EXTINF:-1,Extasy/LeoTV 🔞
+http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
+#EXTINF:-1,XYPLUS 🔞
+http://95.87.227.29:8080/XYPLUS_FOR_PLATFORM/index.m3u8
 #EXTINF:-1,Extasy 🔞
 http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
 #EXTINF:-1,Super One 🔞
