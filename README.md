@@ -37,22 +37,18 @@ http://146.19.16.207:8019/play/a04l/index.m3u8
 http://190.2.155.162/RSI1/index.m3u8
 #EXTINF:-1,Rsi 2
 http://190.2.155.162/RSI2/index.m3u8
-#EXTINF:-1,TNT HD
-http://190.11.83.98:8000/play/a01o
-#EXTINF:-1,TNT Series HD
-http://190.11.83.98:8000/play/a029
-#EXTINF:-1,UNIVERSAL CINEMA HD
-http://190.11.83.98:8000/play/a02g
-#EXTINF:-1,UNIVERSAL COMEDY HD
-http://190.11.83.98:8000/play/a01z
-#EXTINF:-1,UNIVERSAL CRIME HD
-http://190.11.83.98:8000/play/a01y
-#EXTINF:-1,UNIVERSAL PREMIERE HD
-http://190.11.83.98:8000/play/a01w
-#EXTINF:-1,UNIVERSAL REALITY HD
-http://190.11.83.98:8000/play/a01x
-#EXTINF:-1,Univision HD
-http://190.11.83.98:8000/play/a02e
+#EXTINF:-1,top channal
+http://85.209.248.3:2222/topchannelhd
+#EXTINF:-1,vizion plus
+http://85.209.248.3:2222/vizionplus
+#EXTINF:-1,tv klan
+http://85.209.248.3:2222/klanhd
+#EXTINF:-1,klan plus
+http://85.209.248.3:2222/klanplus
+#EXTINF:-1,news 24
+http://85.209.248.3:2222/news24
+#EXTINF:-1,alsat 
+http://85.209.248.3:2222/alsatm
 #EXTINF:-1,Rai 1
 http://185.204.32.4:9981/stream/channelid/2078368351?ticket=80099E9F14D55595344578A29F73FFA8E3B1743C&profile=pass
 #EXTINF:-1,Rai 2
