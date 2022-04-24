@@ -47,6 +47,28 @@ http://85.209.248.3:2222/klanhd
 http://85.209.248.3:2222/klanplus
 #EXTINF:-1,news 24
 http://85.209.248.3:2222/news24
+#EXTINF:-1,ora news
+http://85.209.248.3:2222/oranews
+#EXTINF:-1,fax news
+http://85.209.248.3:2222/faxnews
+#EXTINF:-1,s sport 1
+http://62.182.80.87:8081/Test22/Test22/1018
+#EXTINF:-1,s sport 2
+http://62.182.80.87:8081/Test22/Test22/1019
+#EXTINF:-1,s sport 3
+http://62.182.80.87:8081/Test22/Test22/1020
+#EXTINF:-1,s sport 4
+http://62.182.80.87:8081/Test22/Test22/1021
+#EXTINF:-1,t sport news
+http://62.182.80.87:8081/Test22/Test22/1022
+#EXTINF:-1,t sport 1
+http://62.182.80.87:8081/Test22/Test22/1023
+#EXTINF:-1,t sport 2
+http://62.182.80.87:8081/Test22/Test22/1024
+#EXTINF:-1,t sport 3
+http://62.182.80.87:8081/Test22/Test22/1025
+#EXTINF:-1,t sport 4
+http://62.182.80.87:8081/Test22/Test22/1026
 #EXTINF:-1,Rai 1
 http://185.204.32.4:9981/stream/channelid/2078368351?ticket=80099E9F14D55595344578A29F73FFA8E3B1743C&profile=pass
 #EXTINF:-1,Rai 2
