@@ -45,6 +45,14 @@ http://85.209.248.3:2222/vizionplus
 http://85.209.248.3:2222/klanhd
 #EXTINF:-1,klan plus
 http://85.209.248.3:2222/klanplus
+#EXTINF:-1,klan muzik
+http://85.209.248.3:2222/klanmuzik
+#EXTINF:-1,klan news
+http://85.209.248.3:2222/klannews
+#EXTINF:-1,klan sport
+http://85.209.248.3:2222/klansport
+#EXTINF:-1,abc news
+http://85.209.248.3:2222/abcnewshd
 #EXTINF:-1,news 24
 http://85.209.248.3:2222/news24
 #EXTINF:-1,ora news
