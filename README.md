@@ -153,8 +153,8 @@ http://local.liveline.nu:2085/play/a0b2ALSAMMFHD/index.m3u8
 http://95.107.132.106/out/u/gfhsghshsgfhsfgh.m3u8
 #EXTINF:-1,TV Johaniter
 https://monamour.agency/johaniter007web/index.m3u8
-#EXTINF:-1,top news
-https://stream-12.dc3.dailymotion.com/sec(Rt6MMB82ZLcHsd-t3Q1iragIDQclj43hJdy3pJMjIfvMens9AeGtyjtIu-8WO8C1)/dm/3/x6inuzo/s/live-2.m3u8
+#EXTINF:-1,drita tv
+https://monamour.agency/dritaweb008/index.m3u8
 #EXTINF:-1,ONE HD
 http://rtmp.one.by:1300
 #EXTINF:-1,News 24
