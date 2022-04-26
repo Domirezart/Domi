@@ -37,6 +37,12 @@ http://146.19.16.207:8019/play/a04l/index.m3u8
 http://190.2.155.162/RSI1/index.m3u8
 #EXTINF:-1,Rsi 2
 http://190.2.155.162/RSI2/index.m3u8
+#EXTINF:-1,rtsh 1
+http://85.209.248.3:2222/rtsh1
+#EXTINF:-1,rtsh 2
+http://85.209.248.3:2222/rtsh2
+#EXTINF:-1,rtsh 3
+http://85.209.248.3:2222/rtsh3
 #EXTINF:-1,top channal
 http://85.209.248.3:2222/topchannelhd
 #EXTINF:-1,vizion plus
@@ -49,6 +55,18 @@ http://85.209.248.3:2222/klanplushd
 http://85.209.248.3:2222/klanmuzik
 #EXTINF:-1,klan news
 http://85.209.248.3:2222/klannews
+#EXTINF:-1,panorama tv
+http://85.209.248.3:2222/panoramatv
+#EXTINF:-1,1 channel
+http://85.209.248.3:2222/tv1channel
+##EXTINF:-1,mcn hd
+http://85.209.248.3:2222/mcntv
+#EXTINF:-1,syri hd
+http://85.209.248.3:2222/syrihd
+#EXTINF:-1,scan tv
+http://85.209.248.3:2222/scantv
+#EXTINF:-1,top news
+http://85.209.248.3:2222/topnews
 #EXTINF:-1,abc news
 http://85.209.248.3:2222/abcnewshd
 #EXTINF:-1,news 24
