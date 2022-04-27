@@ -93,6 +93,14 @@ http://62.182.80.87:8081/Test22/Test22/1024
 http://62.182.80.87:8081/Test22/Test22/1025
 #EXTINF:-1,t sport 4
 http://62.182.80.87:8081/Test22/Test22/1026
+#EXTINF:-1,Arena Sport 1
+http://188.124.211.121:8557/play/a021
+#EXTINF:-1,Arena Sport 2
+http://188.124.211.121:8557/play/a022
+#EXTINF:-1,Arena Sport 3
+http://188.124.211.121:8557/play/a023
+#EXTINF:-1,Arena Sport 4
+http://188.124.211.121:8557/play/a024
 #EXTINF:-1,Rai 1
 http://185.204.32.4:9981/stream/channelid/2078368351?ticket=80099E9F14D55595344578A29F73FFA8E3B1743C&profile=pass
 #EXTINF:-1,Rai 2
