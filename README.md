@@ -75,24 +75,52 @@ http://85.209.248.3:2222/news24
 http://85.209.248.3:2222/oranews
 #EXTINF:-1,fax news
 http://85.209.248.3:2222/faxnews
-#EXTINF:-1,s sport 1
+#EXTINF:-1,super sport 1
 http://62.182.80.87:8081/Test22/Test22/1018
-#EXTINF:-1,s sport 2
+#EXTINF:-1,super sport 2
 http://62.182.80.87:8081/Test22/Test22/1019
-#EXTINF:-1,s sport 3
+#EXTINF:-1,super sport 3
 http://62.182.80.87:8081/Test22/Test22/1020
-#EXTINF:-1,s sport 4
+#EXTINF:-1,super sport 4
 http://62.182.80.87:8081/Test22/Test22/1021
-#EXTINF:-1,t sport news
+#EXTINF:-1,tring sport news
 http://62.182.80.87:8081/Test22/Test22/1022
-#EXTINF:-1,t sport 1
+#EXTINF:-1,tring sport 1
 http://62.182.80.87:8081/Test22/Test22/1023
-#EXTINF:-1,t sport 2
+#EXTINF:-1,tring sport 2
 http://62.182.80.87:8081/Test22/Test22/1024
-#EXTINF:-1,t sport 3
+#EXTINF:-1,tring sport 3
 http://62.182.80.87:8081/Test22/Test22/1025
-#EXTINF:-1,t sport 4
+#EXTINF:-1,tring sport 4
 http://62.182.80.87:8081/Test22/Test22/1026
+#EXTINF:-1, SUPERSPORT 1
+http://77.247.109.109:8008/a/willene/live/1974733435.ts
+#EXTINF:-1, SUPERSPORT 2
+http://77.247.109.109:8008/a/willene/live/840200363.ts
+#EXTINF:-1, SUPERSPORT 3
+http://77.247.109.109:8008/a/willene/live/1221862347.ts
+#EXTINF:-1, SUPERSPORT 4
+http://77.247.109.109:8008/a/willene/live/3923795525.ts 
+#EXTINF:-1,Tring sport 1
+http://95.107.132.106/out/u/864_4.m3u8 
+#EXTINF:-1,Tring sport 2
+http://95.107.132.106/out/u/865_4.m3u8 
+#EXTINF:-1,Tring sport 3
+http://95.107.132.106/out/u/867_4.m3u8
+#EXTINF:-1, KUJTESA 1
+http://77.247.109.109:8008/a/willene/live/2711778750.ts
+#EXTINF:-1, KUJTESA 2
+http://77.247.109.109:8008/a/willene/live/3858894702.ts
+#EXTINF:-1, KUJTESA 3
+http://77.247.109.109:8008/a/willene/live/3680642782.ts
+#EXTINF:-1, OVERSPORT 1
+http://77.247.109.109:8008/a/willene/live/4113485470.ts
+#EXTINF:-1, OVERSPORT 2
+http://77.247.109.109:8008/a/willene/live/2074200445.ts
+#EXTINF:-1, OVERSPORT 3
+http://77.247.109.109:8008/a/willene/live/3071003107.ts
+#EXTINF:-1, OVERSPORT 4
+http://77.247.109.109:8008/a/willene/live/3184443642.ts
 #EXTINF:-1,Arena Sport 1
 http://188.124.211.121:8557/play/a021
 #EXTINF:-1,Arena Sport 2
