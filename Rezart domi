@@ -129,6 +129,12 @@ http://188.124.211.121:8557/play/a022
 http://188.124.211.121:8557/play/a023
 #EXTINF:-1,Arena Sport 4
 http://188.124.211.121:8557/play/a024
+#EXTINF:-1,match 1hd
+http://212.122.80.182:38167/play/a01h/index.m3u8
+#EXTINF:-1,match 2hd
+http://212.122.80.182:38167/play/a00v/index.m3u8
+#EXTINF:-1,match 3hd
+http://212.122.80.182:38167/play/a00w/index.m3u8
 #EXTINF:-1,Rai 1
 http://185.204.32.4:9981/stream/channelid/2078368351?ticket=80099E9F14D55595344578A29F73FFA8E3B1743C&profile=pass
 #EXTINF:-1,Rai 2
