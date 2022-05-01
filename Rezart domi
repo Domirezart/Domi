@@ -211,15 +211,17 @@ http://185.204.32.4:9981/stream/channelid/101480720?ticket=E164CD67A6836FEAF3BC6
 http://185.204.32.4:9981/stream/channelid/321131333?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:zaltv.co
 #EXTINF:-1,Top Channel HD
 http://185.204.32.4:9981/stream/channelid/1406086565?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:zaltv.co
-#EXTINF:-1,Top Channel
+#EXTINF:-1,Klan Kosova hd
+http://46.29.169.15:4001/play/a013/index.m3u8
+#EXTINF:-1,Top Channel hd
 http://local.liveline.nu:2085/play/a0artopchannel/index.m3u8
-#EXTINF:-1,Alsat M
+#EXTINF:-1,Alsat M hd
 http://local.liveline.nu:2085/play/a0b2ALSAMMFHD/index.m3u8
-#EXTINF:-1,VIZION +
+#EXTINF:-1,VIZION + hd
 http://95.107.132.106/out/u/gfhsghshsgfhsfgh.m3u8
 #EXTINF:-1,TV Johaniter
 https://monamour.agency/johaniter007web/index.m3u8
-#EXTINF:-1,drita tv
+#EXTINF:-1,drita tv hd
 https://monamour.agency/dritaweb008/index.m3u8
 #EXTINF:-1,bbf
 http://171.22.150.202:2040/live/bbfottpp1/playlist.m3u8
@@ -234,7 +236,7 @@ http://live1.mediadesk.al/oratv.m3u8
 #EXTINF:-1,Ora news
 http://live1.mediadesk.al/oranews.m3u8
 #EXTINF:-1,Top Channel
-http://199.127.60.117:8081/live/top1/playlist.m3u8
+http://199.127.60.117:8081/live/top/playlist.m3u8
 #EXTINF:-1,klan hd
 http://199.127.60.117:8081/live/klan/playlist.m3u8
 #EXTINF:-1,klan plus
