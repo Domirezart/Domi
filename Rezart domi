@@ -99,14 +99,20 @@ http://95.107.132.106/out/u/864_4.m3u8
 http://95.107.132.106/out/u/865_4.m3u8 
 #EXTINF:-1,Tring sport 3
 http://95.107.132.106/out/u/867_4.m3u8
-#EXTINF:-1,Arena Sport 1
-http://188.124.211.121:8557/play/a021
-#EXTINF:-1,Arena Sport 2
-http://188.124.211.121:8557/play/a022
-#EXTINF:-1,Arena Sport 3
-http://188.124.211.121:8557/play/a023
-#EXTINF:-1,Arena Sport 4
-http://188.124.211.121:8557/play/a024
+#EXTINF:-1,BeinSport 1
+http://sibfungold.info:8080/live/pacha-man1/81CWlT7aD5/3244.ts
+#EXTINF:-1,BeinSport 2
+http://sibfungold.info:8080/live/pacha-man1/81CWlT7aD5/3245.ts
+#EXTINF:-1,BeinSport 3
+http://sibfungold.info:8080/live/pacha-man1/81CWlT7aD5/3246.ts
+#EXTINF:-1,BeinSport 4
+http://sibfungold.info:8080/live/pacha-man1/81CWlT7aD5/3247.ts
+#EXTINF:-1,BeinSport 5
+http://sibfungold.info:8080/live/pacha-man1/81CWlT7aD5/49383.ts
+#EXTINF:-1,BeinSport 6
+http://sibfungold.info:8080/live/pacha-man1/81CWlT7aD5/49384.ts
+#EXTINF:-1,BeinSport 7
+http://sibfungold.info:8080/live/pacha-man1/81CWlT7aD5/49385.ts
 #EXTINF:-1,match 1hd
 http://212.122.80.182:38167/play/a01h/index.m3u8
 #EXTINF:-1,match 2hd
