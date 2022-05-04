@@ -201,6 +201,14 @@ http://95.107.132.106/out/u/gfhsghshsgfhsfgh.m3u8
 https://monamour.agency/johaniter007web/index.m3u8
 #EXTINF:-1,drita tv hd
 https://monamour.agency/dritaweb008/index.m3u8
+#EXTINF:-1,DigiGold 1
+http://sibfungold.info:8080/live/pacha-man1/81CWlT7aD5/47154.ts
+#EXTINF:-1,DigiGold 2
+http://sibfungold.info:8080/live/pacha-man1/81CWlT7aD5/52059.ts
+#EXTINF:-1,DigiGold 3
+http://sibfungold.info:8080/live/pacha-man1/81CWlT7aD5/52060.ts
+#EXTINF:-1,DigiGold 4
+http://sibfungold.info:8080/live/pacha-man1/81CWlT7aD5/52061.ts
 #EXTINF:-1,bbf
 http://171.22.150.202:2040/live/bbfottpp1/playlist.m3u8
 #EXTINF:-1,euronews al
