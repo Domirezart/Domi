@@ -121,6 +121,14 @@ http://212.122.80.182:38167/play/a01h/index.m3u8
 http://212.122.80.182:38167/play/a00v/index.m3u8
 #EXTINF:-1,match 3hd
 http://212.122.80.182:38167/play/a00w/index.m3u8
+#EXTINF:-1,Sport 1
+http://roi-tv.net:9000/live/iptv-t2/xtream-08-02-17-POlkrT6!/30.ts
+#EXTINF:-1,Sport 2
+http://roi-tv.net:9000/live/iptv-t2/xtream-08-02-17-POlkrT6!/31.ts
+#EXTINF:-1,Sport 3
+http://roi-tv.net:9000/live/iptv-t2/xtream-08-02-17-POlkrT6!/32.ts
+#EXTINF:-1,Sport 4
+http://roi-tv.net:9000/live/iptv-t2/xtream-08-02-17-POlkrT6!/33.ts
 #EXTINF:-1,Rai 1
 http://185.204.32.4:9981/stream/channelid/2078368351?ticket=80099E9F14D55595344578A29F73FFA8E3B1743C&profile=pass
 #EXTINF:-1,Rai 2
