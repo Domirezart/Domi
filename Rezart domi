@@ -33,6 +33,8 @@ https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
 https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
 #EXTINF:-1,La 8 HD
 https://skyanywhere3-i.akamaihd.net/hls/live/510694/mtv8sdlive/index.m3u8
+#EXTINF:-1,Cielo HD
+https://skyanywhere3-i.akamaihd.net/hls/live/510693/cielo/playlist.m3u8
 #EXTINF:-1,La 5
 http://146.19.16.207:8019/play/a04l/index.m3u8
 #EXTINF:-1,Rsi 1
