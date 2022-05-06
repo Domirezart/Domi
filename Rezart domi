@@ -29,6 +29,8 @@ https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(i1)/
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
 #EXTINF:-1,Italia2 HD
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
+#EXTINF:-1,Mediaset Extra HD
+https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
 #EXTINF:-1,La 7 HD
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
 #EXTINF:-1,La 7D HD
@@ -43,34 +45,6 @@ https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ka)/
 http://190.2.155.162/RSI1/index.m3u8
 #EXTINF:-1,Rsi 2
 http://190.2.155.162/RSI2/index.m3u8
-#EXTINF:-1,nov@ documentary 2
-http://163.172.33.7:25461/live/serveramsterdam/2292020/1.ts
-#EXTINF:-1,nov@ kids 2
-http://163.172.33.7:25461/live/serveramsterdam/2292020/2.ts
-#EXTINF:-1,nov@ cinema 2
-http://163.172.33.7:25461/live/serveramsterdam/2292020/13.ts
-#EXTINF:-1,nov@ cinema 2K
-http://163.172.33.7:25461/live/serveramsterdam/2292020/14.ts
-#EXTINF:-1,rtl documentary
-http://163.172.33.7:25461/live/serveramsterdam/2292020/18.ts
-#EXTINF:-1,nov@ cinema
-http://163.172.33.7:25461/live/serveramsterdam/2292020/21.ts
-#EXTINF:-1,nov@ kids
-http://163.172.33.7:25461/live/serveramsterdam/2292020/22.ts
-#EXTINF:-1,nov@ family
-http://163.172.33.7:25461/live/serveramsterdam/2292020/23.ts
-#EXTINF:-1,nov@ documentary
-http://163.172.33.7:25461/live/serveramsterdam/2292020/24.ts
-#EXTINF:-1,HBO max
-http://163.172.33.7:25461/live/serveramsterdam/2292020/33.ts
-#EXTINF:-1,Box Office 1
-http://163.172.33.7:25461/live/serveramsterdam/2292020/39.ts
-#EXTINF:-1,Box Office 2
-http://163.172.33.7:25461/live/serveramsterdam/2292020/40.ts
-#EXTINF:-1,Box Office 3
-http://163.172.33.7:25461/live/serveramsterdam/2292020/41.ts
-#EXTINF:-1,Box Office 4
-http://163.172.33.7:25461/live/serveramsterdam/2292020/42.ts
 #EXTINF:-1,Film Play 1
 http://vpro.viptvclub.com:25443/live/V59Ssbxk605P/S8r5cjP9Ym/9322.ts
 #EXTINF:-1,Film Play 2
