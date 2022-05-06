@@ -41,6 +41,8 @@ https://skyanywhere3-i.akamaihd.net/hls/live/510694/mtv8sdlive/index.m3u8
 https://skyanywhere3-i.akamaihd.net/hls/live/510693/cielo/playlist.m3u8
 #EXTINF:-1,Iris HD
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
+#EXTINF:-1,Boing  HD
+https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(kb)/index.m3u8
 #EXTINF:-1,La 5
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
 #EXTINF:-1,Rsi 1
