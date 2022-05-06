@@ -65,6 +65,20 @@ http://163.172.33.7:25461/live/serveramsterdam/2292020/40.ts
 http://163.172.33.7:25461/live/serveramsterdam/2292020/41.ts
 #EXTINF:-1,Box Office 4
 http://163.172.33.7:25461/live/serveramsterdam/2292020/42.ts
+#EXTINF:-1,Film Play 1
+http://vpro.viptvclub.com:25443/live/V59Ssbxk605P/S8r5cjP9Ym/9322.ts
+#EXTINF:-1,Film Play 2
+http://vpro.viptvclub.com:25443/live/V59Ssbxk605P/S8r5cjP9Ym/9321.ts
+#EXTINF:-1,Film Play 3
+http://vpro.viptvclub.com:25443/live/V59Ssbxk605P/S8r5cjP9Ym/9320.ts
+#EXTINF:-1,Film Play 4
+http://vpro.viptvclub.com:25443/live/V59Ssbxk605P/S8r5cjP9Ym/9319.ts
+#EXTINF:-1,Film Play 5
+http://vpro.viptvclub.com:25443/live/V59Ssbxk605P/S8r5cjP9Ym/9318.ts
+#EXTINF:-1,Film Play 6
+http://vpro.viptvclub.com:25443/live/V59Ssbxk605P/S8r5cjP9Ym/9317.ts
+#EXTINF:-1,Film Play 7
+http://vpro.viptvclub.com:25443/live/V59Ssbxk605P/S8r5cjP9Ym/9316.ts
 #EXTINF:-1,rtsh 1
 http://85.209.248.3:2222/rtsh1
 #EXTINF:-1,rtsh 2
