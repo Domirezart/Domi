@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="ALB TV SHQIP 🇦🇱 "tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",DOMI SHIJAKSI 🇦🇱
 https://albportal.net/albkanalemusic.m3u8
 #EXTINF:-1,Rai 1 HD
-http://146.19.16.207:8020/play/a04c/index.m3u8
+https://streamcdnr28-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiuno1/hls/playlist_ma.m3u8?baseuri=%2Fraiuno1%2Fhls%2F&tstart=0&tend=1651820289&tof=86400&tk2=c897c94d5403a503dcd845ebcf01509f18edfa3468e88f990c3061cadea65f00
 #EXTINF:-1,Rai 2 HD
 http://146.19.16.207:8020/play/a04d/index.m3u8
 #EXTINF:-1,Rai 3 HD
