@@ -22,11 +22,13 @@ https://raigulp1-live.akamaized.net/hls/live/598332/raigulp1/raigulp1/playlist_m
 #EXTINF:-1,Rai Yoyo HD
 https://raiyoyo1-live.akamaized.net/hls/live/598330/raiyoyo1/raiyoyo1/playlist.m3u8
 #EXTINF:-1,Canale5 HD
-http://146.19.16.207:8019/play/a04h/index.m3u8
+https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(c5)/index.m3u8
 #EXTINF:-1,Italia1 HD
-http://146.19.16.207:8019/play/a04g/index.m3u8
+https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
 #EXTINF:-1,Rete4 HD
-http://146.19.16.207:8019/play/a04i/index.m3u8
+https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
+#EXTINF:-1,Italia2 HD
+https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
 #EXTINF:-1,La 7 HD
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
 #EXTINF:-1,La 7D HD
@@ -36,7 +38,7 @@ https://skyanywhere3-i.akamaihd.net/hls/live/510694/mtv8sdlive/index.m3u8
 #EXTINF:-1,Cielo HD
 https://skyanywhere3-i.akamaihd.net/hls/live/510693/cielo/playlist.m3u8
 #EXTINF:-1,La 5
-http://146.19.16.207:8019/play/a04l/index.m3u8
+https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
 #EXTINF:-1,Rsi 1
 http://190.2.155.162/RSI1/index.m3u8
 #EXTINF:-1,Rsi 2
