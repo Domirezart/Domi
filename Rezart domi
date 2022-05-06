@@ -37,6 +37,34 @@ http://146.19.16.207:8019/play/a04l/index.m3u8
 http://190.2.155.162/RSI1/index.m3u8
 #EXTINF:-1,Rsi 2
 http://190.2.155.162/RSI2/index.m3u8
+#EXTINF:-1,nov@ documentary 2
+http://163.172.33.7:25461/live/serveramsterdam/2292020/1.ts
+#EXTINF:-1,nov@ kids 2
+http://163.172.33.7:25461/live/serveramsterdam/2292020/2.ts
+#EXTINF:-1,nov@ cinema 2
+http://163.172.33.7:25461/live/serveramsterdam/2292020/13.ts
+#EXTINF:-1,nov@ cinema 2K
+http://163.172.33.7:25461/live/serveramsterdam/2292020/14.ts
+#EXTINF:-1,rtl documentary
+http://163.172.33.7:25461/live/serveramsterdam/2292020/18.ts
+#EXTINF:-1,nov@ cinema
+http://163.172.33.7:25461/live/serveramsterdam/2292020/21.ts
+#EXTINF:-1,nov@ kids
+http://163.172.33.7:25461/live/serveramsterdam/2292020/22.ts
+#EXTINF:-1,nov@ family
+http://163.172.33.7:25461/live/serveramsterdam/2292020/23.ts
+#EXTINF:-1,nov@ documentary
+http://163.172.33.7:25461/live/serveramsterdam/2292020/24.ts
+#EXTINF:-1,HBO max
+http://163.172.33.7:25461/live/serveramsterdam/2292020/33.ts
+#EXTINF:-1,Box Office 1
+http://163.172.33.7:25461/live/serveramsterdam/2292020/39.ts
+#EXTINF:-1,Box Office 2
+http://163.172.33.7:25461/live/serveramsterdam/2292020/40.ts
+#EXTINF:-1,Box Office 3
+http://163.172.33.7:25461/live/serveramsterdam/2292020/41.ts
+#EXTINF:-1,Box Office 4
+http://163.172.33.7:25461/live/serveramsterdam/2292020/42.ts
 #EXTINF:-1,rtsh 1
 http://85.209.248.3:2222/rtsh1
 #EXTINF:-1,rtsh 2
