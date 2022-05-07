@@ -33,6 +33,8 @@ http://95.107.132.105/out/u/115_1.m3u8
 http://95.107.132.105/out/u/127_1.m3u8
 #EXTINF:-1,VOX HD
 http://95.107.132.105/out/u/123_1.m3u8
+#EXTINF:-1,SHOW HD
+http://95.107.132.105/out/u/225_2.m3u8
 #EXTINF:-1,super sport 1
 http://62.182.80.87:8081/Test22/Test22/1018
 #EXTINF:-1,super sport 2
