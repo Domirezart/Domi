@@ -1,108 +1,38 @@
 #EXTM3U
 #EXTINF:-1 group-title="ALB TV SHQIP 🇦🇱 "tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",DOMI SHIJAKSI 🇦🇱
 https://albportal.net/albkanalemusic.m3u8
-#EXTINF:-1,Rai 1 HD
-https://streamcdnr28-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiuno1/hls/playlist_ma.m3u8
-#EXTINF:-1,Rai 2 HD
-https://streamcdnr28-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raidue1/hls/playlist_ma.m3u8
-#EXTINF:-1,Rai 3 HD
-https://streamcdnr28-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raitre1/hls/playlist_ma.m3u8
-#EXTINF:-1,Rai 4 HD
-https://streamcdnr28-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiquattro1/hls/playlist_ma.m3u8
-#EXTINF:-1,Rai 5 HD
-https://raicinque1-live.akamaized.net/hls/live/598318/raicinque1/raicinque1/playlist_ma.m3u8
-#EXTINF:-1,Rai news HD
-https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
-#EXTINF:-1,Rai Movie HD
-https://streamcdnr28-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raimovie1/hls/playlist_ma.m3u8
-#EXTINF:-1,Rai Premium HD
-https://streamcdnr28-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raipremium1/hls/playlist_ma.m3u8
-#EXTINF:-1,Rai Gulp HD
-https://raigulp1-live.akamaized.net/hls/live/598332/raigulp1/raigulp1/playlist_ma.m3u8
-#EXTINF:-1,Rai Yoyo HD
-https://raiyoyo1-live.akamaized.net/hls/live/598330/raiyoyo1/raiyoyo1/playlist.m3u8
-#EXTINF:-1,Canale5 HD
+#EXTINF:-1,CANALE 5 HD
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(c5)/index.m3u8
-#EXTINF:-1,Italia1 HD
+#EXTINF:-1,ITALIA 1 HD
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
-#EXTINF:-1,Rete4 HD
+#EXTINF:-1,RETE 4 HD
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
-#EXTINF:-1,Italia2 HD
+#EXTINF:-1,ITALIA 2 HD
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
-#EXTINF:-1,Mediaset Extra HD
+#EXTINF:-1,MEDIASET EXTRA HD
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
-#EXTINF:-1,La 7 HD
+#EXTINF:-1,LA 7 HD
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
-#EXTINF:-1,La 7D HD
+#EXTINF:-1,LA 7D HD
 https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
-#EXTINF:-1,La 8 HD
-https://skyanywhere3-i.akamaihd.net/hls/live/510694/mtv8sdlive/index.m3u8
-#EXTINF:-1,Cielo HD
-https://skyanywhere3-i.akamaihd.net/hls/live/510693/cielo/playlist.m3u8
-#EXTINF:-1,Iris HD
+#EXTINF:-1,IRIS HD
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
-#EXTINF:-1,Boing  HD
+#EXTINF:-1,BOING HD
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(kb)/index.m3u8
-#EXTINF:-1,La 5
+#EXTINF:-1,LA 5
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
-#EXTINF:-1,Cartonato HD
+#EXTINF:-1,CARTOONITO HD
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(la)/index.m3u8
-#EXTINF:-1,Rsi 1
+#EXTINF:-1,RSI 1
 http://190.2.155.162/RSI1/index.m3u8
-#EXTINF:-1,Rsi 2
+#EXTINF:-1,RSI 2
 http://190.2.155.162/RSI2/index.m3u8
-#EXTINF:-1,Film Play 1
-http://vpro.viptvclub.com:25443/live/V59Ssbxk605P/S8r5cjP9Ym/9322.ts
-#EXTINF:-1,Film Play 2
-http://vpro.viptvclub.com:25443/live/V59Ssbxk605P/S8r5cjP9Ym/9321.ts
-#EXTINF:-1,Film Play 3
-http://vpro.viptvclub.com:25443/live/V59Ssbxk605P/S8r5cjP9Ym/9320.ts
-#EXTINF:-1,Film Play 4
-http://vpro.viptvclub.com:25443/live/V59Ssbxk605P/S8r5cjP9Ym/9319.ts
-#EXTINF:-1,Film Play 5
-http://vpro.viptvclub.com:25443/live/V59Ssbxk605P/S8r5cjP9Ym/9318.ts
-#EXTINF:-1,Film Play 6
-http://vpro.viptvclub.com:25443/live/V59Ssbxk605P/S8r5cjP9Ym/9317.ts
-#EXTINF:-1,Film Play 7
-http://vpro.viptvclub.com:25443/live/V59Ssbxk605P/S8r5cjP9Ym/9316.ts
-#EXTINF:-1,rtsh 1
-http://85.209.248.3:2222/rtsh1
-#EXTINF:-1,rtsh 2
-http://85.209.248.3:2222/rtsh2
-#EXTINF:-1,rtsh 3
-http://85.209.248.3:2222/rtsh3
-#EXTINF:-1,top channal
-http://85.209.248.3:2222/topchannelhd
-#EXTINF:-1,vizion plus
-http://85.209.248.3:2222/vizionplus
-#EXTINF:-1,tv klan
-http://85.209.248.3:2222/klanhd
-#EXTINF:-1,klan plus
-http://85.209.248.3:2222/klanplushd
-#EXTINF:-1,klan muzik
-http://85.209.248.3:2222/klanmuzik
-#EXTINF:-1,klan news
-http://85.209.248.3:2222/klannews
-#EXTINF:-1,panorama tv
-http://85.209.248.3:2222/panoramatv
-#EXTINF:-1,1 channel
-http://85.209.248.3:2222/tv1channel
-##EXTINF:-1,mcn hd
-http://85.209.248.3:2222/mcntv
-#EXTINF:-1,syri hd
-http://85.209.248.3:2222/syrihd
-#EXTINF:-1,scan tv
-http://85.209.248.3:2222/scantv
-#EXTINF:-1,top news
-http://85.209.248.3:2222/topnews
-#EXTINF:-1,abc news
-http://85.209.248.3:2222/abcnewshd
-#EXTINF:-1,news 24
-http://85.209.248.3:2222/news24
-#EXTINF:-1,ora news
-http://85.209.248.3:2222/oranews
-#EXTINF:-1,fax news
-http://85.209.248.3:2222/faxnews
+#EXTINF:-1,RTL HD
+http://95.107.132.105/out/u/115_1.m3u8
+#EXTINF:-1,SUPER RTL HD
+http://95.107.132.105/out/u/127_1.m3u8
+#EXTINF:-1,VOX HD
+http://95.107.132.105/out/u/123_1.m3u8
 #EXTINF:-1,super sport 1
 http://62.182.80.87:8081/Test22/Test22/1018
 #EXTINF:-1,super sport 2
