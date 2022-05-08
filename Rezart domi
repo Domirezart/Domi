@@ -127,6 +127,8 @@ http://95.107.132.105/out/u/31_3.m3u8
 http://95.107.132.105/out/u/683_1.m3u8
 #EXTINF:-1,Tring International
 http://95.107.132.105/out/u/606_1.m3u8
+#EXTINF:-1,Tring Tip 
+http://95.107.132.105/out/u/587_2.m3u8
 #EXTINF:-1,Smile
 http://95.107.132.105/out/u/349_2.m3u8
 #EXTINF:-1,Club TV
@@ -158,9 +160,7 @@ http://95.107.132.106/out/u/699_1.m3u8
 #EXTINF:-1,Tring Sport 4
 http://95.107.132.106/out/u/713_4.m3u8
 #EXTINF:-1,Tring Sport News
-http://95.107.132.106/out/u/811_1.m3u8
-#EXTINF:-1,Tip TV
-http://95.107.132.106/out/u/883_1.m3u8 
+http://95.107.132.106/out/u/811_1.m3u8 
 #EXTINF:-1,Tring sport 1
 http://95.107.132.106/out/u/864_4.m3u8 
 #EXTINF:-1,Tring sport 2
