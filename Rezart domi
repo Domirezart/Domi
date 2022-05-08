@@ -237,34 +237,10 @@ http://185.204.32.4:9981/stream/channelid/101480720?ticket=E164CD67A6836FEAF3BC6
 http://185.204.32.4:9981/stream/channelid/321131333?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:zaltv.co
 #EXTINF:-1,Top Channel HD
 http://185.204.32.4:9981/stream/channelid/1406086565?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:zaltv.co
-#EXTINF:-1,Ziko HD
-https://ub1doy938d.gjirafa.net/live/rcBFeREIqcMkNthqI6YCr3Riss97l2MC/y1k0kk1080/index.m3u8
-#EXTINF:-1,ArtKino 1
-http://sibfungold.info:8080/live/pacha-man1/81CWlT7aD5/52215.ts
-#EXTINF:-1,ArtKino 2
-http://sibfungold.info:8080/live/pacha-man1/81CWlT7aD5/52216.ts
-#EXTINF:-1,ArtKino 3
-http://sibfungold.info:8080/live/pacha-man1/81CWlT7aD5/52217.ts
-#EXTINF:-1,Xpremier 1
-http://sibfungold.info:8080/live/pacha-man1/81CWlT7aD5/1374.ts
-#EXTINF:-1,Xpremier 2
-http://sibfungold.info:8080/live/pacha-man1/81CWlT7aD5/1373.ts
-#EXTINF:-1,Xpremier 3
-http://sibfungold.info:8080/live/pacha-man1/81CWlT7aD5/1664.ts
-#EXTINF:-1,DigiGold 1
-http://sibfungold.info:8080/live/pacha-man1/81CWlT7aD5/47154.ts
-#EXTINF:-1,DigiGold 2
-http://sibfungold.info:8080/live/pacha-man1/81CWlT7aD5/52059.ts
-#EXTINF:-1,DigiGold 3
-http://sibfungold.info:8080/live/pacha-man1/81CWlT7aD5/52060.ts
-#EXTINF:-1,DigiGold 4
-http://sibfungold.info:8080/live/pacha-man1/81CWlT7aD5/52061.ts
 #EXTINF:-1,bbf
 http://171.22.150.202:2040/live/bbfottpp1/playlist.m3u8
 #EXTINF:-1,euronews al
 http://171.22.150.202:2040/live/euronewsmob/playlist.m3u8
-#EXTINF:-1,ONE HD
-http://rtmp.one.by:1300
 #EXTINF:-1,News 24
 http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
 #EXTINF:-1,Ora tv
@@ -342,19 +318,19 @@ https://monamour.agency/ntv/livestream/tracks-v1a1/mono.m3u8
 #EXTINF:-1,KLAN HD
 http://79.106.90.114:3030/live/klanhdmobpp3/playlist.m3u8
 #EXTINF:-1,BBF
-http://79.106.90.122:5000/live/bbfottpp1/playlist.m3u8
+http://79.106.90.122:3030/live/bbfottpp1/playlist.m3u8
 #EXTINF:-1,KLAN Plus
-http://171.22.150.202:2040/live/klanplusmobpp2/playlist.m3u8
+http://171.22.150.202:3030/live/klanplusmobpp2/playlist.m3u8
 #EXTINF:-1,KLAN News
-http://171.22.150.202:2040/live/klannewsmobpp3/playlist.m3u8
+http://171.22.150.202:3030/live/klannewsmobpp3/playlist.m3u8
 #EXTINF:-1,EURONEWS
-http://171.22.150.202:2040/live/euronewsmob/playlist.m3u8
+http://171.22.150.202:3030/live/euronewsmob/playlist.m3u8
 #EXTINF:-1,SCAN TV
-http://171.22.150.202:2040/live/scanmob/playlist.m3u8
+http://171.22.150.202:3030/live/scanmob/playlist.m3u8
 #EXTINF:-1,FAX News
-http://171.22.150.202:2040/live/faxnewsmobpp1/playlist.m3u8
+http://171.22.150.202:3030/live/faxnewsmobpp1/playlist.m3u8
 #EXTINF:-1,A2 CNN
-http://171.22.150.202:2040/live/a2pp2/playlist.m3u8
+http://171.22.150.202:3030/live/a2pp2/playlist.m3u8
 #EXTINF:-1,SPIN-TV HD 
 http://45.84.119.46:8022/0.m3u8
 #EXTINF:-1,TV TROPOJA HD
