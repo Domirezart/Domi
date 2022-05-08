@@ -316,21 +316,21 @@ https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
 #EXTINF:0,Nesër TV
 https://monamour.agency/ntv/livestream/tracks-v1a1/mono.m3u8
 #EXTINF:-1,KLAN HD
-http://79.106.90.114:3030/live/klanhdmobpp3/playlist.m3u8
+http://79.106.90.114:2040/live/klanhdmobpp3/playlist.m3u8
 #EXTINF:-1,BBF
-http://79.106.90.122:3030/live/bbfottpp1/playlist.m3u8
+http://171.22.150.202:2040/live/bbfottpp1/playlist.m3u8
 #EXTINF:-1,KLAN Plus
-http://171.22.150.202:3030/live/klanplusmobpp2/playlist.m3u8
+http://171.22.150.202:2040/live/klanplusmobpp2/playlist.m3u8
 #EXTINF:-1,KLAN News
-http://171.22.150.202:3030/live/klannewsmobpp3/playlist.m3u8
+http://171.22.150.202:2040/live/klannewsmobpp3/playlist.m3u8
 #EXTINF:-1,EURONEWS
-http://171.22.150.202:3030/live/euronewsmob/playlist.m3u8
+http://171.22.150.202:2040/live/euronewsmob/playlist.m3u8
 #EXTINF:-1,SCAN TV
-http://171.22.150.202:3030/live/scanmob/playlist.m3u8
+http://171.22.150.202:2040/live/scanmob/playlist.m3u8
 #EXTINF:-1,FAX News
-http://171.22.150.202:3030/live/faxnewsmobpp1/playlist.m3u8
+http://171.22.150.202:2040/live/faxnewsmobpp1/playlist.m3u8
 #EXTINF:-1,A2 CNN
-http://171.22.150.202:3030/live/a2pp2/playlist.m3u8
+http://171.22.150.202:2040/live/a2pp2/playlist.m3u8
 #EXTINF:-1,SPIN-TV HD 
 http://45.84.119.46:8022/0.m3u8
 #EXTINF:-1,TV TROPOJA HD
