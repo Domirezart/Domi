@@ -35,60 +35,132 @@ http://95.107.132.105/out/u/127_1.m3u8
 http://95.107.132.105/out/u/123_1.m3u8
 #EXTINF:-1,SHOW HD
 http://95.107.132.105/out/u/225_2.m3u8
-#EXTINF:-1,super sport 1
-http://62.182.80.87:8081/Test22/Test22/1018
-#EXTINF:-1,super sport 2
-http://62.182.80.87:8081/Test22/Test22/1019
-#EXTINF:-1,super sport 3
-http://62.182.80.87:8081/Test22/Test22/1020
-#EXTINF:-1,super sport 4
-http://62.182.80.87:8081/Test22/Test22/1021
-#EXTINF:-1,tring sport news
-http://62.182.80.87:8081/Test22/Test22/1022
-#EXTINF:-1,tring sport 1
-http://62.182.80.87:8081/Test22/Test22/1023
-#EXTINF:-1,tring sport 2
-http://62.182.80.87:8081/Test22/Test22/1024
-#EXTINF:-1,tring sport 3
-http://62.182.80.87:8081/Test22/Test22/1025
-#EXTINF:-1,tring sport 4
-http://62.182.80.87:8081/Test22/Test22/1026 
+#EXTINF:-1,Top Channel hd
+http://local.liveline.nu:2085/play/a0artopchannel/index.m3u8
+#EXTINF:-1,Alsat M hd
+http://local.liveline.nu:2085/play/a0b2ALSAMMFHD/index.m3u8
+#EXTINF:-1,VIZION + hd
+http://95.107.132.106/out/u/gfhsghshsgfhsfgh.m3u8
+#EXTINF:-1,Vizion Plus
+http://95.107.132.106/out/u/646_5.m3u8
+#EXTINF:-1,Klan TV
+http://95.107.132.105/out/u/628_1.m3u8
+#EXTINF:-1,Klan Plus
+http://95.107.132.105/out/u/657_1.m3u8
+#EXTINF:-1,Klan Kosova
+http://95.107.132.105/out/u/694_1.m3u8
+#EXTINF:-1,Klan Kosova hd
+http://46.29.169.15:4001/play/a013/index.m3u8
+#EXTINF:-1,TV Johaniter
+https://monamour.agency/johaniter007web/index.m3u8
+#EXTINF:-1,drita tv hd
+https://monamour.agency/dritaweb008/index.m3u8
+#EXTINF:-1,Alsat M
+http://95.107.132.105/out/u/645_1.m3u8
+#EXTINF:-1,RTV Ora
+http://95.107.132.105/out/u/343_1.m3u8
+#EXTINF:-1,Fax News
+http://95.107.132.105/out/u/228_3.m3u8
+#EXTINF:-1,RTSH 1
+http://95.107.132.105/out/u/641_4.m3u8
+#EXTINF:-1,RTK 1
+http://95.107.132.105/out/u/327_1.m3u8
+#EXTINF:-1,TV Kopliku
+http://95.107.132.105/out/u/152_1.m3u8
+#EXTINF:-1,RTV 21
+http://95.107.132.105/out/u/490_1.m3u8
+#EXTINF:-1,Syri Vision
+http://95.107.132.105/out/u/205_1.m3u8
+#EXTINF:-1,TV Dukagjini
+http://95.107.132.105/out/u/198_3.m3u8
+#EXTINF:-1,RTSH Sport
+http://95.107.132.105/out/u/638_1.m3u8
+#EXTINF:-1,ABC News
+http://95.107.132.105/out/u/650_1.m3u8
+#EXTINF:-1,Ora News
+http://95.107.132.105/out/u/521_2.m3u8
+#EXTINF:-1,Kanali 7
+http://95.107.132.105/out/u/581_1.m3u8
+#EXTINF:-1,News 24
+http://95.107.132.105/out/u/660_2.m3u8
+#EXTINF:-1,Report TV
+http://95.107.132.105/out/u/647_2.m3u8
+#EXTINF:-1,Tring Tring
+http://95.107.132.105/out/u/353_1.m3u8
+#EXTINF:-1,Folk Plus
+http://95.107.132.105/out/u/44_1.m3u8
+#EXTINF:-1,tirana tv
+http://95.107.132.105/out/u/163_1.m3u8
+#EXTINF:-1,BBF
+http://95.107.132.106/out/u/425_2.m3u8
+#EXTINF:-1,Elrodi TV
+http://95.107.132.105/out/u/156_1.m3u8
+#EXTINF:-1,Tring World
+http://95.107.132.105/out/u/410_4.m3u8
+#EXTINF:-1,KanalD Drama
+http://95.107.132.105/out/u/549_1.m3u8
+#EXTINF:-1,Jolly
+http://95.107.132.105/out/u/463_3.m3u8
+#EXTINF:-1,Living
+http://95.107.132.105/out/u/480_2.m3u8
+#EXTINF:-1,Tring Super
+http://95.107.132.105/out/u/689_3.m3u8
+#EXTINF:-1,Tring Family
+http://95.107.132.105/out/u/673_3.m3u8
+#EXTINF:-1,Tring Comedy
+http://95.107.132.105/out/u/573_1.m3u8
+#EXTINF:-1,3 Plus
+http://95.107.132.105/out/u/31_3.m3u8
+#EXTINF:-1,Tring Shqip
+http://95.107.132.105/out/u/683_1.m3u8
+#EXTINF:-1,Tring International
+http://95.107.132.105/out/u/609_3.m3u8
+#EXTINF:-1,Smile
+http://95.107.132.105/out/u/349_2.m3u8
+#EXTINF:-1,Club TV
+http://95.107.132.105/out/u/87_2.m3u8
+#EXTINF:-1,Syri TV
+http://95.107.132.106/out/u/363_2.m3u8
+#EXTINF:-1,Apollon TV
+http://95.107.132.106/out/u/328_1.m3u8
+#EXTINF:-1,Klan Macedonia
+http://95.107.132.106/out/u/783_1.m3u8
+#EXTINF:-1,AdriaNet
+http://95.107.132.106/out/u/370_1.m3u8
+#EXTINF:-1,Tring Classic
+http://95.107.132.106/out/u/842_5.m3u8
+#EXTINF:-1,Tring Novelas
+http://95.107.132.106/out/u/858_5.m3u8
+#EXTINF:-1,Tring Collection
+http://95.107.132.106/out/u/847_5.m3u8
+#EXTINF:-1,Zjarr TV
+http://95.107.132.106/out/u/420_1.m3u8
+#EXTINF:-1,Tring Info
+http://95.107.132.106/out/u/419_1.m3u8
+#EXTINF:-1,Tring Sport 1
+http://95.107.132.106/out/u/683_3.m3u8
+#EXTINF:-1,Tring Sport 2
+http://95.107.132.106/out/u/692_5.m3u8
+#EXTINF:-1,Tring Sport 3
+http://95.107.132.106/out/u/699_1.m3u8
+#EXTINF:-1,Tring Sport 4
+http://95.107.132.106/out/u/713_4.m3u8
+#EXTINF:-1,Tring Sport News
+http://95.107.132.106/out/u/811_1.m3u8
+#EXTINF:-1,Tip TV
+http://95.107.132.106/out/u/883_1.m3u8 
 #EXTINF:-1,Tring sport 1
 http://95.107.132.106/out/u/864_4.m3u8 
 #EXTINF:-1,Tring sport 2
 http://95.107.132.106/out/u/865_4.m3u8 
 #EXTINF:-1,Tring sport 3
 http://95.107.132.106/out/u/867_4.m3u8
-#EXTINF:-1,BeinSport 1
-http://sibfungold.info:8080/live/pacha-man1/81CWlT7aD5/52269.ts
-#EXTINF:-1,BeinSport 2
-http://sibfungold.info:8080/live/pacha-man1/81CWlT7aD5/48878.ts
-#EXTINF:-1,BeinSport 3
-http://sibfungold.info:8080/live/pacha-man1/81CWlT7aD5/3.ts
-#EXTINF:-1,BeinSport 4
-http://sibfungold.info:8080/live/pacha-man1/81CWlT7aD5/4.ts
-#EXTINF:-1,BeinSport 5
-http://sibfungold.info:8080/live/pacha-man1/81CWlT7aD5/5.ts
-#EXTINF:-1,BeinSport 6
-http://sibfungold.info:8080/live/pacha-man1/81CWlT7aD5/6.ts
-#EXTINF:-1,BeinSport 7
-http://sibfungold.info:8080/live/pacha-man1/81CWlT7aD5/7.ts
-#EXTINF:-1,WWE HD
-http://sibfungold.info:8080/live/pacha-man1/81CWlT7aD5/54238.ts
 #EXTINF:-1,match 1hd
 http://212.122.80.182:38167/play/a01h/index.m3u8
 #EXTINF:-1,match 2hd
 http://212.122.80.182:38167/play/a00v/index.m3u8
 #EXTINF:-1,match 3hd
 http://212.122.80.182:38167/play/a00w/index.m3u8
-#EXTINF:-1,Sport 1
-http://roi-tv.net:9000/live/iptv-t2/xtream-08-02-17-POlkrT6!/30.ts
-#EXTINF:-1,Sport 2
-http://roi-tv.net:9000/live/iptv-t2/xtream-08-02-17-POlkrT6!/31.ts
-#EXTINF:-1,Sport 3
-http://roi-tv.net:9000/live/iptv-t2/xtream-08-02-17-POlkrT6!/32.ts
-#EXTINF:-1,Sport 4
-http://roi-tv.net:9000/live/iptv-t2/xtream-08-02-17-POlkrT6!/33.ts
 #EXTINF:-1,Rai 1
 http://185.204.32.4:9981/stream/channelid/2078368351?ticket=80099E9F14D55595344578A29F73FFA8E3B1743C&profile=pass
 #EXTINF:-1,Rai 2
@@ -165,18 +237,6 @@ http://185.204.32.4:9981/stream/channelid/101480720?ticket=E164CD67A6836FEAF3BC6
 http://185.204.32.4:9981/stream/channelid/321131333?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:zaltv.co
 #EXTINF:-1,Top Channel HD
 http://185.204.32.4:9981/stream/channelid/1406086565?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:zaltv.co
-#EXTINF:-1,Klan Kosova hd
-http://46.29.169.15:4001/play/a013/index.m3u8
-#EXTINF:-1,Top Channel hd
-http://local.liveline.nu:2085/play/a0artopchannel/index.m3u8
-#EXTINF:-1,Alsat M hd
-http://local.liveline.nu:2085/play/a0b2ALSAMMFHD/index.m3u8
-#EXTINF:-1,VIZION + hd
-http://95.107.132.106/out/u/gfhsghshsgfhsfgh.m3u8
-#EXTINF:-1,TV Johaniter
-https://monamour.agency/johaniter007web/index.m3u8
-#EXTINF:-1,drita tv hd
-https://monamour.agency/dritaweb008/index.m3u8
 #EXTINF:-1,Ziko HD
 https://ub1doy938d.gjirafa.net/live/rcBFeREIqcMkNthqI6YCr3Riss97l2MC/y1k0kk1080/index.m3u8
 #EXTINF:-1,ArtKino 1
