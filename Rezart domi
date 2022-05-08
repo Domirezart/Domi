@@ -161,6 +161,32 @@ http://212.122.80.182:38167/play/a01h/index.m3u8
 http://212.122.80.182:38167/play/a00v/index.m3u8
 #EXTINF:-1,match 3hd
 http://212.122.80.182:38167/play/a00w/index.m3u8
+#EXTINF:-1,Super Sport 1 FHD
+http://212.18.115.177:8030/play/a03w
+#EXTINF:-1,Super Sport 2 FHD
+http://212.18.115.177:8030/play/a03x
+#EXTINF:-1,Super Sport 3 FHD
+http://212.18.115.177:8030/play/a03y
+#EXTINF:-1,Super Sport 4 FHD
+http://212.18.115.177:8030/play/a03z
+#EXTINF:-1,Super Sport 5 FHD
+http://212.18.115.177:8030/play/a040
+#EXTINF:-1,Super Sport 6 FHD
+http://212.18.115.177:8030/play/a041
+#EXTINF:-1,Super Sport News
+http://212.18.115.177:8030/play/a020
+#EXTINF:-1,K Sport 1
+http://212.18.115.177:8030/play/a03j
+#EXTINF:-1,K Sport 2
+http://212.18.115.177:8030/play/a03k
+#EXTINF:-1,K Sport 3
+http://212.18.115.177:8030/play/a03l
+#EXTINF:-1,K Sport 4
+http://212.18.115.177:8030/play/a03m
+#EXTINF:-1,Tring Sport 1 FHD
+http://212.18.115.177:8030/play/a03p
+#EXTINF:-1,Tring Sport 2 FHD
+http://212.18.115.177:8030/play/a03q
 #EXTINF:-1,Rai 1
 http://185.204.32.4:9981/stream/channelid/2078368351?ticket=80099E9F14D55595344578A29F73FFA8E3B1743C&profile=pass
 #EXTINF:-1,Rai 2
