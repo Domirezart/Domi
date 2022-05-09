@@ -67,6 +67,12 @@ http://46.29.169.15:4001/play/a013/index.m3u8
 https://monamour.agency/johaniter007web/index.m3u8
 #EXTINF:-1,drita tv hd
 https://monamour.agency/dritaweb008/index.m3u8
+#EXTINF:-1,Kino 1
+http://82.114.87.150:8881/play/a0ct
+#EXTINF:-1,Kino 2
+http://82.114.87.150:8881/play/a0cu
+#EXTINF:-1,Kino 3
+http://82.114.87.150:8881/play/a0cv
 #EXTINF:-1,Alsat M
 http://95.107.132.105/out/u/645_1.m3u8
 #EXTINF:-1,RTV Ora
