@@ -33,6 +33,10 @@ https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(kb)/
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
 #EXTINF:-1,CARTOONITO HD
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(la)/index.m3u8
+#EXTINF:-1,TG NORBA 24
+https://flash2.xdevel.com/tgnorba_24/tgnorba_24_source.stream/manifest.m3u8
+#EXTINF:-1,TG COM 24
+https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
 #EXTINF:-1,RSI 1
 http://190.2.155.162/RSI1/index.m3u8
 #EXTINF:-1,RSI 2
