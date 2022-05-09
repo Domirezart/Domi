@@ -55,12 +55,6 @@ http://95.107.132.105/out/u/127_1.m3u8
 http://95.107.132.105/out/u/123_1.m3u8
 #EXTINF:-1,SHOW HD
 http://95.107.132.105/out/u/225_2.m3u8
-#EXTINF:-1,TOP CHANNAL HD
-http://212.18.115.177:8030/play/a005
-#EXTINF:-1,KLAN HD
-http://212.18.115.177:8030/play/a003
-#EXTINF:-1,VIZION PLUS HD
-http://212.18.115.177:8030/play/a006
 #EXTINF:-1,Top Channel hd
 http://local.liveline.nu:2085/play/a0artopchannel/index.m3u8
 #EXTINF:-1,Alsat M hd
