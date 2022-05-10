@@ -6,11 +6,9 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
 #EXTINF:-1,RAI 2
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
 #EXTINF:-1,RAI 3
-http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709
 #EXTINF:-1,RAI NEWS
 https://streamcdnr28-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
-#EXTINF:-1,ITALIA 1
-http://95.107.132.105/out/u/51_2.m3u8
 #EXTINF:-1,CANALE 5 HD
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(c5)/index.m3u8
 #EXTINF:-1,ITALIA 1 HD
