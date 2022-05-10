@@ -33,6 +33,8 @@ https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ki)/
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(kb)/index.m3u8
 #EXTINF:-1,LA 5
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
+#EXTINF:-1,RAI YOYO
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899
 #EXTINF:-1,CARTOONITO HD
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(la)/index.m3u8
 #EXTINF:-1,TG NORBA 24
