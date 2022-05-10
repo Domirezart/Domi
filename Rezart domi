@@ -21,6 +21,8 @@ https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(r4)/
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
 #EXTINF:-1,MEDIASET EXTRA HD
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
+#EXTINF:-1,GOLD TV
+https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
 #EXTINF:-1,LA 7 HD
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
 #EXTINF:-1,LA 7D HD
