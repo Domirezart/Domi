@@ -4,7 +4,7 @@ https://albportal.net/albkanalemusic.m3u8
 #EXTINF:-1,RAI 1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
 #EXTINF:-1,RAI 2
-http://95.107.132.105/out/u/451_2.m3u8
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
 #EXTINF:-1,RAI 3
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 #EXTINF:-1,RAI NEWS
