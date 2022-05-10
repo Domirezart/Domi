@@ -29,6 +29,8 @@ http://cld01ibi16.wz.tv2000.it/tv2000_alfa.m3u8
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
 #EXTINF:-1,LA 7D HD
 https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
+#EXTINF:-1,LA 8 HD
+https://skyanywhere3-i.akamaihd.net/hls/live/510694/mtv8sdlive/index.m3u8
 #EXTINF:-1,IRIS HD
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
 #EXTINF:-1,BOING HD
