@@ -49,6 +49,8 @@ https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(kf)/
 http://190.2.155.162/RSI1/index.m3u8
 #EXTINF:-1,RSI 2
 http://190.2.155.162/RSI2/index.m3u8
+#EXTINF:-1,NEWS MEDIA PUGLIA TV
+https://streamlive.arcapuglia.it:8080/live/newmedia/index.m3u8
 #EXTINF:-1,AMICA TV
 https://streamlive17.arcapuglia.it:8080/live/amica9TV/index.m3u8
 #EXTINF:-1,ABC TV
