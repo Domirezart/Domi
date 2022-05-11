@@ -271,16 +271,17 @@ http://api.magiaiptv.com/live/800196/128093/m1_QVjAjs05rLeRcJaYwWpr6k_1080p
 http://api.magiaiptv.com/live/800196/128093/m2_T1kER2k4toPH_1080p
 #EXTINF:-1,PREMIERE 5 UHD
 http://api.magiaiptv.com/live/800196/128093/m2_J2m8CmTHvNkE_1080p_4M
-#EXTINF:-1,PREMIERE 6 UHD
-#EXTINF:-1,Sportv 1 UHD
-http://api.magiaiptv.com/live/800196/128093/p2_AD5dvVfj6egLHxBwARO
-#EXTINF:-1,Sportv 2 UHD
-http://api.magiaiptv.com/live/800196/128093/m2_ylU0WsVR9po4ChFn7J3vkMxb_1080p
-#EXTINF:-1,Sportv 3 UHD
-http://api.magiaiptv.com/live/800196/128093/m1_vzd4MQvFCKUahymwGL_1080p
-#EXTINF:-1,Sportv 4 UHD
+#EXTINF:-1,SPORT TV + UHD
+http://api.magiaiptv.com/live/800261/138645/m3_UCWbpolpkgstvp_1080p
+#EXTINF:-1,SPORT TV 1 UHD
+http://api.magiaiptv.com/live/800261/138645/m3_DFwhzUuzfistv1_1080p
+#EXTINF:-1,SPORT TV 2 UHD
+http://api.magiaiptv.com/live/800261/138645/m3_FZukotDQWYstv2_1080p
+#EXTINF:-1,SPORT TV 3 UHD
+http://api.magiaiptv.com/live/800261/138645/m3_eAb6FoNigKstv3_720p_2M
+#EXTINF:-1,SPORT TV 4 UHD
 http://api.magiaiptv.com/live/800261/138645/m3_eargH0Pv9qstv4_720p_2M
-#EXTINF:-1,Sportv 5 UHD
+#EXTINF:-1,SPORT TV 5 UHD
 http://api.magiaiptv.com/live/800261/138645/m3_L4QIjJorwjstv5_1080p
 #EXTINF:-1,Rai 1
 http://185.204.32.4:9981/stream/channelid/2078368351?ticket=80099E9F14D55595344578A29F73FFA8E3B1743C&profile=pass
