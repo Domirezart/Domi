@@ -253,6 +253,8 @@ http://182.50.65.213:8888/udp/239.239.0.33:3001
 http://182.50.65.213:8888/udp/239.239.0.34:3001
 #EXTINF:-1,Ten 3
 http://182.50.65.213:8888/udp/239.239.0.35:3001
+#EXTINF:-1,SKY SPORT F1
+http://api.magiaiptv.com/live/800261/138645/m1_skysportsf1_720p
 #EXTINF:-1,Fox Sport 1
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
 #EXTINF:-1,Fox Sport 2
