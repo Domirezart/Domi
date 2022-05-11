@@ -253,6 +253,12 @@ http://182.50.65.213:8888/udp/239.239.0.33:3001
 http://182.50.65.213:8888/udp/239.239.0.34:3001
 #EXTINF:-1,Ten 3
 http://182.50.65.213:8888/udp/239.239.0.35:3001
+#EXTINF:-1,Fox Sport 1
+https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
+#EXTINF:-1,Fox Sport 2
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
+#EXTINF:-1,Fox Sport 3
+https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 #EXTINF:-1,Rai 1
 http://185.204.32.4:9981/stream/channelid/2078368351?ticket=80099E9F14D55595344578A29F73FFA8E3B1743C&profile=pass
 #EXTINF:-1,Rai 2
