@@ -49,6 +49,10 @@ https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(kf)/
 http://190.2.155.162/RSI1/index.m3u8
 #EXTINF:-1,RSI 2
 http://190.2.155.162/RSI2/index.m3u8
+#EXTINF:-1,ABC TV
+https://diretta.arcapuglia.it:8080/live/abctv/index.m3u8
+#EXTINF:-1,TV LUNA
+https://diretta.arcapuglia.it:8080/live/teleluna/index.m3u8
 #EXTINF:-1,CUSANO TV
 https://stream9.xdevel.com/video0s975363-691/stream/playlist.m3u8
 #EXTINF:-1,R 101 TV
