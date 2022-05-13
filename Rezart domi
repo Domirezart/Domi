@@ -29,14 +29,26 @@ http://cld01ibi16.wz.tv2000.it/tv2000_alfa.m3u8
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
 #EXTINF:-1,LA 7D HD
 https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
-#EXTINF:-1,LA 8 HD
-https://skyanywhere3-i.akamaihd.net/hls/live/510694/mtv8sdlive/index.m3u8
 #EXTINF:-1,IRIS HD
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
 #EXTINF:-1,BOING HD
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(kb)/index.m3u8
 #EXTINF:-1,LA 5
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
+#EXTINF:-1,Rai Movie HD
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002
+#EXTINF:-1,Rai Premium HD
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992
+#EXTINF:-1,Rai Storia HD
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990
+#EXTINF:-1,Rai Gulp HD
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953
+#EXTINF:-1,Rai Sport piu HD
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025
+#EXTINF:-1,Rai Sport
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358071
+#EXTINF:-1,Rai Scuola
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
 #EXTINF:-1,RAI YOYO
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899
 #EXTINF:-1,CARTOONITO HD
