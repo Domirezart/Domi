@@ -4,7 +4,7 @@ https://albportal.net/albkanalemusic.m3u8
 #EXTINF:-1,RAI 4K
 https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 #EXTINF:-1,RAI 1
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
+http://95.107.132.105/out/u/437_2.m3u8
 #EXTINF:-1,RAI 2
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
 #EXTINF:-1,RAI 3
@@ -171,6 +171,8 @@ http://95.107.132.105/out/u/163_1.m3u8
 http://95.107.132.106/out/u/425_2.m3u8
 #EXTINF:-1,Elrodi TV
 http://95.107.132.105/out/u/156_1.m3u8
+#EXTINF:-1,Travel
+http://95.107.132.105/out/u/397_1.m3u8
 #EXTINF:-1,Tring World
 http://95.107.132.105/out/u/410_4.m3u8
 #EXTINF:-1,Tring Planet
