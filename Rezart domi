@@ -311,6 +311,14 @@ http://217.74.16.155:8082/local/ar-s/bein-5-stop/tracks-v1a1/mono.m3u8
 http://217.74.16.155:8082/local/ar-s/bein-6-stop/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BEIN SPORT 7
 http://217.74.16.155:8082/local/ar-s/bein-7-stop/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TRINGSPORT 1
+https://livetv.mylifeisgood.ml/channels/tringsport1
+#EXTINF:-1,TRINGSPORT 2
+https://livetv.mylifeisgood.ml/channels/tringsport2
+#EXTINF:-1,TRINGSPORT 3
+https://livetv.mylifeisgood.ml/channels/tringsport3
+#EXTINF:-1,TRINGSPORT 4
+https://livetv.mylifeisgood.ml/channels/tringsport4
 #EXTINF:-1,Rai 1
 http://185.204.32.4:9981/stream/channelid/2078368351?ticket=80099E9F14D55595344578A29F73FFA8E3B1743C&profile=pass
 #EXTINF:-1,Rai 2
