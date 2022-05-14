@@ -87,6 +87,26 @@ http://95.107.132.105/out/u/123_1.m3u8
 https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
 #EXTINF:-1,SHOW HD
 http://95.107.132.105/out/u/225_2.m3u8
+#EXTINF:-1,CineMan HD
+http://myott.top/stream/EHTC5R2IVC/349.m3u8
+#EXTINF:-1,CineMan Top HD
+http://myott.top/stream/EHTC5R2IVC/350.m3u8
+#EXTINF:-1,CineMan Action HD
+http://myott.top/stream/EHTC5R2IVC/351.m3u8
+#EXTINF:-1,CineMan Thriller HD
+http://myott.top/stream/EHTC5R2IVC/352.m3u8
+#EXTINF:-1,CineMan Marvel HD
+http://myott.top/stream/EHTC5R2IVC/354.m3u8
+#EXTINF:-1,CineMan Ужасы HD
+http://myott.top/stream/EHTC5R2IVC/355.m3u8
+#EXTINF:-1,CineMan Comedy HD
+http://myott.top/stream/EHTC5R2IVC/356.m3u8
+#EXTINF:-1,CineMan VHS HD
+http://myott.top/stream/EHTC5R2IVC/357.m3u8
+#EXTINF:-1,CineMan РуКино HD
+http://myott.top/stream/EHTC5R2IVC/358.m3u8
+#EXTINF:-1,CineMan Сваты HD
+http://myott.top/stream/EHTC5R2IVC/359.m3u8
 #EXTINF:-1,TOP CHANNAL HD
 http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/1.ts
 #EXTINF:-1,Top Channel hd
@@ -313,12 +333,6 @@ http://217.74.16.155:8082/local/ar-s/bein-6-stop/tracks-v1a1/mono.m3u8
 http://217.74.16.155:8082/local/ar-s/bein-7-stop/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TRINGSPORT 1
 https://livetv.mylifeisgood.ml/channels/tringsport1
-#EXTINF:-1,TRINGSPORT 2
-https://livetv.mylifeisgood.ml/channels/tringsport2
-#EXTINF:-1,TRINGSPORT 3
-https://livetv.mylifeisgood.ml/channels/tringsport3
-#EXTINF:-1,TRINGSPORT 4
-https://livetv.mylifeisgood.ml/channels/tringsport4
 #EXTINF:-1,Rai 1
 http://185.204.32.4:9981/stream/channelid/2078368351?ticket=80099E9F14D55595344578A29F73FFA8E3B1743C&profile=pass
 #EXTINF:-1,Rai 2
