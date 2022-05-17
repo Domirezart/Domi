@@ -663,6 +663,14 @@ http://135.125.6.54/klan/index.m3u8
 http://5.206.237.251:1288/KlanHD
 #EXTINF:-1,A2 CNN
 http://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
+#EXTINF:-1,Klan TV
+http://130.0.24.22:94/KlanHD/index.m3u8
+#EXTINF:-1,Klan Plus
+http://130.0.24.22:94/KlanPlusHD/index.m3u8
+#EXTINF:-1,Top Channel
+http://130.0.24.22:94/TopChannel/index.m3u8
+#EXTINF:-1,Vizion Plus
+http://130.0.24.22:94/VizionPlusHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM", Cartelera Premiere HD 1080P
 http://f4.tvxweb.net:8082/9040/mpegts?token=MxPReBvRE1
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",  HBO East HD 1080P
