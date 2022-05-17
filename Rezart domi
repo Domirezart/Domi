@@ -645,6 +645,8 @@ http://62.210.205.98:8000/live?channelId=1389&uid=8769&deviceMac=00:1A:79:5C:EE:
 http://62.210.205.98:8000/live?channelId=1391&uid=8769&deviceMac=00:1A:79:5C:EE:16
 #EXTINF:-1,VIZION PLUS
 http://62.210.205.98:8000/live?channelId=1393&uid=8769&deviceMac=00:1A:79:5C:EE:16
+#EXTINF:-1,BBF
+http://95.107.145.50:8080/BbFsjfajkgk/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM", Cartelera Premiere HD 1080P
 http://f4.tvxweb.net:8082/9040/mpegts?token=MxPReBvRE1
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",  HBO East HD 1080P
