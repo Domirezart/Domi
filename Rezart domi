@@ -125,6 +125,8 @@ http://95.107.132.105/out/u/657_1.m3u8
 http://95.107.132.105/out/u/694_1.m3u8
 #EXTINF:-1,Klan Kosova hd
 http://46.29.169.15:4001/play/a013/index.m3u8
+#EXTINF:-1,SHIJAK TV
+http://xdtv-iptv.com:7070/SAT-univers/SAT-univers/88
 #EXTINF:-1,TV Johaniter
 https://monamour.agency/johaniter007web/index.m3u8
 #EXTINF:-1,DRITA HD
