@@ -133,6 +133,8 @@ http://xdtv-iptv.com:7070/SAT-univers/SAT-univers/88
 https://monamour.agency/johaniter007web/index.m3u8
 #EXTINF:-1,DRITA HD
 https://monamour.agency/dritaweb008/index.m3u8
+#EXTINF:-1,STAR PLUS
+https://bashk.tv/hls/tracks-v1a1/mono.m3u8
 #EXTINF:-1,FRAME TV
 http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/122.ts
 #EXTINF:-1,Topestrada HD
