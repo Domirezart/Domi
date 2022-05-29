@@ -691,6 +691,14 @@ http://130.0.24.22:94/KlanPlusHD/index.m3u8
 http://130.0.24.22:94/TopChannel/index.m3u8
 #EXTINF:-1,Vizion Plus
 http://130.0.24.22:94/VizionPlusHD/index.m3u8
+#EXTINF:-1,RTK 1 HD
+http://162.55.88.21/rtk1stream/rtk1.stream/chunklist_w1202428204.m3u8
+#EXTINF:-1,RTK 2 HD
+http://162.55.88.21/rtk2stream/rtk2.stream/chunklist_w1803047116.m3u8
+#EXTINF:-1,RTK 3 HD
+http://162.55.88.21/rtk3stream/rtk3.stream/chunklist_w1895324590.m3u8
+#EXTINF:-1,RTK 4 HD
+http://162.55.88.21/rtk4stream/rtk4.stream/chunklist_w520230568.m3u8
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM", Cartelera Premiere HD 1080P
 http://f4.tvxweb.net:8082/9040/mpegts?token=MxPReBvRE1
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",  HBO East HD 1080P
