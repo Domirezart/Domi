@@ -134,11 +134,17 @@ http://myott.top/stream/EHTC5R2IVC/359.m3u8
 #EXTINF:-1,KLAN HD
 http://79.106.48.2:3131/live/klanhdott/playlist.m3u8
 #EXTINF:-1,KLAN PLUS HD
-http://79.106.48.2:3131/live/klanplusott/playlist.m3u8
+http://79.106.48.2:3131/live/klanplusmob/playlist.m3u8
+#EXTINF:-1,KLAN MUZIK
+http://79.106.48.2:3131/live/klanmusicott/playlist.m3u8
+#EXTINF:-1,KLAN NEWS
+http://79.106.48.2:3131/live/klannewsott/playlist.m3u8
 #EXTINF:-1,BBF MUZIK
 http://79.106.48.2:3131/live/bbfott/playlist.m3u8
-#EXTINF:-1,Euronews
+#EXTINF:-1,EURONEWS HD
 http://79.106.48.2:3131/live/euronewsott/playlist.m3u8
+#EXTINF:-1,SKAN HD
+http://79.106.48.2:3131/live/scanott/playlist.m3u8
 #EXTINF:-1,TOP CHANNAL HD
 http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/1.ts
 #EXTINF:-1,Top Channel hd
