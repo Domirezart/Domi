@@ -1,6 +1,30 @@
 #EXTM3U
 #EXTINF:-1 group-title="ALB TV SHQIP 🇦🇱 "tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",DOMI SHIJAKSI 🇦🇱
 https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1,Rai 1
+http://185.78.67.174:8000/play/IT_rai_1_HD/index.m3u8
+#EXTINF:-1,Rai 2
+http://185.78.67.174:8000/play/IT_rai_2_HD/index.m3u8
+#EXTINF:-1,Rai 3
+http://185.78.67.174:8000/play/IT_rai_3_HD/index.m3u8
+#EXTINF:-1,Rai 4
+http://185.78.67.174:8000/play/IT_rai_4_HD/index.m3u8
+#EXTINF:-1,Rai 5
+http://185.78.67.174:8000/play/IT_rai_5_HD/index.m3u8
+#EXTINF:-1,Rai Premium
+http://185.78.67.174:8000/play/IT_rai_premium_HD/index.m3u8
+#EXTINF:-1,Rai Scuola
+http://185.78.67.174:8000/play/IT_rai_scuola_HD/index.m3u8
+#EXTINF:-1,Rai Storia
+http://185.78.67.174:8000/play/IT_rai_storia_HD/index.m3u8
+#EXTINF:-1,Rai Yoyo
+http://185.78.67.174:8000/play/IT_rai_yoyo_HD/index.m3u8
+#EXTINF:-1,Canale 5
+http://185.78.67.174:8000/play/IT_canale_5_HD/index.m3u8
+#EXTINF:-1,Rete 4
+http://185.78.67.174:8000/play/IT_rete_4_HD/index.m3u8
+#EXTINF:-1,Italia 1
+http://185.78.67.174:8000/play/IT_italia_1_HD/index.m3u8
 #EXTINF:-1,RAI 4K
 https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 #EXTINF:-1,RAI 1
