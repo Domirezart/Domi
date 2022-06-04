@@ -1141,25 +1141,21 @@ http://93.152.174.144:4000/play/btsport1/index.m3u8
 http://93.152.174.144:4000/play/btsport2/index.m3u8
 #EXTINF:-1,bt sport3
 http://93.152.174.144:4000/play/btsport3/index.m3u8
-#EXTINF:-1 group-title="ALB XXX 🔞 TV 🇦🇱" tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",redlight hd 🔞
-http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Penthouse Gold 🔞
-http://80.24.75.92:5555/udp/239.111.4.1:1234
-#EXTINF:-1,Penthouse Quickies 🔞
-http://80.24.75.92:5555/udp/239.111.4.2:1234
-#EXTINF:-1,
-http://80.24.75.92:5555/udp/239.111.4.4:1234
-#EXTINF:-1,
-http://80.24.75.92:5555/udp/239.111.4.3:1234
-#EXTINF:-1, 
-http://80.24.75.92:5555/udp/239.111.4.5:1234
-#EXTINF:-1,REDLIGHT HD 🔞
-http://93.152.174.144:4000/play/privatetv1/index.m3u8
-#EXTINF:-1,Hustler HD 🔞
-http://193.33.240.8:80/hustler_hd/index.m3u8
-#EXTINF:-1,Extasy/LeoTV 🔞
-http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
-#EXTINF:-1,XYPLUS 🔞
-http://95.87.227.29:8080/XYPLUS_FOR_PLATFORM/index.m3u8
-#EXTINF:-1,Super One 🔞
-http://185.96.176.139:8080/superone/index.m3
+#EXTINF:-1 group-title="ALB AMAZON PRIME SPORT 🌏" tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",AMAZON PRIME 1 HD
+http://45.90.106.7:7779/play/JqTcS531nU9@BnFs5M/index.m3u8
+#EXTINF:-1,AMAZON PRIME 2 HD
+http://45.90.106.7:7779/play/BvZn718mU5@Ydv6R/index.m3u8
+#EXTINF:-1,AMAZON PRIME 3 HD
+http://45.90.106.7:7779/play/NmWb689iE3@BqHL7V/index.m3u8
+#EXTINF:-1,AMAZON PRIME 4 HD
+http://45.90.106.7:7779/play/DkTQq176j5@Ysm3P/index.m3u8
+#EXTINF:-1,AMAZON PRIME 5 HD
+http://45.90.106.7:7779/play/VzQmP843Uj9@SkB6P/index.m3u8
+#EXTINF:-1,AMAZON PRIME 6 HD
+http://45.90.106.7:7779/play/KrQf806Hb3@FwmP84H/index.m3u8
+#EXTINF:-1,AMAZON PRIME 7 HD
+http://45.90.106.7:7779/play/GzCh397D2@UeW4M6P/index.m3u8
+#EXTINF:-1,AMAZON PRIME 8 HD
+http://45.90.106.7:7779/play/BrQq483Np6@TdNk9M/index.m3u8
+#EXTINF:-1,AMAZON PRIME 9 HD
+http://45.90.106.7:7779/play/WtZm482Jj6@YeCw5M/index.m3u8
