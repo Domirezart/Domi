@@ -131,18 +131,40 @@ http://myott.top/stream/EHTC5R2IVC/357.m3u8
 http://myott.top/stream/EHTC5R2IVC/358.m3u8
 #EXTINF:-1,CineMan Сваты HD
 http://myott.top/stream/EHTC5R2IVC/359.m3u8
-#EXTINF:0, ACTION
+#EXTINF:0,ACTION
 http://5.9.150.76/actionhd/mono.m3u8
-#EXTINF:0, THRILLER
+#EXTINF:0,THRILLER
 http://5.9.150.76/thrillerhd/mono.m3u8
-#EXTINF:0, DRAMA
+#EXTINF:0,DRAMA
 http://5.9.150.76/dramahd/mono.m3u8
-#EXTINF:0, ROMANCE
+#EXTINF:0,ROMANCE
 http://5.9.150.76/romance/mono.m3u8
-#EXTINF:0, COMEDY
+#EXTINF:0,COMEDY
 http://5.9.150.76/comedyhd/mono.m3u8
-#EXTINF:0, ANI
+#EXTINF:0,ANI
 http://5.9.150.76/anihd/mono.m3u8
+#EXTINF:-1,Top Channel
+http://pinbal4you.com:5436/play/KoZ0qizW7amYxVMTrKgAqBLPhtTgDoVrYOcaKC302sRSmitjFyqPspRLDmUbY1-oo5mTOSm3r_FbvFGwWM5rGL-pa3wsuM7NAZbX9vueR2Ni_mOQB-15InziIo4ju48O_3FWbGCP163oMlJXuZGTcA?ext=.ts
+#EXTINF:-1,Klan TV
+http://pinbal4you.com:5436/play/KoZ0qizW7amYxVMTrKgAqBLPhtTgDoVrYOcaKC302sRSmitjFyqPspRLDmUbY1-oCyFMkPnS8GZoUD2B8vmiLi-cAIzkyXXpw6720t8NdkTPmyAXGPuLAi2mPkFynr7QH_Jh8WwfbLyOA55Az9QbIg?ext=.ts
+#EXTINF:-1,Klan Plus
+http://pinbal4you.com:5436/play/KoZ0qizW7amYxVMTrKgAqBLPhtTgDoVrYOcaKC302sRSmitjFyqPspRLDmUbY1-oPJisQHDew7XOSuaWMwZScs-b9IcsFTdjIY4Ij_dkdcC9OMpzoIGtfR1otsNnAySQNqHWQvTLFuM2AE9qtK1oGw?ext=.ts
+#EXTINF:-1,Klan Kosova
+http://pinbal4you.com:5436/play/KoZ0qizW7amYxVMTrKgAqBLPhtTgDoVrYOcaKC302sRSmitjFyqPspRLDmUbY1-ogLAeSfV2-ZA95BDN4gzaMl-LbEqVF-WOtqbOMtosSV3DIomYlggqx-u2GUMA33Pt3T3Jg9e1T1Zrm08bPaBd9w?ext=.ts
+#EXTINF:-1,Klan Macedonia
+http://pinbal4you.com:5436/play/KoZ0qizW7amYxVMTrKgAqBLPhtTgDoVrYOcaKC302sRSmitjFyqPspRLDmUbY1-oVBaLVWjcpdmWTCdOxJyy902trUonYA9mQSOsr9n979m9W2fj1I1QA3qiKNm-303bfP2ukzf_uHyWGMY9B37v9w?ext=.ts
+#EXTINF:-1,Vizion Plus
+http://pinbal4you.com:5436/play/KoZ0qizW7amYxVMTrKgAqBLPhtTgDoVrYOcaKC302sRSmitjFyqPspRLDmUbY1-oBfdfOOKtCnbcnW65BKC4uv8wotsHZ9ffesK1w96HseKeXmUMopYIBDunNjgS6_qF4DVTf0MZ42MKSBm_8cvkwQ?ext=.ts
+#EXTINF:-1,Top News
+http://pinbal4you.com:5436/play/KoZ0qizW7amYxVMTrKgAqBLPhtTgDoVrYOcaKC302sRSmitjFyqPspRLDmUbY1-o17xSg1vvicOuLUUdBEFt_4B-CPuRKiiF6aUcRrVZRGp9vevIrbAth36H-y4AJHQJE1oH0zwrUVvLVdcPC1I4JA?ext=.ts
+#EXTINF:-1,ABC
+http://pinbal4you.com:5436/play/KoZ0qizW7amYxVMTrKgAqBLPhtTgDoVrYOcaKC302sRSmitjFyqPspRLDmUbY1-olviA7WhCoU6AtLPa3uiIq4otaAmmv1UGW6h96bfIejPHnrSenAbOI50VMhuOtih4myxKkx8V-d_0UQQTY86yzw?ext=.ts
+#EXTINF:-1,RTV Ora
+http://pinbal4you.com:5436/play/KoZ0qizW7amYxVMTrKgAqBLPhtTgDoVrYOcaKC302sRSmitjFyqPspRLDmUbY1-otI_CF0z80dp2Zh1jap87830TMFC2MtjKFPScY3KlXjhVUitilOF43x8O09sMtjRX3SXqbJR2oKSi8GCRR2EG-w?ext=.ts
+#EXTINF:-1,Scan TV
+http://pinbal4you.com:5436/play/KoZ0qizW7amYxVMTrKgAqBLPhtTgDoVrYOcaKC302sRSmitjFyqPspRLDmUbY1-o6S5ZGilElbi639w8Mwu9D7eaD9wF4TZd-GWwD03eGmwAMkSWLjWdAzkNniO46MH_ogVfXGiVPHQ441MA9J6Bsw?ext=.ts
+#EXTINF:-1,Syri TV
+http://pinbal4you.com:5436/play/KoZ0qizW7amYxVMTrKgAqBLPhtTgDoVrYOcaKC302sRSmitjFyqPspRLDmUbY1-oltDh9jqi4EPxS5ql2NYBWTJ10V1s2xCynzoXvSgGGyKrTws4JjBAYGEAUgJhZ7gsYU5E9g2tYhHBAsjK2ocOCQ?ext=.ts
 #EXTINF:-1,KLAN HD
 http://79.106.48.2:3131/live/klanhdott/playlist.m3u8
 #EXTINF:-1,KLAN PLUS HD
