@@ -131,6 +131,18 @@ http://myott.top/stream/EHTC5R2IVC/357.m3u8
 http://myott.top/stream/EHTC5R2IVC/358.m3u8
 #EXTINF:-1,CineMan Сваты HD
 http://myott.top/stream/EHTC5R2IVC/359.m3u8
+#EXTINF:0, ACTION
+http://5.9.150.76/actionhd/mono.m3u8
+#EXTINF:0, THRILLER
+http://5.9.150.76/thrillerhd/mono.m3u8
+#EXTINF:0, DRAMA
+http://5.9.150.76/dramahd/mono.m3u8
+#EXTINF:0, ROMANCE
+http://5.9.150.76/romance/mono.m3u8
+#EXTINF:0, COMEDY
+http://5.9.150.76/comedyhd/mono.m3u8
+#EXTINF:0, ANI
+http://5.9.150.76/anihd/mono.m3u8
 #EXTINF:-1,KLAN HD
 http://79.106.48.2:3131/live/klanhdott/playlist.m3u8
 #EXTINF:-1,KLAN PLUS HD
