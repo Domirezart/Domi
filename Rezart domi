@@ -143,6 +143,8 @@ http://5.9.150.76/romance/mono.m3u8
 http://5.9.150.76/comedyhd/mono.m3u8
 #EXTINF:0,ANI
 http://5.9.150.76/anihd/mono.m3u8
+#EXTINF:-1,HBO
+http://stream2.torba.fun/4bavqMBhtr/mpegts?token=EYJ3050wYN3vjLF6
 #EXTINF:-1,Top Channel HD
 http://pinbal4you.com:5436/play/mKUQC-g65_0PyGWmyNkji_m29ShP2lNDN7nGVqowerT3OKsR3daij2XihBY-a-Mv9e4-PALombbmfl8wkUiu-UPfUHS5MLT4JWhcu2ezsormaazeZ-PwAUrYKHxzEwFHuS4VBiJplIB3FT_O5kcmGkyfL4FCaL5ddbBUcc4rkTE?ext=.ts
 #EXTINF:-1,Top Channel
