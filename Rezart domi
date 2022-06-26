@@ -1,6 +1,30 @@
 #EXTM3U
 #EXTINF:-1 group-title="ALB TV SHQIP 🇦🇱 "tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",DOMI SHIJAKSI 🇦🇱
 https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1,Top Channel
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:57:87:3A&stream=3423&extension=m3u8
+#EXTINF:-1,Klan TV
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:57:87:3A&stream=3428&extension=m3u8
+#EXTINF:-1,Klan Plus
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:57:87:3A&stream=3430&extension=m3u8
+#EXTINF:-1,Vizion Plus
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:57:87:3A&stream=3433&extension=m3u8
+#EXTINF:-1,ABC
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:57:87:3A&stream=3446&extension=m3u8
+#EXTINF:-1,RTV Ora
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:57:87:3A&stream=17848&extension=m3u8
+#EXTINF:-1,Scan TV
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:57:87:3A&stream=3459&extension=m3u8
+#EXTINF:-1,Syri TV
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:57:87:3A&stream=3436&extension=m3u8
+#EXTINF:-1,MCN TV
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:57:87:3A&stream=3437&extension=m3u8
+#EXTINF:-1,RTSH 1
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:57:87:3A&stream=3439&extension=m3u8
+#EXTINF:-1,RTSH 2
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:57:87:3A&stream=3440&extension=m3u8
+#EXTINF:-1,RTSH 3
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:57:87:3A&stream=3441&extension=m3u8
 #EXTINF:-1,Rai 1
 http://185.78.67.174:8000/play/IT_rai_1_HD/index.m3u8
 #EXTINF:-1,Rai 2
