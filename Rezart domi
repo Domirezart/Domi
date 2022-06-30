@@ -7,6 +7,8 @@ http://195.154.165.11:8000/live?channelId=1070&uid=8769&deviceMac=00:1A:79:5C:EE
 http://62.210.205.98:8000/live?channelId=1071&uid=8769&deviceMac=00:1A:79:5C:EE:16
 #EXTINF:-1,PRIMAFILA 4
 http://62.210.205.98:8000/live?channelId=1072&uid=8769&deviceMac=00:1A:79:5C:EE:16
+#EXTINF:-1,PRIMAFILA 5
+http://51.158.144.73:8000/live?channelId=1073&uid=8769&deviceMac=00:1A:79:5C:EE:16
 #EXTINF:-1 group-title="ALB TV SHQIP 🇦🇱 "tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",DOMI SHIJAKSI 🇦🇱
 https://albportal.net/albkanalemusic.m3u8
 #EXTINF:-1,Top Channel
