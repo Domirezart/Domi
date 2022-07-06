@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,NATIONAL GEOGRAPHIC WILD
+#EXTINF:-1 group-title="WORLD 🇪🇺 DISCOVERY"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",NATIONAL GEOGRAPHIC WILD
 http://cdnua06.hls.tv/476/hls/gy8vpi1hqu26tse7nx3rfmdk4wjc950a/272/stream.m3u8
 #EXTINF:-1,NATIONAL GEOGRAPHIC HD
 http://cdnua06.hls.tv/476/hls/kng9fh2rw1qe8i5d7o3jzvuxalb64yms/274/stream.m3u8
