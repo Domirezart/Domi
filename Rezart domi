@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,NATIONAL GEOGRAPHIC WILD
-http://cdnua06.hls.tv/476/hls/gy8vpi1hqu26tse7nx3rfmdk4wjc950a/271/stream.m3u8
+http://cdnua06.hls.tv/476/hls/gy8vpi1hqu26tse7nx3rfmdk4wjc950a/272/stream.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://cdnua06.hls.tv/476/hls/kng9fh2rw1qe8i5d7o3jzvuxalb64yms/274/stream.m3u8
 #EXTINF:-1,ANIMAL PLANET HD
 http://cdnua06.hls.tv/476/hls/lofksujyxti7d18v52ge4qpcwhrmb9z3/4706/stream.m3u8
 #EXTINF:-1,DISCOVERY CHANNEL HD
