@@ -73,6 +73,8 @@ http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:57:87:3A&stream=3441&exte
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1656246338/ei/4vu3YrjpKoWwuQLQ5LGABA/ip/20.29.117.115/id/D3Ce33iZkko.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVCxzcb01xESTFo72x6Rv6Bzl8XOo/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJsiByzYVd15J8aJPN98Rpajw5w18PYWuCWQgiaetkPqAiAGmNoAHXcVV6V9ovNOMZLZuCAQwcFQ6NH76nIj2OGWag%3D%3D/file/index.m3u8
 #EXTINF:-1,TOP NEWS
 https://stream-07.dc3.dailymotion.com/sec(Rt6MMB82ZLcHsd-t3Q1irVm2Cl3r5CQ4LmKewdoC4FB0J7mooLsoX9CihJk6EnS2)/dm/3/x6inuzo/s/live-2.m3u8
+#EXTINF:-1,ZICO HD
+https://ub1doy938d.gjirafa.net/live/rcBFeREIqcMkNthqI6YCr3Riss97l2MC/y1k0kk1080/index.m3u8
 #EXTINF:-1,Rai 1
 http://185.78.67.174:8000/play/IT_rai_1_HD/index.m3u8
 #EXTINF:-1,Rai 2
