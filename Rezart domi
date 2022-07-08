@@ -435,38 +435,20 @@ http://212.122.80.182:38167/play/a01h/index.m3u8
 http://212.122.80.182:38167/play/a00v/index.m3u8
 #EXTINF:-1,Match 3hd
 http://212.122.80.182:38167/play/a00w/index.m3u8
-#EXTINF:-1,WWE HD
-http://tvmalaysia.cc:80/444386/444386/6849
-#EXTINF:-1,Super Sport 1 FHD
-http://212.18.115.177:8030/play/a03w
-#EXTINF:-1,Super Sport 2 FHD
-http://212.18.115.177:8030/play/a03x
-#EXTINF:-1,Super Sport 3 FHD
-http://212.18.115.177:8030/play/a03y
-#EXTINF:-1,Super Sport 4 FHD
-http://212.18.115.177:8030/play/a03z
-#EXTINF:-1,Super Sport 5 FHD
-http://212.18.115.177:8030/play/a040
-#EXTINF:-1,Super Sport 6 FHD
-http://212.18.115.177:8030/play/a041
-#EXTINF:-1,Super Sport News
-http://212.18.115.177:8030/play/a020
-#EXTINF:-1,K Sport 1
-http://212.18.115.177:8030/play/a03j
-#EXTINF:-1,K Sport 2
-http://212.18.115.177:8030/play/a03k
-#EXTINF:-1,K Sport 3
-http://212.18.115.177:8030/play/a03l
-#EXTINF:-1,K Sport 4
-http://212.18.115.177:8030/play/a03m
-#EXTINF:-1,Tring Sport 1 FHD
-http://212.18.115.177:8030/play/a03p
-#EXTINF:-1,Tring Sport 2 FHD
-http://212.18.115.177:8030/play/a03q
-#EXTINF:-1,Tring Sport 3 FHD
-http://212.18.115.177:8030/play/a03r
-#EXTINF:-1,Tring Sport 4 FHD
-http://212.18.115.177:8030/play/a03s
+#EXTINF:-1,ArtSport 4 HD
+http://185.222.138.163:9000/play/a0up
+#EXTINF:-1,ArtSport 5 HD
+http://185.222.138.163:9000/play/a0uq
+#EXTINF:-1,ArtSport 6 HD
+http://185.222.138.163:9000/play/a0ur
+#EXTINF:-1,K Sport 1 HD
+http://185.222.138.163:9000/play/a0ts
+#EXTINF:-1,K Sport 2 HD
+http://185.222.138.163:9000/play/a0tt
+#EXTINF:-1,K Sport 3 HD
+http://185.222.138.163:9000/play/a0tu
+#EXTINF:-1,K Sport 4 HD
+http://185.222.138.163:9000/play/a0k3
 #EXTINF:-1,Ten 1
 http://182.50.65.213:8888/udp/239.239.0.33:3001
 #EXTINF:-1,Ten 2
