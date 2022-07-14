@@ -23,8 +23,12 @@ http://163.172.33.7:25461/live/serveramsterdam/2292020/39.ts
 http://163.172.33.7:25461/live/serveramsterdam/2292020/40.ts
 #EXTINF:-1,BOXOFFICE 3
 http://163.172.33.7:25461/live/serveramsterdam/2292020/41.ts
+#EXTINF:-1,BOXOFFICE 4
+http://163.172.33.7:25461/live/serveramsterdam/2292020/42.ts
 #EXTINF:-1,NOVACINEMA 2K
 http://163.172.33.7:25461/live/serveramsterdam/2292020/14.ts
+#EXTINF:-1,HBO MAX
+http://163.172.33.7:25461/live/serveramsterdam/2292020/33.ts
 #EXTINF:-1 group-title="ALB TV SHQIP 🇦🇱 "tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",DOMI SHIJAKSI 🇦🇱
 https://albportal.net/albkanalemusic.m3u8
 #EXTINF:-1,Top Channel
