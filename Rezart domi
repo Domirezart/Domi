@@ -29,6 +29,14 @@ http://163.172.33.7:25461/live/serveramsterdam/2292020/42.ts
 http://163.172.33.7:25461/live/serveramsterdam/2292020/14.ts
 #EXTINF:-1,HBO MAX
 http://163.172.33.7:25461/live/serveramsterdam/2292020/33.ts
+#EXTINF:-1,HBO 1
+http://212.18.115.176:8080/live/8cEW8XH37tDT/GP4qLxWhcCkd/1856.ts
+#EXTINF:-1,HBO 2
+http://212.18.115.176:8080/live/8cEW8XH37tDT/GP4qLxWhcCkd/1858.ts
+#EXTINF:-1,HBO PLUS
+http://212.18.115.176:8080/live/8cEW8XH37tDT/GP4qLxWhcCkd/1855.ts
+#EXTINF:-1,HBO FAMILY
+http://212.18.115.176:8080/live/8cEW8XH37tDT/GP4qLxWhcCkd/1857.ts
 #EXTINF:-1 group-title="ALB TV SHQIP 🇦🇱 "tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",DOMI SHIJAKSI 🇦🇱
 https://albportal.net/albkanalemusic.m3u8
 #EXTINF:-1,Top Channel
