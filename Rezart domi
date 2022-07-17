@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1 group-title="WORLD 🇪🇺 CINEMA"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",CineMan HD
+http://myott.top/stream/EHTC5R2IVC/349.m3u8
+#EXTINF:-1,CineMan Top HD
+http://myott.top/stream/EHTC5R2IVC/350.m3u8
+#EXTINF:-1,CineMan Action HD
+http://myott.top/stream/EHTC5R2IVC/351.m3u8
+#EXTINF:-1,CineMan Thriller HD
+http://myott.top/stream/EHTC5R2IVC/352.m3u8
+#EXTINF:-1,CineMan Marvel HD
+http://myott.top/stream/EHTC5R2IVC/354.m3u8
+#EXTINF:-1,CineMan Ужасы HD
+http://myott.top/stream/EHTC5R2IVC/355.m3u8
+#EXTINF:-1,CineMan Comedy HD
+http://myott.top/stream/EHTC5R2IVC/356.m3u8
+#EXTINF:-1,CineMan VHS HD
+http://myott.top/stream/EHTC5R2IVC/357.m3u8
+#EXTINF:-1,CineMan РуКино HD
+http://myott.top/stream/EHTC5R2IVC/358.m3u8
+#EXTINF:-1,CineMan Сваты HD
+http://myott.top/stream/EHTC5R2IVC/359.m3u8
 #EXTINF:-1 group-title="WORLD 🇪🇺 DISCOVERY"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",NATIONAL GEOGRAPHIC WILD
 http://cdnua06.hls.tv/476/hls/gy8vpi1hqu26tse7nx3rfmdk4wjc950a/272/stream.m3u8
 #EXTINF:-1,NATIONAL GEOGRAPHIC HD
@@ -17,26 +37,6 @@ http://cdnua06.hls.tv/476/hls/gy8vpi1hqu26tse7nx3rfmdk4wjc950a/244/stream.m3u8
 http://cdnua06.hls.tv/476/hls/kng9fh2rw1qe8i5d7o3jzvuxalb64yms/238/stream.m3u8
 #EXTINF:-1,FOX LIFE HD
 http://cdnua06.hls.tv/476/hls/kng9fh2rw1qe8i5d7o3jzvuxalb64yms/236/stream.m3u8
-#EXTINF:-1 group-title="CINEMA 🇪🇺"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",BOXOFFICE 1
-http://163.172.33.7:25461/live/serveramsterdam/2292020/39.ts
-#EXTINF:-1,BOXOFFICE 2
-http://163.172.33.7:25461/live/serveramsterdam/2292020/40.ts
-#EXTINF:-1,BOXOFFICE 3
-http://163.172.33.7:25461/live/serveramsterdam/2292020/41.ts
-#EXTINF:-1,BOXOFFICE 4
-http://163.172.33.7:25461/live/serveramsterdam/2292020/42.ts
-#EXTINF:-1,NOVACINEMA 2K
-http://163.172.33.7:25461/live/serveramsterdam/2292020/14.ts
-#EXTINF:-1,HBO MAX
-http://163.172.33.7:25461/live/serveramsterdam/2292020/33.ts
-#EXTINF:-1,HBO 1
-http://51.68.46.246:8080/live/287994018545/287994018545/31460.ts?token=QhUMAhZZR1gbUgdSAVUIBgcAVlVcBAhQBAFRBgEHBFMPVF0CXFcHVVxGTRJEFkpSVQxqX10RC1YGUAMHFBBEQVxFOwoBE19AD1VQCQVXGhsWFVxbXBELVAFRAgUAAwALDRtGEwxVR1gbVlcGA1YaGxYETUJcQV8EWztRV05bUlcbDQoWCV1JQFYKPlRSD1lZUEMPFAkRHUdeF0UQAlxEXlUbRgEMRRcDTQFDChVTCA8CQxkUWlxEC0MWTBACEHhmGxtGBh1FAAxKDQ5eFVgaQ0dDGRRQQG4XUhdBQF1TXFdLFV5BVRNJQFQFGW9UDVZZUQJBX1ZdQkcNRgQQFBBcXVdeEAwXbhULXUZbEgVXAQEEQ0g=
-#EXTINF:-1,HBO 2
-http://51.68.46.246:8080/live/287994018545/287994018545/31465.ts?token=QhUMAhZZR1gbUgdSAVUIBgcAVlVcBAhQBAFRBgEHBFMPVF0CXFcHVVxGTRJEFkpSVQxqX10RC1YGUAMHFBBEQVxFOwoBE19AD1VQCQVXGhsWFVxbXBELVAFRAgUAAwALDRtGEwxVR1gbVlcGA1YaGxYETUJcQV8EWztRV05bUlcbDQoWCV1JQFYKPlRSD1lZUEMPFAkRHUdeF0UQAlxEXlUbRgEMRRcDTQFDChVTCA8CQxkUWlxEC0MWTBACEHhmGxtGBh1FAAxKDQ5eFVgaQ0dDGRRQQG4XUhdBQF1TXFdLFV5BVRNJQFQFGW9UDVZZUQJBX1ZdQkcNRgQQFBBcXVdeEAwXbhULXUZbEgVXAQEEQ0g=
-#EXTINF:-1,HBO PLUS
-http://212.18.115.176:8080/live/8cEW8XH37tDT/GP4qLxWhcCkd/1855.ts
-#EXTINF:-1,HBO FAMILY
-http://141.94.137.207:8080/live/287994018545/287994018545/31462.ts?token=QhUMAhZZR1gbVVlWUVIIUlZVDQIBVQZdB1dQV1xRUFAMAVJWAFNWBw5GTRJEFkpSVQxqX10RC1YGUAMAFBBEQVxFOwoBE19AD1VQCQVXGhsWFVxbXBELVAFRAgUAAgcACxtGEwxVR1gbUlQFD0AUFVEZQVNLXVAJaABQRFFRVBADWREPCR1HDVc7BVVaA1ZTFlsXBhsfEwxEFBcIVkddXhUVBgoRQwQWXEZbEgZQDQ8WTRdVVkZfEUUdFwgae2UQFRUBGxFUCxFQCw8SDUBMRBZNF19KbEMARBBHV1lfVEAbDUZTRx1HD1gcPlNYDFZSVxVcWVdAE18VVRceGl9eXFBDCxE6QQwGG15DAgdbCgIWHA==
 #EXTINF:-1 group-title="ALB TV SHQIP 🇦🇱 "tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",DOMI SHIJAKSI 🇦🇱
 https://albportal.net/albkanalemusic.m3u8
 #EXTINF:-1,Top Channel
@@ -137,46 +137,6 @@ https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(kf)/
 http://190.2.155.162/RSI1/index.m3u8
 #EXTINF:-1,RSI 2
 http://190.2.155.162/RSI2/index.m3u8
-#EXTINF:-1,NEWS MEDIA PUGLIA TV
-https://streamlive.arcapuglia.it:8080/live/newmedia/index.m3u8
-#EXTINF:-1,AMICA TV
-https://streamlive17.arcapuglia.it:8080/live/amica9TV/index.m3u8
-#EXTINF:-1,ABC TV
-https://diretta.arcapuglia.it:8080/live/abctv/index.m3u8
-#EXTINF:-1,TV LUNA
-https://diretta.arcapuglia.it:8080/live/teleluna/index.m3u8
-#EXTINF:-1,CUSANO TV
-https://stream9.xdevel.com/video0s975363-691/stream/playlist.m3u8
-#EXTINF:-1,RTL HD
-http://95.107.132.105/out/u/115_1.m3u8
-#EXTINF:-1,SUPER RTL HD
-http://95.107.132.105/out/u/127_1.m3u8
-#EXTINF:-1,VOX HD
-http://95.107.132.105/out/u/123_1.m3u8
-#EXTINF:-1,DAS ERSTE HD
-https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
-#EXTINF:-1,SHOW HD
-http://95.107.132.105/out/u/225_2.m3u8
-#EXTINF:-1,CineMan HD
-http://myott.top/stream/EHTC5R2IVC/349.m3u8
-#EXTINF:-1,CineMan Top HD
-http://myott.top/stream/EHTC5R2IVC/350.m3u8
-#EXTINF:-1,CineMan Action HD
-http://myott.top/stream/EHTC5R2IVC/351.m3u8
-#EXTINF:-1,CineMan Thriller HD
-http://myott.top/stream/EHTC5R2IVC/352.m3u8
-#EXTINF:-1,CineMan Marvel HD
-http://myott.top/stream/EHTC5R2IVC/354.m3u8
-#EXTINF:-1,CineMan Ужасы HD
-http://myott.top/stream/EHTC5R2IVC/355.m3u8
-#EXTINF:-1,CineMan Comedy HD
-http://myott.top/stream/EHTC5R2IVC/356.m3u8
-#EXTINF:-1,CineMan VHS HD
-http://myott.top/stream/EHTC5R2IVC/357.m3u8
-#EXTINF:-1,CineMan РуКино HD
-http://myott.top/stream/EHTC5R2IVC/358.m3u8
-#EXTINF:-1,CineMan Сваты HD
-http://myott.top/stream/EHTC5R2IVC/359.m3u8
 #EXTINF:-1,Top Channel HD
 http://pinbal4you.com:5436/play/mKUQC-g65_0PyGWmyNkji_m29ShP2lNDN7nGVqowerT3OKsR3daij2XihBY-a-Mv9e4-PALombbmfl8wkUiu-UPfUHS5MLT4JWhcu2ezsormaazeZ-PwAUrYKHxzEwFHuS4VBiJplIB3FT_O5kcmGkyfL4FCaL5ddbBUcc4rkTE?ext=.ts
 #EXTINF:-1,Top Channel
@@ -245,32 +205,10 @@ http://95.107.132.105/out/u/628_4.m3u8
 http://95.107.132.105/out/u/657_1.m3u8
 #EXTINF:-1,Klan Kosova
 http://95.107.132.105/out/u/694_1.m3u8
-#EXTINF:-1,Klan Kosova hd
-http://46.29.169.15:4001/play/a013/index.m3u8
-#EXTINF:-1,SHIJAK TV
-http://xdtv-iptv.com:7070/SAT-univers/SAT-univers/88
 #EXTINF:-1,TV Johaniter
 https://monamour.agency/johaniter007web/index.m3u8
 #EXTINF:-1,DRITA HD
 https://monamour.agency/dritaweb008/index.m3u8
-#EXTINF:-1,STAR PLUS
-https://bashk.tv/hls/tracks-v1a1/mono.m3u8
-#EXTINF:-1,FRAME TV
-http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/122.ts
-#EXTINF:-1,Topestrada HD
-http://live.topestrada.com/live/topestrada/index.m3u8
-#EXTINF: -1,TV Koha HD
-rtmp://live.tvkoha.tv/live/koha/livestream
-#EXTINF: -1,RTV Flaka HD
-rtmp://live.rtvflaka.cf/live/RTVFlakaHD
-#EXTINF:-1,Siti SHqip
-https://vs1.sednastream.com:1936/sitishqip/sitishqip/playlist.m3u8
-#EXTINF:-1,Info 24 SHqip
-https://vs1.sednastream.com:1936/info24/info24/playlist.m3u8
-#EXTINF:-1,Top News
-https://stream-06.dc3.dailymotion.com/sec(Rt6MMB82ZLcHsd-t3Q1irTxu3jUHCQCxkL0GXFRUPc2uZzvcoBZLqsRrq5EQ5tAe)/dm/3/x6inuzo/s/live-2.m3u8#cell=lcore
-#EXTINF:-1,SHqiponja tv
-http://ott.iptvshqipott.com:8080/live/shqiponja/tv/236.m3u8
 #EXTINF:-1,Alsat M
 http://95.107.132.105/out/u/645_1.m3u8
 #EXTINF:-1,RTV Ora
