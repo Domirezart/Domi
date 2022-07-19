@@ -19,6 +19,14 @@ http://myott.top/stream/EHTC5R2IVC/357.m3u8
 http://myott.top/stream/EHTC5R2IVC/358.m3u8
 #EXTINF:-1,CineMan Сваты HD
 http://myott.top/stream/EHTC5R2IVC/359.m3u8
+#EXTINF:-1,VIP Comedy HD
+https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1,VIP Megahit HD
+https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1,VIP Premiere HD
+https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1,VIP Serial HD
+https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="WORLD 🇪🇺 DISCOVERY"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",NATIONAL GEOGRAPHIC WILD
 http://cdnua06.hls.tv/476/hls/gy8vpi1hqu26tse7nx3rfmdk4wjc950a/272/stream.m3u8
 #EXTINF:-1,NATIONAL GEOGRAPHIC HD
