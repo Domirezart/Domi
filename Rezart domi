@@ -225,6 +225,32 @@ http://local.liveline.nu:2085/play/a0b2ALSAMMFHD/index.m3u8
 http://95.107.132.106/out/u/gfhsghshsgfhsfgh.m3u8
 #EXTINF:-1,Vizion Plus
 http://95.107.132.106/out/u/646_5.m3u8
+#EXTINF:-1,RTSH 1 HD
+http://109.104.129.195:8001/play/s8
+#EXTINF:-1,RTSH 2 HD
+http://109.104.129.195:8001/play/s22
+#EXTINF:-1,RTSH 3 HD
+http://109.104.129.195:8001/play/s12
+#EXTINF:-1,RTSH Sport HD
+http://109.104.129.195:8001/play/s25
+#EXTINF:-1,RTSH Shkolle HD
+http://109.104.129.195:8001/play/s7
+#EXTINF:-1,RTSH Agro
+http://109.104.129.195:8001/play/s1
+#EXTINF:-1,RTSH Femije
+http://109.104.129.195:8001/play/s14
+#EXTINF:-1,RTSH 24 HD
+http://109.104.129.195:8001/play/s10
+#EXTINF:-1,RTSH Film
+http://109.104.129.195:8001/play/s16
+#EXTINF:-1,RTSH Shqip
+http://109.104.129.195:8001/play/s3
+#EXTINF:-1,RTSH Muzike
+http://109.104.129.195:8001/play/s17
+#EXTINF:-1,RTSH Plus
+http://109.104.129.195:8001/play/s24
+#EXTINF:-1,RTSH Kuvend
+http://109.104.129.195:8001/play/s6
 #EXTINF:-1,Klan TV
 http://95.107.132.105/out/u/628_4.m3u8
 #EXTINF:-1,Klan Plus
@@ -367,12 +393,6 @@ http://185.222.138.163:9000/play/a0tt
 http://185.222.138.163:9000/play/a0tu
 #EXTINF:-1,K Sport 4 HD
 http://185.222.138.163:9000/play/a0k3
-#EXTINF:-1,Ten 1
-http://182.50.65.213:8888/udp/239.239.0.33:3001
-#EXTINF:-1,Ten 2
-http://182.50.65.213:8888/udp/239.239.0.34:3001
-#EXTINF:-1,Ten 3
-http://182.50.65.213:8888/udp/239.239.0.35:3001
 #EXTINF:-1,SKY SPORT F1
 http://api.magiaiptv.com/live/800261/138645/m1_skysportsf1_720p
 #EXTINF:-1,Fox Sport 1
@@ -403,104 +423,6 @@ http://api.magiaiptv.com/live/800261/138645/m3_eAb6FoNigKstv3_720p_2M
 http://api.magiaiptv.com/live/800261/138645/m3_eargH0Pv9qstv4_720p_2M
 #EXTINF:-1,SPORT TV 5 UHD
 http://api.magiaiptv.com/live/800261/138645/m3_L4QIjJorwjstv5_1080p
-#EXTINF:-1,BEIN SPORT 1
-http://217.74.16.155:8082/local/ar-s/bein-1-stop/tracks-v1a1/mono.m3u8
-#EXTINF:-1,BEIN SPORT 2
-http://217.74.16.155:8082/local/ar-s/bein-2-stop/tracks-v1a1/mono.m3u8
-#EXTINF:-1,BEIN SPORT 3
-http://217.74.16.155:8082/local/ar-s/bein-3-stop/tracks-v1a1/mono.m3u8
-#EXTINF:-1,BEIN SPORT 4
-http://217.74.16.155:8082/local/ar-s/bein-4-stop/tracks-v1a1/mono.m3u8
-#EXTINF:-1,BEIN SPORT 5
-http://217.74.16.155:8082/local/ar-s/bein-5-stop/tracks-v1a1/mono.m3u8
-#EXTINF:-1,BEIN SPORT 6
-http://217.74.16.155:8082/local/ar-s/bein-6-stop/tracks-v1a1/mono.m3u8
-#EXTINF:-1,BEIN SPORT 7
-http://217.74.16.155:8082/local/ar-s/bein-7-stop/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ARENA SPORT 1
-http://46.29.169.15:4001/play/a00t/index.m3u8
-#EXTINF:-1,ARENA SPORT 2
-http://46.29.169.15:4001/play/a00u/index.m3u8
-#EXTINF:-1,ARENA SPORT 3
-http://46.29.169.15:4001/play/a00v/index.m3u8
-#EXTINF:-1,ARENA SPORT 4
-http://46.29.169.15:4001/play/a00w/index.m3u8
-#EXTINF:-1,Rai 1
-http://185.204.32.4:9981/stream/channelid/2078368351?ticket=80099E9F14D55595344578A29F73FFA8E3B1743C&profile=pass
-#EXTINF:-1,Rai 2
-http://185.204.32.4:9981/stream/channelid/1898434900?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:zaltv.co
-#EXTINF:-1,Rai 3
-http://185.204.32.4:9981/stream/channelid/1436727961?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:zaltv.co
-#EXTINF:-1,RTSH 1HD
-http://185.204.32.4:9981/stream/channelid/1606000651?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:zaltv.co
-#EXTINF:-1,RTSH 2HD
-http://185.204.32.4:9981/stream/channelid/845796780?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:zaltv.co
-#EXTINF:-1,RTSH 3HD
-http://185.204.32.4:9981/stream/channelid/1718846587?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:zaltv.co
-#EXTINF:-1,RTSH Sport HD
-http://185.204.32.4:9981/stream/channelid/1261192802?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:zaltv.co
-#EXTINF:-1,rtsh sport
-http://185.204.32.4:9981/stream/channelid/1261192802?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:zaltv.co
-#EXTINF:-1,RTSH 24 HD
-http://185.204.32.4:9981/stream/channelid/868261949?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:zaltv.co
-#EXTINF:-1,RTSH Shqip
-http://185.204.32.4:9981/stream/channelid/847076243?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:zaltv.co
-#EXTINF:-1,RTSH Film
-http://185.204.32.4:9981/stream/channelid/1699140733?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:zaltv.co
-#EXTINF:-1,RTSH Femije
-http://185.204.32.4:9981/stream/channelid/81074854?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:zaltv.co
-#EXTINF:-1,RTSH Shkolle HD
-http://185.204.32.4:9981/stream/channelid/902478398?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:zaltv.co
-#EXTINF:-1,RTSH Agro
-http://185.204.32.4:9981/stream/channelid/944434146?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:zaltv.co
-#EXTINF:-1,RTSH Shkodra
-http://185.204.32.4:9981/stream/channelid/378267982?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:zaltv.co
-#EXTINF:-1,RTSH Plus
-http://185.204.32.4:9981/stream/channelid/914839179?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:zaltv.co
-#EXTINF:-1,RTSH Muzike
-http://185.204.32.4:9981/stream/channelid/1799910036?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:zaltv.co
-#EXTINF:-1,RTSH Kuvend
-http://185.204.32.4:9981/stream/channelid/611573695?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:zaltv.co
-#EXTINF:-1,TV Rozafa
-http://185.204.32.4:9981/stream/channelid/1528008613?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:zaltv.co
-#EXTINF:-1,TV Blu Sky
-http://185.204.32.4:9981/stream/channelid/1723922076?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:zaltv.co
-#EXTINF:-1,Tv Kopliku
-http://185.204.32.4:9981/stream/channelid/159839591?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:zaltv.co
-#EXTINF:-1,TV Antena Nord
-http://185.204.32.4:9981/stream/channelid/1793321722?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:zaltv.co
-#EXTINF:-1,TV Star Plus
-http://185.204.32.4:9981/stream/channelid/1155601287?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:zaltv.co
-#EXTINF:-1,TV 1 Channel
-http://185.204.32.4:9981/stream/channelid/1383231526?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:zaltv.co
-#EXTINF:-1,Klan Plus HD
-http://185.204.32.4:9981/stream/channelid/1280613217?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:zaltv.co
-#EXTINF:-1,ABC HD
-http://185.204.32.4:9981/stream/channelid/1489072505?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:zaltv.co
-#EXTINF:-1,Klan HD
-http://185.204.32.4:9981/stream/channelid/2119424537?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:zaltv.co
-#EXTINF:-1,Klan News
-http://185.204.32.4:9981/stream/channelid/1364860311?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:zaltv.co
-#EXTINF:-1,SCAN
-http://185.204.32.4:9981/stream/channelid/1141394393?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:zaltv.co
-#EXTINF:-1,Report TV
-http://185.204.32.4:9981/stream/channelid/1402941874?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:zaltv.co
-#EXTINF:-1,MCN TV HD
-http://185.204.32.4:9981/stream/channelid/729610271?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:zaltv.co
-#EXTINF:-1,EURONEWS ALBANIA HD
-http://185.204.32.4:9981/stream/channelid/380882876?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:zaltv.co
-#EXTINF:-1,SYRI HD
-http://185.204.32.4:9981/stream/channelid/59347756?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:zaltv.co
-#EXTINF:-1,Klan Music
-http://185.204.32.4:9981/stream/channelid/1783632853?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:zaltv.co
-#EXTINF:-1,Klan Sport
-http://185.204.32.4:9981/stream/channelid/77571236?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:zaltv.co
-#EXTINF:-1,Panorama TV
-http://185.204.32.4:9981/stream/channelid/101480720?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:zaltv.co
-#EXTINF:-1,Top News HD
-http://185.204.32.4:9981/stream/channelid/321131333?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:zaltv.co
-#EXTINF:-1,Top Channel HD
-http://185.204.32.4:9981/stream/channelid/1406086565?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:zaltv.co
 #EXTINF:-1,bbf
 http://171.22.150.202:2040/live/bbfottpp1/playlist.m3u8
 #EXTINF:-1,euronews al
