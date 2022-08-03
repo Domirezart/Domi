@@ -1,4 +1,34 @@
 #EXTM3U
+#EXTINF:-1 group-title="RTSH TV 🇦🇱"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",RTSH 1
+http://51.91.154.19:35712/live/rtsh_1mob_pp1/playlist.m3u8
+#EXTINF:-1,RTSH 2
+http://51.91.154.19:35712/live/rtsh_2ott/playlist.m3u8
+#EXTINF:-1,RTSH 3
+http://51.91.154.19:35712/live/rtsh3ott/playlist.m3u8
+#EXTINF:-1,RTSH 24
+http://51.91.154.19:35712/live/rtsh_24_ott/playlist.m3u8
+#EXTINF:-1,RTSH PLUS
+http://51.91.154.19:35712/live/rtsh_plus_ott/playlist.m3u8
+#EXTINF:-1,RTSH SHQIP
+http://51.91.154.19:35712/live/rtsh_shqip_ott/playlist.m3u8
+#EXTINF:-1,RTSH FEMIJE
+http://51.91.154.19:35712/live/rtsh_femije_ott/playlist.m3u8
+#EXTINF:-1,RTSH FILM
+http://51.91.154.19:35712/live/rtsh_film_ott/playlist.m3u8
+#EXTINF:-1,RTSH SPORT
+http://51.91.154.19:35712/live/rtsh_sport_ott11/playlist.m3u8
+#EXTINF:-1,RTSH SHKOLLE
+http://51.91.154.19:35712/live/rtsh_shkolle_ott/playlist.m3u8
+#EXTINF:-1,RTSH AGRO
+http://51.91.154.19:35712/live/rtsh_agro_ott/playlist.m3u8
+#EXTINF:-1,RTSH SHKODRA
+http://51.91.154.19:35712/live/rtsh_shkodra_ott/playlist.m3u8
+#EXTINF:-1,RTSH KUKSI
+http://51.91.154.19:35712/live/rtsh_kukesi_ott/playlist.m3u8
+#EXTINF:-1,RTSH GJIROKASTRA
+http://51.91.154.19:35712/live/rtsh_gjirokastra_ott/playlist.m3u8
+#EXTINF:-1,RTSH PARLAMENT
+http://51.91.154.19:35712/live/rtsh_parlament_ott/playlist.m3u8
 #EXTINF:-1 group-title="WORLD 🇪🇺 CINEMA"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",CineMan HD
 http://myott.top/stream/EHTC5R2IVC/349.m3u8
 #EXTINF:-1,CineMan Top HD
