@@ -61,6 +61,10 @@ http://95.107.132.105/out/u/212_1.m3u8
 http://95.107.132.105/out/u/163_1.m3u8
 #EXTINF:-1,TRING RTSH SPORT
 http://95.107.132.105/out/u/638_1.m3u8
+#EXTINF:-1,TRING CANALE 5
+http://95.107.132.105/out/u/422_1.m3u8
+#EXTINF:-1,TRING RAI GULP
+http://95.107.132.105/out/u/442_1.m3u8
 #EXTINF:-1,Top ALBANIA Radio
 https://live.topgold.al/tar
 #EXTINF:-1,Top Gold Radio
