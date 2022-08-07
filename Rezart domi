@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title=" TRING ALBANIA 🇦🇱🇪🇺"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",VIZION PLUS
 http://95.107.132.106/out/u/643_5.m3u8
+#EXTINF:-1,TRING HISTORI
+http://95.107.132.105/out/u/1001_5.m3u8
+#EXTINF:-1,TRING SUMMERTAIM
+http://95.107.132.105/out/u/1003_3.m3u8
 #EXTINF:-1 group-title=" WORLD DISCOVERY 🇦🇱🇪🇺"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",NATIONAL GEOGRAPHIC WILD
 http://cdnua06.hls.tv/476/hls/gy8vpi1hqu26tse7nx3rfmdk4wjc950a/272/stream.m3u8
 #EXTINF:-1,NATIONAL GEOGRAPHIC HD
