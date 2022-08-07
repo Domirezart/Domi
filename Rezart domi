@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title=" TRING ALBANIA 🇦🇱🇪🇺"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",VIZION PLUS
 http://95.107.132.106/out/u/643_5.m3u8
+#EXTINF:-1,TRIN ACTION
+http://95.107.132.105/out/u/1005_3.m3u8
+#EXTINF:-1,TRNG SUPER
+http://95.107.132.105/out/u/1006_3.m3u8
 #EXTINF:-1,TRING LIFE
 http://95.107.132.105/out/u/1004_3.m3u8
 #EXTINF:-1,TRING FANTASY
