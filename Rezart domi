@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 group-title=" TRING ALBANIA 🇦🇱🇪🇺"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",VIZION PLUS
 http://95.107.132.106/out/u/643_5.m3u8
-#EXTINF:-1,TRIN ACTION
+#EXTINF:-1,TRING ACTION
 http://95.107.132.105/out/u/1005_1.m3u8
-#EXTINF:-1,TRNG SUPER
+#EXTINF:-1,TRING SUPER
 http://95.107.132.105/out/u/1006_1.m3u8
 #EXTINF:-1,TRING SERIES
 http://95.107.132.105/out/u/996_1.m3u8
@@ -11,7 +11,7 @@ http://95.107.132.105/out/u/996_1.m3u8
 http://95.107.132.105/out/u/1004_1.m3u8
 #EXTINF:-1,TRING 3PLUS
 http://95.107.132.105/out/u/980_1.m3u8
-#EXTINF:-1,TRING NOVELLAS
+#EXTINF:-1,TRING NOVELAS
 http://95.107.132.105/out/u/910_1.m3u8
 #EXTINF:-1,TRING COLLECTION
 http://95.107.132.105/out/u/907_1.m3u8
@@ -235,148 +235,10 @@ http://local.liveline.nu:2085/play/a0artopchannel/index.m3u8
 http://local.liveline.nu:2085/play/a0b2ALSAMMFHD/index.m3u8
 #EXTINF:-1,VIZION + hd
 http://95.107.132.106/out/u/gfhsghshsgfhsfgh.m3u8
-#EXTINF:-1,Vizion Plus
-http://95.107.132.106/out/u/646_5.m3u8
-#EXTINF:-1,RTSH 1 HD
-http://109.104.129.195:8001/play/s8
-#EXTINF:-1,RTSH 2 HD
-http://109.104.129.195:8001/play/s22
-#EXTINF:-1,RTSH 3 HD
-http://109.104.129.195:8001/play/s12
-#EXTINF:-1,RTSH Sport HD
-http://109.104.129.195:8001/play/s25
-#EXTINF:-1,RTSH Shkolle HD
-http://109.104.129.195:8001/play/s7
-#EXTINF:-1,RTSH Agro
-http://109.104.129.195:8001/play/s1
-#EXTINF:-1,RTSH Femije
-http://109.104.129.195:8001/play/s14
-#EXTINF:-1,RTSH 24 HD
-http://109.104.129.195:8001/play/s10
-#EXTINF:-1,RTSH Film
-http://109.104.129.195:8001/play/s16
-#EXTINF:-1,RTSH Shqip
-http://109.104.129.195:8001/play/s3
-#EXTINF:-1,RTSH Muzike
-http://109.104.129.195:8001/play/s17
-#EXTINF:-1,RTSH Plus
-http://109.104.129.195:8001/play/s24
-#EXTINF:-1,RTSH Kuvend
-http://109.104.129.195:8001/play/s6
-#EXTINF:-1,Klan TV
-http://95.107.132.105/out/u/628_4.m3u8
-#EXTINF:-1,Klan Plus
-http://95.107.132.105/out/u/657_1.m3u8
-#EXTINF:-1,Klan Kosova
-http://95.107.132.105/out/u/694_1.m3u8
 #EXTINF:-1,TV Johaniter
 https://monamour.agency/johaniter007web/index.m3u8
 #EXTINF:-1,DRITA HD
 https://monamour.agency/dritaweb008/index.m3u8
-#EXTINF:-1,Alsat M
-http://95.107.132.105/out/u/645_1.m3u8
-#EXTINF:-1,RTV Ora
-http://95.107.132.105/out/u/343_1.m3u8
-#EXTINF:-1,Fax News
-http://95.107.132.105/out/u/228_3.m3u8
-#EXTINF:-1,RTSH 1
-http://95.107.132.105/out/u/641_4.m3u8
-#EXTINF:-1,RTK 1
-http://95.107.132.105/out/u/327_1.m3u8
-#EXTINF:-1,TV Kopliku
-http://95.107.132.105/out/u/152_1.m3u8
-#EXTINF:-1,RTV 21
-http://95.107.132.105/out/u/490_1.m3u8
-#EXTINF:-1,Syri Vision
-http://95.107.132.105/out/u/205_1.m3u8
-#EXTINF:-1,TV Dukagjini
-http://95.107.132.105/out/u/198_3.m3u8
-#EXTINF:-1,RTSH Sport
-http://95.107.132.105/out/u/638_1.m3u8
-#EXTINF:-1,ABC News
-http://95.107.132.105/out/u/650_1.m3u8
-#EXTINF:-1,Ora News
-http://95.107.132.105/out/u/521_2.m3u8
-#EXTINF:-1,Kanali 7
-http://95.107.132.105/out/u/581_1.m3u8
-#EXTINF:-1,News 24
-http://95.107.132.105/out/u/660_2.m3u8
-#EXTINF:-1,Report TV
-http://95.107.132.105/out/u/647_2.m3u8
-#EXTINF:-1,Tring Tring
-http://95.107.132.105/out/u/353_1.m3u8
-#EXTINF:-1,Folk Plus
-http://95.107.132.105/out/u/44_1.m3u8
-#EXTINF:-1,tirana tv
-http://95.107.132.105/out/u/163_1.m3u8
-#EXTINF:-1,BBF
-http://95.107.132.106/out/u/425_2.m3u8
-#EXTINF:-1,Elrodi TV
-http://95.107.132.105/out/u/156_1.m3u8
-#EXTINF:-1,Travel
-http://95.107.132.105/out/u/397_1.m3u8
-#EXTINF:-1,Tring World
-http://95.107.132.105/out/u/591_1.m3u8
-#EXTINF:-1,Tring Planet
-http://95.107.132.105/out/u/592_3.m3u8
-#EXTINF:-1,Tring History
-http://95.107.132.105/out/u/600_1.m3u8
-#EXTINF:-1,KanalD Drama
-http://95.107.132.105/out/u/601_3.m3u8
-#EXTINF:-1,Tring Jolly
-http://95.107.132.105/out/u/463_1.m3u8
-#EXTINF:-1,Tring Living
-http://95.107.132.105/out/u/480_3.m3u8
-#EXTINF:-1,Tring Action
-http://95.107.132.105/out/u/561_1.m3u8
-#EXTINF:-1,Tring Super
-http://95.107.132.105/out/u/692_3.m3u8
-#EXTINF:-1,Tring Super
-http://95.107.132.105/out/u/693_3.m3u8
-#EXTINF:-1,Tring Family
-http://95.107.132.105/out/u/673_3.m3u8
-#EXTINF:-1,Tring Comedy
-http://95.107.132.105/out/u/573_1.m3u8
-#EXTINF:-1,Tring Fantasy
-http://95.107.132.106/out/u/900_3.m3u8
-#EXTINF:-1,Tring Life
-http://95.107.132.105/out/u/567_1.m3u8
-#EXTINF:-1,Tring 3 Plus
-http://95.107.132.106/out/u/602_3.m3u8
-#EXTINF:-1,Tring Shqip
-http://95.107.132.105/out/u/683_1.m3u8
-#EXTINF:-1,Tring International
-http://95.107.132.106/out/u/609_3.m3u8
-#EXTINF:-1,Tring Kids
-http://95.107.132.106/out/u/898_1.m3u8
-#EXTINF:-1,Tring Tip 
-http://95.107.132.105/out/u/587_2.m3u8
-#EXTINF:-1,Tring Smile
-http://95.107.132.105/out/u/349_2.m3u8
-#EXTINF:-1,Tring Muse
-http://95.107.132.105/out/u/585_1.m3u8
-#EXTINF:-1,Club TV
-http://95.107.132.105/out/u/87_2.m3u8
-#EXTINF:-1,Clic tv
-http://95.107.132.105/out/u/676_1.m3u8
-#EXTINF:-1,Syri TV
-http://95.107.132.106/out/u/363_2.m3u8
-#EXTINF:-1,Apollon TV
-http://95.107.132.106/out/u/328_1.m3u8
-#EXTINF:-1,Klan Macedonia
-http://95.107.132.106/out/u/783_1.m3u8
-#EXTINF:-1,AdriaNet
-http://95.107.132.106/out/u/370_1.m3u8
-#EXTINF:-1,Tring Classic
-http://95.107.132.106/out/u/843_3.m3u8
-#EXTINF:-1,Tring Novelas
-http://95.107.132.106/out/u/858_3.m3u8
-#EXTINF:-1,Tring Collection
-http://95.107.132.106/out/u/847_3.m3u8
-#EXTINF:-1,Zjarr TV
-http://95.107.132.105/out/u/669_1.m3u8
-#EXTINF:-1,Tring Info
-http://95.107.132.106/out/u/419_1.m3u8
 #EXTINF:-1,Tring Sport 1
 http://95.107.132.106/out/u/864_3.m3u8
 #EXTINF:-1,Tring Sport 2
