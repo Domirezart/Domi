@@ -51,6 +51,14 @@ http://95.107.132.105/out/u/983_1.m3u8
 http://95.107.132.105/out/u/610_1.m3u8
 #EXTINF:-1,TRING RTSH SPORT
 http://95.107.132.105/out/u/638_1.m3u8
+#EXTINF:-1,Top ALBANIA Radio
+https://live.topgold.al/tar
+#EXTINF:-1,Top Gold Radio
+https://live.topgold.al/topgold
+#EXTINF:-1,My Music Radio
+https://live.top-media.al/mmr
+#EXTINF:-1,NRG
+http://ice31.securenetsystems.net:80/AL09
 #EXTINF:-1 group-title=" WORLD DISCOVERY 🇦🇱🇪🇺"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",NATIONAL GEOGRAPHIC WILD
 http://cdnua06.hls.tv/476/hls/gy8vpi1hqu26tse7nx3rfmdk4wjc950a/272/stream.m3u8
 #EXTINF:-1,NATIONAL GEOGRAPHIC HD
