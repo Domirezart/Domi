@@ -11,7 +11,7 @@ http://95.107.132.105/out/u/996_1.m3u8
 http://95.107.132.105/out/u/1004_1.m3u8
 #EXTINF:-1,TRING DRAMA
 http://95.107.132.105/out/u/1018_1.m3u8
-#EXTINF:1,TRING ORIGINAL
+#EXTINF:-1,TRING ORIGINAL
 http://95.107.132.105/out/u/995_1.m3u8
 #EXTINF:-1,TRING WORLD
 http://95.107.132.105/out/u/999_1.m3u8
@@ -23,6 +23,8 @@ http://95.107.132.105/out/u/1001_1.m3u8
 http://95.107.132.105/out/u/1003_1.m3u8
 #EXTINF:-1,TRING MUSE
 http://95.107.132.105/out/u/993_1.m3u8
+#EXTINF:-1,TRING LIVING
+http://95.107.132.105/out/u/990_1.m3u8
 #EXTINF:-1,TRING KIDS
 http://95.107.132.105/out/u/1014_1.m3u8
 #EXTINF:-1,TRING TIP
@@ -31,6 +33,8 @@ http://95.107.132.105/out/u/1015_1.m3u8
 http://95.107.132.105/out/u/1016_1.m3u8
 #EXTINF:-1,TRING CLICH
 http://95.107.132.105/out/u/695_1.m3u8
+#EXTINF:-1,TRING NEWS 24
+http://95.107.132.105/out/u/986_1.m3u8
 #EXTINF:-1 group-title=" WORLD DISCOVERY 🇦🇱🇪🇺"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",NATIONAL GEOGRAPHIC WILD
 http://cdnua06.hls.tv/476/hls/gy8vpi1hqu26tse7nx3rfmdk4wjc950a/272/stream.m3u8
 #EXTINF:-1,NATIONAL GEOGRAPHIC HD
