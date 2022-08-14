@@ -29,6 +29,16 @@ http://132.145.254.128:8070/channel/4d7f1abf/index.m3u8?q=7b4f7952b7746f9e267934
 http://132.145.254.128:8070/channel/4d7f8f1e/index.m3u8?q=7b4f7952b7746f9e2679349fb1547bee
 #EXTINF:-1,МАТЧ Футбол 3 HD
 http://132.145.254.128:8070/channel/4d80037d/index.m3u8?q=7b4f7952b7746f9e2679349fb1547bee
+#EXTINF:-1,MAX sport 1
+http://79.124.72.70:8000/play/a01j
+#EXTINF:-1,MAX sport 2
+http://79.124.72.70:8000/play/a00x
+#EXTINF:-1,Diema Sport 1
+http://79.124.72.70:8000/play/a004
+#EXTINF:-1,Diema Sport 2
+http://79.124.72.70:8000/play/a01l
+#EXTINF:-1,Diema Sport 3
+http://79.124.72.70:8000/play/a07o
 #EXTINF:-1 group-title=" TRING ALBANIA 🇦🇱🇪🇺"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",VIZION PLUS
 http://95.107.132.106/out/u/643_5.m3u8
 #EXTINF:-1,TRING ACTION
