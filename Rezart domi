@@ -23,6 +23,12 @@ https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1,TNT SPORTS 5
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF:-1,МАТЧ Футбол 1 HD
+http://132.145.254.128:8070/channel/4d7f1abf/index.m3u8?q=7b4f7952b7746f9e2679349fb1547bee
+#EXTINF:-1,МАТЧ Футбол 2 HD
+http://132.145.254.128:8070/channel/4d7f8f1e/index.m3u8?q=7b4f7952b7746f9e2679349fb1547bee
+#EXTINF:-1,МАТЧ Футбол 3 HD
+http://132.145.254.128:8070/channel/4d80037d/index.m3u8?q=7b4f7952b7746f9e2679349fb1547bee
 #EXTINF:-1 group-title=" TRING ALBANIA 🇦🇱🇪🇺"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",VIZION PLUS
 http://95.107.132.106/out/u/643_5.m3u8
 #EXTINF:-1,TRING ACTION
