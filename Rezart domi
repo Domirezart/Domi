@@ -7,6 +7,12 @@ http://188.124.211.121:8557/play/a022
 http://188.124.211.121:8557/play/a023
 #EXTINF:-1,Arena Sport 4
 http://188.124.211.121:8557/play/a024
+#EXTINF:-1,MATCH 1 HD
+http://50.7.92.90/Match_Futbol_1_HD/mono.m3u8
+#EXTINF:-1,MATCH 2 HD
+http://50.7.92.90/Match_Futbol_2_HD/mono.m3u8
+#EXTINF:-1,MATCH 3 HD
+http://50.7.92.90/Match_Futbol_3_HD/mono.m3u8
 #EXTINF:-1 group-title=" TRING ALBANIA 🇦🇱🇪🇺"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",VIZION PLUS
 http://95.107.132.106/out/u/643_5.m3u8
 #EXTINF:-1,TRING ACTION
