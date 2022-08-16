@@ -377,7 +377,17 @@ http://162.55.88.21/rtk2stream/rtk2.stream/chunklist_w1803047116.m3u8
 http://162.55.88.21/rtk3stream/rtk3.stream/chunklist_w1895324590.m3u8
 #EXTINF:-1,RTK 4 HD
 http://162.55.88.21/rtk4stream/rtk4.stream/chunklist_w520230568.m3u8
-#EXTINF:-1 group-title="ALB FILM WORLD TV 🇦🇱🇪🇺"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",xpremium 1
+#EXTINF:-1 group-title="ALB FILM WORLD TV 🇦🇱🇪🇺"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",HBO MAX 1 HD
+http://api.magiaiptv.com/live/800328/755275/m2_N44ZDspEYyjOq881vt39l_720p
+#EXTINF:-1,HBO MAX 2 HD
+http://api.magiaiptv.com/live/800328/755275/m1_aa8eb9237a88af37_720p
+#EXTINF:-1,HBO MAX 3 HD
+http://api.magiaiptv.com/live/800328/755275/m1_beae6e31a63b792e_720p
+#EXTINF:-1,HBO MAX 4 HD
+http://api.magiaiptv.com/live/800328/755275/m1_b4c2e2e0652cbb16_720p
+#EXTINF:-1,HBO MAX 5 HD
+http://api.magiaiptv.com/live/800328/755275/m1_c08d643bf218cb42d46e_720p
+#EXTINF:-1,xpremium 1
 http://f4.tvxweb.net:8082/24263/playlist.m3u8
 #EXTINF:-1,xpremium 2
 http://f4.tvxweb.net:8082/24264/playlist.m3u8
