@@ -61,6 +61,14 @@ https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/ind
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
 #EXTINF:-1,Fox Sport 3
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
+#EXTINF:-1,Conmebol TV 1 HD
+http://api.magiaiptv.com/live/800364/107211/m2_xrNh5O0VIHWdGhbT5J_720p
+#EXTINF:-1,Conmebol TV 2 HD
+http://api.magiaiptv.com/live/800364/107211/m3_GY9pO8alp1jpZl8lcIcqH_720p
+#EXTINF:-1,Conmebol TV 3 HD
+http://api.magiaiptv.com/live/800364/107211/m1_6ciY4GBUyDczLxioSo_720p
+#EXTINF:-1,Conmebol TV 4 HD
+http://api.magiaiptv.com/live/800364/107211/m1_bLyQSHesKIXQoFVH_720p
 #EXTINF:-1,PREMIERE 1 UHD
 http://api.magiaiptv.com/live/800196/128093/m3_wjMT3HlXuP425f1ZGd0Uvtxh_720p_2M
 #EXTINF:-1,PREMIERE 2 UHD
