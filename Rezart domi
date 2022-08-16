@@ -29,16 +29,34 @@ http://132.145.254.128:8070/channel/4d7f1abf/index.m3u8?q=7b4f7952b7746f9e267934
 http://132.145.254.128:8070/channel/4d7f8f1e/index.m3u8?q=7b4f7952b7746f9e2679349fb1547bee
 #EXTINF:-1,МАТЧ Футбол 3 HD
 http://132.145.254.128:8070/channel/4d80037d/index.m3u8?q=7b4f7952b7746f9e2679349fb1547bee
-#EXTINF:-1,MAX sport 1
-http://79.124.72.70:8000/play/a01j
-#EXTINF:-1,MAX sport 2
-http://79.124.72.70:8000/play/a00x
-#EXTINF:-1,Diema Sport 1
-http://79.124.72.70:8000/play/a004
-#EXTINF:-1,Diema Sport 2
-http://79.124.72.70:8000/play/a01l
-#EXTINF:-1,Diema Sport 3
-http://79.124.72.70:8000/play/a07o
+#EXTINF:-1,Fox Sport 1
+https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
+#EXTINF:-1,Fox Sport 2
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
+#EXTINF:-1,Fox Sport 3
+https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
+#EXTINF:-1,PREMIERE 1 UHD
+http://api.magiaiptv.com/live/800196/128093/m3_wjMT3HlXuP425f1ZGd0Uvtxh_720p_2M
+#EXTINF:-1,PREMIERE 2 UHD
+http://api.magiaiptv.com/live/800196/128093/m1_YfRcG1NojqwhvD7_1080p
+#EXTINF:-1,PREMIERE 3 UHD
+http://api.magiaiptv.com/live/800196/128093/m1_QVjAjs05rLeRcJaYwWpr6k_1080p
+#EXTINF:-1,PREMIERE 4 UHD
+http://api.magiaiptv.com/live/800196/128093/m2_T1kER2k4toPH_1080p
+#EXTINF:-1,PREMIERE 5 UHD
+http://api.magiaiptv.com/live/800196/128093/m2_J2m8CmTHvNkE_1080p_4M
+#EXTINF:-1,SPORT TV + UHD
+http://api.magiaiptv.com/live/800261/138645/m3_UCWbpolpkgstvp_1080p
+#EXTINF:-1,SPORT TV 1 UHD
+http://api.magiaiptv.com/live/800261/138645/m3_DFwhzUuzfistv1_1080p
+#EXTINF:-1,SPORT TV 2 UHD
+http://api.magiaiptv.com/live/800261/138645/m3_FZukotDQWYstv2_1080p
+#EXTINF:-1,SPORT TV 3 UHD
+http://api.magiaiptv.com/live/800261/138645/m3_eAb6FoNigKstv3_720p_2M
+#EXTINF:-1,SPORT TV 4 UHD
+http://api.magiaiptv.com/live/800261/138645/m3_eargH0Pv9qstv4_720p_2M
+#EXTINF:-1,SPORT TV 5 UHD
+http://api.magiaiptv.com/live/800261/138645/m3_L4QIjJorwjstv5_1080p
 #EXTINF:-1 group-title=" TRING ALBANIA 🇦🇱🇪🇺"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",VIZION PLUS
 http://95.107.132.106/out/u/643_5.m3u8
 #EXTINF:-1,TRING ACTION
@@ -113,14 +131,6 @@ http://95.107.132.105/out/u/422_1.m3u8
 http://95.107.132.105/out/u/99_2.m3u8
 #EXTINF:-1,TRING RAI GULP
 http://95.107.132.105/out/u/442_1.m3u8
-#EXTINF:-1,Top ALBANIA Radio
-https://live.topgold.al/tar
-#EXTINF:-1,Top Gold Radio
-https://live.topgold.al/topgold
-#EXTINF:-1,My Music Radio
-https://live.top-media.al/mmr
-#EXTINF:-1,NRG
-http://ice31.securenetsystems.net:80/AL09
 #EXTINF:-1 group-title=" WORLD DISCOVERY 🇦🇱🇪🇺"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",NATIONAL GEOGRAPHIC WILD
 http://cdnua06.hls.tv/476/hls/gy8vpi1hqu26tse7nx3rfmdk4wjc950a/272/stream.m3u8
 #EXTINF:-1,NATIONAL GEOGRAPHIC HD
@@ -221,10 +231,6 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899
 #EXTINF:-1,CARTOONITO HD
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(la)/index.m3u8
-#EXTINF:-1,TG NORBA 24
-https://flash2.xdevel.com/tgnorba_24/tgnorba_24_source.stream/manifest.m3u8
-#EXTINF:-1,TG COM 24
-https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
 #EXTINF:-1,RSI 1
 http://190.2.155.162/RSI1/index.m3u8
 #EXTINF:-1,RSI 2
@@ -243,42 +249,6 @@ http://130.0.24.22:94/TopChannel/index.m3u8
 http://130.0.24.22:94/TringSuper/index.m3u8
 #EXTINF:-1,Tring Action
 http://130.0.24.22:94/TringAction/index.m3u8
-#EXTINF:-1,JOLLY HD
-http://146.59.19.1/5012/index.m3u8
-#EXTINF:-1,Top Channel HD
-http://pinbal4you.com:5436/play/mKUQC-g65_0PyGWmyNkji_m29ShP2lNDN7nGVqowerT3OKsR3daij2XihBY-a-Mv9e4-PALombbmfl8wkUiu-UPfUHS5MLT4JWhcu2ezsormaazeZ-PwAUrYKHxzEwFHuS4VBiJplIB3FT_O5kcmGkyfL4FCaL5ddbBUcc4rkTE?ext=.ts
-#EXTINF:-1,Top Channel
-http://pinbal4you.com:5436/play/mKUQC-g65_0PyGWmyNkji_m29ShP2lNDN7nGVqowerT3OKsR3daij2XihBY-a-Mv9e4-PALombbmfl8wkUiu-UPfUHS5MLT4JWhcu2ezsoo5oQm0y8CSoXyT_TjmsmQa6_XjT8c6v5wBntOEaRRPwrTcN3oa2ofL_pTfYOPQt90?ext=.ts
-#EXTINF:-1,TV Klan HD
-http://pinbal4you.com:5436/play/mKUQC-g65_0PyGWmyNkji_m29ShP2lNDN7nGVqowerT3OKsR3daij2XihBY-a-Mv9e4-PALombbmfl8wkUiu-UPfUHS5MLT4JWhcu2ezsopTHvYXftprGdyxQZhBjPWX6vMSEwf4KJ_VYYexNPWICGCeNnqYlZuWDfaaW7ca3Fs?ext=.ts
-#EXTINF:-1,TV Klan
-http://pinbal4you.com:5436/play/mKUQC-g65_0PyGWmyNkji_m29ShP2lNDN7nGVqowerT3OKsR3daij2XihBY-a-Mv9e4-PALombbmfl8wkUiu-UPfUHS5MLT4JWhcu2ezsopXHLD6jHhO_LgI4Vmmt1xEd7XXhOHK007Drb0A8HtNjY5BPAZ-zZUylVWTtpI-Pzw?ext=.ts
-#EXTINF:-1,Klan Plus HD
-http://pinbal4you.com:5436/play/mKUQC-g65_0PyGWmyNkji_m29ShP2lNDN7nGVqowerT3OKsR3daij2XihBY-a-Mv9e4-PALombbmfl8wkUiu-UPfUHS5MLT4JWhcu2ezsooW1o-VPIDd2iDjFnxzG_aso47exljxnK-cZqH43f0ZyTG8TetSCGrhJvyml8hNg-I?ext=.ts
-#EXTINF:-1,RTSH 1 HD
-http://pinbal4you.com:5436/play/mKUQC-g65_0PyGWmyNkji_m29ShP2lNDN7nGVqowerT3OKsR3daij2XihBY-a-Mv9e4-PALombbmfl8wkUiu-UPfUHS5MLT4JWhcu2ezsooVJoeGXN1TWTrh5HPl4EyF6E5tjKHpSCuci1l90Y-R0S04LLNFZIhTlfz_xqO2uss?ext=.ts
-#EXTINF:-1,Vizion Plus HD
-http://pinbal4you.com:5436/play/mKUQC-g65_0PyGWmyNkji_m29ShP2lNDN7nGVqowerT3OKsR3daij2XihBY-a-Mv9e4-PALombbmfl8wkUiu-UPfUHS5MLT4JWhcu2ezsooz-SGMobwIdD1PbJVtxJApFqx-mXrJK3WpC1WpeuQzxMgQ795_fw-YRUFIZNvPtp8?ext=.ts
-#EXTINF:-1,Alsat M
-http://pinbal4you.com:5436/play/mKUQC-g65_0PyGWmyNkji_m29ShP2lNDN7nGVqowerT3OKsR3daij2XihBY-a-Mv9e4-PALombbmfl8wkUiu-UPfUHS5MLT4JWhcu2ezsooxKX8Z3V4SAbDuovItyfM_ZlWEeDzAchbP6d4lPQcO2TVMVgSQFGLxkLbY__8RDBA?ext=.ts
-#EXTINF:-1,Episode HD
-http://pinbal4you.com:5436/play/mKUQC-g65_0PyGWmyNkji_m29ShP2lNDN7nGVqowerT3OKsR3daij2XihBY-a-Mv9e4-PALombbmfl8wkUiu-UPfUHS5MLT4JWhcu2ezsoryWxqK5nIG47GmYEM-XM_99yLRn5lp1zsWZpwxOw1wmBGbXsv_OVD-__4MXXgvLIw?ext=.ts
-#EXTINF:-1,Prime
-http://pinbal4you.com:5436/play/mKUQC-g65_0PyGWmyNkji_m29ShP2lNDN7nGVqowerT3OKsR3daij2XihBY-a-Mv9e4-PALombbmfl8wkUiu-UPfUHS5MLT4JWhcu2ezsoqAMjrWLds6KqUrxpPNxcdcuHKM2jmwmmQgPl9sR3vB53Jhfm9xsQOx7o7rvuhsHmc?ext=.ts
-#EXTINF:-1,TDC HD
-http://pinbal4you.com:5436/play/mKUQC-g65_0PyGWmyNkji_m29ShP2lNDN7nGVqowerT3OKsR3daij2XihBY-a-Mv9e4-PALombbmfl8wkUiu-UPfUHS5MLT4JWhcu2ezsoo5Y08ZMC4RRXw2STb-4g7lNMjN1lNe1o-MpPm0_QdgXpZK6nmqYF1XjU4mMFV5NkU?ext=.ts
-#EXTINF:-1,D Drama HD
-http://pinbal4you.com:5436/play/mKUQC-g65_0PyGWmyNkji_m29ShP2lNDN7nGVqowerT3OKsR3daij2XihBY-a-Mv9e4-PALombbmfl8wkUiu-UPfUHS5MLT4JWhcu2ezsoraVwT7ZrcFq65c2zbNBy4WW9UCPLhyUCI00PKmWHXB9MZ6p7tnUmLpuN2Z-H5d17I?ext=.ts
-#EXTINF:-1,Digi Gold 1
-http://pinbal4you.com:5436/play/mKUQC-g65_0PyGWmyNkji_m29ShP2lNDN7nGVqowerT3OKsR3daij2XihBY-a-Mv9e4-PALombbmfl8wkUiu-UPfUHS5MLT4JWhcu2ezsorN36fVk0cY4BxOFyLb_fsmx3aWqdqvHOA5q5OCQnyCbRrJgUHJw5uj57B1fB-J-MM?ext=.ts
-#EXTINF:-1,Digi Gold 2
-http://pinbal4you.com:5436/play/mKUQC-g65_0PyGWmyNkji_m29ShP2lNDN7nGVqowerT3OKsR3daij2XihBY-a-Mv9e4-PALombbmfl8wkUiu-UPfUHS5MLT4JWhcu2ezsopDGpNQqMNqi_XlVP28RtTiHpF2C0fi3Q1bMtOgFgO7AdYBIvNrMT9vK6Jw88_VO-8?ext=.ts
-#EXTINF:-1,Digi Gold 3
-http://pinbal4you.com:5436/play/mKUQC-g65_0PyGWmyNkji_m29ShP2lNDN7nGVqowerT3OKsR3daij2XihBY-a-Mv9e4-PALombbmfl8wkUiu-UPfUHS5MLT4JWhcu2ezsoom6ala7VQDVIKwnCamX3ThJP7kXvABm7rKAWafoyISbsMne7wfcyqMYstR7DqALj4?ext=.ts
-#EXTINF:-1,Digi Gold 4
-http://pinbal4you.com:5436/play/mKUQC-g65_0PyGWmyNkji_m29ShP2lNDN7nGVqowerT3OKsR3daij2XihBY-a-Mv9e4-PALombbmfl8wkUiu-UPfUHS5MLT4JWhcu2ezsop3zvShwRb_3RPIxTvDGJz24-xxbN62IXJYSmgV26aJnVWjHYivUBFsT2Z2R4KVviY?ext=.ts
-#EXTINF:-1,Film Aksion HD
-http://pinbal4you.com:5436/play/mKUQC-g65_0PyGWmyNkji_m29ShP2lNDN7nGVqowerT3OKsR3daij2XihBY-a-Mv9e4-PALombbmfl8wkUiu-UPfUHS5MLT4JWhcu2ezsorvniJ3_836kaxsH566j5RB40X2ci3KF3xMb8TYp-iO-a-Kv0mOeGzoAaAlffrqbj4?ext=.ts
 #EXTINF:-1,KLAN HD
 http://79.106.48.2:3131/live/klanhdott/playlist.m3u8
 #EXTINF:-1,KLAN PLUS HD
@@ -309,64 +279,6 @@ http://95.107.132.106/out/u/gfhsghshsgfhsfgh.m3u8
 https://monamour.agency/johaniter007web/index.m3u8
 #EXTINF:-1,DRITA HD
 https://monamour.agency/dritaweb008/index.m3u8
-#EXTINF:-1,Tring Sport 1
-http://95.107.132.106/out/u/864_3.m3u8
-#EXTINF:-1,Tring Sport 2
-http://95.107.132.106/out/u/865_3.m3u8
-#EXTINF:-1,Tring Sport 3
-http://95.107.132.106/out/u/699_3.m3u8
-#EXTINF:-1,Tring Sport 4
-http://95.107.132.106/out/u/713_4.m3u8
-#EXTINF:-1,Match 1hd
-http://212.122.80.182:38167/play/a01h/index.m3u8
-#EXTINF:-1,Match 2hd
-http://212.122.80.182:38167/play/a00v/index.m3u8
-#EXTINF:-1,Match 3hd
-http://212.122.80.182:38167/play/a00w/index.m3u8
-#EXTINF:-1,ArtSport 4 HD
-http://185.222.138.163:9000/play/a0up
-#EXTINF:-1,ArtSport 5 HD
-http://185.222.138.163:9000/play/a0uq
-#EXTINF:-1,ArtSport 6 HD
-http://185.222.138.163:9000/play/a0ur
-#EXTINF:-1,K Sport 1 HD
-http://185.222.138.163:9000/play/a0ts
-#EXTINF:-1,K Sport 2 HD
-http://185.222.138.163:9000/play/a0tt
-#EXTINF:-1,K Sport 3 HD
-http://185.222.138.163:9000/play/a0tu
-#EXTINF:-1,K Sport 4 HD
-http://185.222.138.163:9000/play/a0k3
-#EXTINF:-1,SKY SPORT F1
-http://api.magiaiptv.com/live/800261/138645/m1_skysportsf1_720p
-#EXTINF:-1,Fox Sport 1
-https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
-#EXTINF:-1,Fox Sport 2
-https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
-#EXTINF:-1,Fox Sport 3
-https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
-#EXTINF:-1,PREMIERE 1 UHD
-http://api.magiaiptv.com/live/800196/128093/m3_wjMT3HlXuP425f1ZGd0Uvtxh_720p_2M
-#EXTINF:-1,PREMIERE 2 UHD
-http://api.magiaiptv.com/live/800196/128093/m1_YfRcG1NojqwhvD7_1080p
-#EXTINF:-1,PREMIERE 3 UHD
-http://api.magiaiptv.com/live/800196/128093/m1_QVjAjs05rLeRcJaYwWpr6k_1080p
-#EXTINF:-1,PREMIERE 4 UHD
-http://api.magiaiptv.com/live/800196/128093/m2_T1kER2k4toPH_1080p
-#EXTINF:-1,PREMIERE 5 UHD
-http://api.magiaiptv.com/live/800196/128093/m2_J2m8CmTHvNkE_1080p_4M
-#EXTINF:-1,SPORT TV + UHD
-http://api.magiaiptv.com/live/800261/138645/m3_UCWbpolpkgstvp_1080p
-#EXTINF:-1,SPORT TV 1 UHD
-http://api.magiaiptv.com/live/800261/138645/m3_DFwhzUuzfistv1_1080p
-#EXTINF:-1,SPORT TV 2 UHD
-http://api.magiaiptv.com/live/800261/138645/m3_FZukotDQWYstv2_1080p
-#EXTINF:-1,SPORT TV 3 UHD
-http://api.magiaiptv.com/live/800261/138645/m3_eAb6FoNigKstv3_720p_2M
-#EXTINF:-1,SPORT TV 4 UHD
-http://api.magiaiptv.com/live/800261/138645/m3_eargH0Pv9qstv4_720p_2M
-#EXTINF:-1,SPORT TV 5 UHD
-http://api.magiaiptv.com/live/800261/138645/m3_L4QIjJorwjstv5_1080p
 #EXTINF:-1,bbf
 http://171.22.150.202:2040/live/bbfottpp1/playlist.m3u8
 #EXTINF:-1,euronews al
@@ -395,154 +307,8 @@ http://171.22.150.202:2040/live/scanmob/playlist.m3u8
 http://171.22.150.202:2040/live/faxnewsmobpp1/playlist.m3u8
 #EXTINF:-1,A2 CNN
 http://171.22.150.202:2040/live/a2pp2/playlist.m3u8
-#EXTINF:-1,SPIN-TV HD 
-http://45.84.119.46:8022/0.m3u8
-#EXTINF:-1,TV TROPOJA HD
-http://live2.tropoja.tv/al/tropoja/playlist.m3u8
-#EXTINF:-1,TV BERATI HD
-http://32.shqiptv.org/TV-BERATI/playlist.m3u8
-#EXTINF:-1,ALBANIAN TV USA
-https://tna5.bozztv.com/ALBANIANTVUSA/index.m3u8
-#EXTINF:-1,ALB UK HD
-http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
-#EXTINF:-1,TV SHQIPONJA
-http://ott.iptvshqipott.com:8080/live/shqiponja/tv/236.m3u8
-#EXTINF:-1,Folklorit TV
-https://5a1178b42cc03.streamlock.net/8144/8144/chunklist_w1031408207.m3u8
-#EXTINF:-1,Ulqini tv
-http://195.154.176.63/megatv-ulqinitv/index.m3u8
-#EXTINF:-1,Real tv
-https://monamour.agency/real-tv-livsream/index.m3u8
-#EXTINF:-1,A Newyork tv
-http://195.154.176.63/agon-iptvshqip-aanewyorktv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Teuta tv
-http://143.244.204.5/tvteuta/index.m3u8
-#EXTINF:-1,Tv 7
-http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8
-#EXTINF:-1,Opoja tv
-http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
-#EXTINF:-1,kopliku tv
-http://livetv.kopliku.tv:1935/live/koplikutv.stream/index.m3u8
-#EXTINF:-1,elrodi tv
-http://79.137.66.111/elroditv_240p/index.m3u8
-#EXTINF:-1,alb dreams
-http://live.albavision.net:1123/live/albdreams.m3u8
-#EXTINF:-1,top estrada
-http://live.topestrada.com/live/topestrada/playlist.m3u8
-#EXTINF:-1,tv sole
-http://109.69.2.120:8337/tvsole/Stream1_720p/index.m3u8
-#EXTINF:-1,atd hd
-http://46.99.146.236/0.m3u8
-#EXTINF:-1,zjarr HD
-http://95.107.132.106/out/u/495_1.m3u8
-#EXTINF:-1,TRING SUPER
-http://194.15.225.98:8000/play/a005
-#EXTINF:-1,Tring ACTION
-http://194.15.225.98:8000/play/a2qs
-#EXTINF:-1,SportCLUB 1
-http://194.15.225.98:8000/play/a2qu
-#EXTINF:-1,SportCLUB 2
-http://194.15.225.98:8000/play/a2qz
-#EXTINF:-1,SportCLUB 3
-http://194.15.225.98:8000/play/a2qt
-#EXTINF:-1,ArtSport 4 HD
-http://185.222.138.163:9000/play/a0up
-#EXTINF:-1,ArtSport 5 HD
-http://185.222.138.163:9000/play/a0uq
-#EXTINF:-1,ArtSport 6 HD
-http://185.222.138.163:9000/play/a0ur
-#EXTINF:-1,K Sport 1 HD
-http://185.222.138.163:9000/play/a0ts
-#EXTINF:-1,K Sport 2 HD
-http://185.222.138.163:9000/play/a0tt
-#EXTINF:-1,K Sport 3 HD
-http://185.222.138.163:9000/play/a0tu
-#EXTINF:-1,K Sport 4 HD
-http://185.222.138.163:9000/play/a0k3
-#EXTINF:-1,Match 1
-http://88.151.248.36:9999/udp/224.0.223.123:1234
-#EXTINF:-1,Match 2
-http://88.151.248.36:9999/udp/224.0.223.125:1234
-#EXTINF:-1,Match 3
-http://88.151.248.36:9999/udp/224.0.223.127:1234
-#EXTINF:-1,Makkah TV
-http://194.15.225.98:8000/play/a2qp
-#EXTINF:-1,Kanal D DRAMA
-http://194.15.225.98:8000/play/a2qx
-#EXTINF:-1,vizion plus
-http://95.107.132.106/out/u/737_5.m3u8
-#EXTINF:-1,tv klan
-http://95.107.132.106/out/u/778_1.m3u8
-#EXTINF:-1,klan plus
-http://95.107.132.106/out/u/724_2.m3u8
-#EXTINF:-1,al sat
-http://95.107.132.106/out/u/801_1.m3u8
-#EXTINF:-1,bbf
-http://95.107.132.106/out/u/425_2.m3u8
-#EXTINF:-1,abc news
-http://95.107.132.106/out/u/781_1.m3u8
-#EXTINF:-1,euronews al
-http://95.107.132.106/out/u/818_1.m3u8
-#EXTINF:-1,tring super
-http://95.107.132.106/out/u/890_2.m3u8
-#EXTINF:-1,tring classic
-http://95.107.132.106/out/u/842_5.m3u8
-#EXTINF:-1,jolly HD
-http://95.107.132.106/out/u/892_2.m3u8
-#EXTINF:-1,tring novelas
-http://95.107.132.106/out/u/858_5.m3u8
-#EXTINF:-1,news 24
-http://95.107.132.106/out/u/792_1.m3u8
-#EXTINF:-1,tring 3plus
-http://95.107.132.106/out/u/896_2.m3u8
-#EXTINF:-1,tring life
-http://95.107.132.106/out/u/887_1.m3u8
-#EXTINF:-1,tring comedy
-http://95.107.132.106/out/u/884_2.m3u8
-#EXTINF:-1,living HD
-http://95.107.132.106/out/u/894_2.m3u8
-#EXTINF:-1,tring collection
-http://95.107.132.106/out/u/846_5.m3u8
-#EXTINF:-1,tring fantasy
-http://95.107.132.106/out/u/900_2.m3u8
-#EXTINF:-1,tring
-http://95.107.132.106/out/u/792_2.m3u8
-#EXTINF:-1,tring tring
-http://95.107.132.106/out/u/898_2.m3u8
-#EXTINF:-1,tring tip tv
-http://95.107.132.106/out/u/883_2.m3u8
-#EXTINF:-1,tring planet
-http://95.107.132.106/out/u/874_2.m3u8
-#EXTINF:-1,tring world
-http://95.107.132.106/out/u/876_4.m3u8
-#EXTINF:-1,tring sport news
-http://95.107.132.106/out/u/815_1.m3u8
-#EXTINF:-1,tring sport 1
-http://95.107.132.106/out/u/864_4.m3u8
-#EXTINF:-1,tring sport 2
-http://95.107.132.106/out/u/865_4.m3u8
-#EXTINF:-1,tring sport 3
-http://95.107.132.106/out/u/867_4.m3u8
-#EXTINF:-1,KLAN KOSOVA
-http://62.210.205.98:8000/live?channelId=1389&uid=8769&deviceMac=00:1A:79:5C:EE:16
-#EXTINF:-1,KLAN HD
-http://62.210.205.98:8000/live?channelId=1391&uid=8769&deviceMac=00:1A:79:5C:EE:16
-#EXTINF:-1,VIZION PLUS
-http://62.210.205.98:8000/live?channelId=1393&uid=8769&deviceMac=00:1A:79:5C:EE:16
 #EXTINF:-1,BBF
 http://95.107.145.50:8080/BbFsjfajkgk/index.m3u8
-#EXTINF:-1,Top News
-http://135.125.6.54/topnews/index.m3u8
-#EXTINF:-1,Alsat M
-http://135.125.6.54/alsatm/index.m3u8
-#EXTINF:-1,RTV 21
-http://135.125.6.54/rtv21/index.m3u8
-#EXTINF:-1,Top Channal
-http://135.125.6.54/top/index.m3u8
-#EXTINF:-1,Vizion Plus
-http://135.125.6.54/vizion/index.m3u8
-#EXTINF:-1,KLAN HD
-http://135.125.6.54/klan/index.m3u8
 #EXTINF:-1,Klan TV
 http://5.206.237.251:1288/KlanHD
 #EXTINF:-1,A2 CNN
