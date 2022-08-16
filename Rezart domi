@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title=" SPORT ALBANIA 🇦🇱🇪🇺"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",Super Sport 1
-http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:57:87:3A&stream=3630&extension=m3u8
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:57:87:3A&stream=3629&extension=m3u8
 #EXTINF:-1,Super Sport 2
-http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:57:87:3A&stream=3631&extension=m3u8
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:57:87:3A&stream=3630&extension=m3u8
 #EXTINF:-1,Super Sport 3
 http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:57:87:3A&stream=3632&extension=m3u8
 #EXTINF:-1,Super Sport 4
