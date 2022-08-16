@@ -91,6 +91,20 @@ http://api.magiaiptv.com/live/800328/755275/m3_eAb6FoNigKstv3_720p_2M
 http://api.magiaiptv.com/live/800328/755275/m3_eargH0Pv9qstv4_720p_2M
 #EXTINF:-1,SPORT TV 5 UHD
 http://api.magiaiptv.com/live/800328/755275/m3_L4QIjJorwjstv5_1080p
+#EXTINF:-1,Bein Sports 1 HD
+http://api.magiaiptv.com/live/800328/755275/m1_b3LqtPcVf80FH9zmjuIKYaSdNW4_720p
+#EXTINF:-1,Bein Sports 2 HD
+http://api.magiaiptv.com/live/800328/755275/m2_kzBnxIpw2nDN4oc2hacjgj5nX8i_720p
+#EXTINF:-1,Bein Sports 3 HD
+http://api.magiaiptv.com/live/800328/755275/m3_84EEnC2nxXxTmQcJUE1LLnLCqj9_720p
+#EXTINF:-1,Bein Sports 4 HD
+http://api.magiaiptv.com/live/800328/755275/m1_QmvKPghrqboJ5XW5ys7LeOUjn5R_720p
+#EXTINF:-1,Bein Sports 5 HD
+http://api.magiaiptv.com/live/800328/755275/m2_rBQgv9ZWMgCpBoK09zqQqamkASY_720p
+#EXTINF:-1,Bein Sports 6 HD
+http://api.magiaiptv.com/live/800328/755275/m3_fK7O9ECloybQIPcQ0kOwfg9mUid_720p
+#EXTINF:-1,Bein Sports 7 HD
+http://api.magiaiptv.com/live/800328/755275/m1_IJuJZjslV1ETJDTkTvWSUKGMR3d_720p
 #EXTINF:-1 group-title=" TRING ALBANIA 🇦🇱🇪🇺"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",VIZION PLUS
 http://95.107.132.106/out/u/643_5.m3u8
 #EXTINF:-1,TRING ACTION
