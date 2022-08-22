@@ -33,12 +33,6 @@ http://188.124.211.121:8557/play/a022
 http://188.124.211.121:8557/play/a023
 #EXTINF:-1,Arena Sport 4
 http://188.124.211.121:8557/play/a024
-#EXTINF:-1,MATCH 1 HD
-http://50.7.92.90/Match_Futbol_1_HD/mono.m3u8
-#EXTINF:-1,MATCH 2 HD
-http://50.7.92.90/Match_Futbol_2_HD/mono.m3u8
-#EXTINF:-1,MATCH 3 HD
-http://50.7.92.90/Match_Futbol_3_HD/mono.m3u8
 #EXTINF:-1,TNT SPORTS 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 #EXTINF:-1,TNT SPORTS 2
@@ -91,20 +85,22 @@ http://api.magiaiptv.com/live/800328/755275/m3_eAb6FoNigKstv3_720p_2M
 http://api.magiaiptv.com/live/800328/755275/m3_eargH0Pv9qstv4_720p_2M
 #EXTINF:-1,SPORT TV 5 UHD
 http://api.magiaiptv.com/live/800328/755275/m3_L4QIjJorwjstv5_1080p
+#EXTINF:-1,BEIN SPORT EXTRA HD
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102livestitch/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true&profilesFromStream=true
 #EXTINF:-1,Bein Sports 1 HD
-http://api.magiaiptv.com/live/800328/755275/m1_b3LqtPcVf80FH9zmjuIKYaSdNW4_720p
+
 #EXTINF:-1,Bein Sports 2 HD
-http://api.magiaiptv.com/live/800328/755275/m2_kzBnxIpw2nDN4oc2hacjgj5nX8i_720p
+
 #EXTINF:-1,Bein Sports 3 HD
-http://api.magiaiptv.com/live/800328/755275/m3_84EEnC2nxXxTmQcJUE1LLnLCqj9_720p
+
 #EXTINF:-1,Bein Sports 4 HD
-http://api.magiaiptv.com/live/800328/755275/m1_QmvKPghrqboJ5XW5ys7LeOUjn5R_720p
+
 #EXTINF:-1,Bein Sports 5 HD
-http://api.magiaiptv.com/live/800328/755275/m2_rBQgv9ZWMgCpBoK09zqQqamkASY_720p
+
 #EXTINF:-1,Bein Sports 6 HD
-http://api.magiaiptv.com/live/800328/755275/m3_fK7O9ECloybQIPcQ0kOwfg9mUid_720p
+
 #EXTINF:-1,Bein Sports 7 HD
-http://api.magiaiptv.com/live/800328/755275/m1_IJuJZjslV1ETJDTkTvWSUKGMR3d_720p
+
 #EXTINF:-1 group-title=" TRING ALBANIA 🇦🇱🇪🇺"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",VIZION PLUS
 http://95.107.132.106/out/u/643_5.m3u8
 #EXTINF:-1,TRING ACTION
