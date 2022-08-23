@@ -1,75 +1,79 @@
 #EXTM3U
-#EXTINF:0 group-title="[🇦🇱📺]KLANI-IM" tvg-logo="https://i.imgur.com/FnpdLkm.png",[$]TOP CHANNEL
+#EXTINF:-0 group-title="KLANI-IM 🇦🇱🇪🇺" tvg-logo="https://i.imgur.com/FnpdLkm.png",[$]TOP CHANNEL HD
 http://85.209.248.6:8080/TopChannel/index.m3u8
-#EXTINF:0 group-title="[🇦🇱📺]KLANI-IM" tvg-logo="https://i.imgur.com/Q8viGGd.png",[$]KLAN
+#EXTINF:-0,KLAN HD
 http://85.209.248.6:8080/klanhd/index.m3u8
-#EXTINF:0 group-title="[🇦🇱📺]KLANI-IM" tvg-logo="https://i.imgur.com/Q8viGGd.png",[$]KLAN HD
+#EXTINF:-0,VIZION PLUS HD
+http://146.59.19.1:80/5004/index.m3u8?
+#EXTINF:-0,KANAL 10 HD
+http://146.59.19.1:80/5005/index.m3u8?
+#EXTINF:-0,KLAN HD
 http://79.106.48.2:3131/live/klanhdott/playlist.m3u8
-#EXTINF:0 group-title="[🇦🇱📺]KLANI-IM" tvg-logo="https://i.imgur.com/Py2azDo.png",[$]KLAN PLUS HD
+#EXTINF:-0,KLAN PLUS HD
 http://79.106.48.2:3131/live/klanplusott/playlist.m3u8
-#EXTINF:0 group-title="[🇦🇱📺]KLANI-IM" tvg-logo="https://i.imgur.com/lQrBDzI.png",[$]KLAN MACEDONIA HD
+#EXTINF:-0,KLAN MACEDONIA HD
 http://79.106.48.2:3131/live/klanmacedoniaott/playlist.m3u8
-#EXTINF:0 group-title="[🇦🇱📺]KLANI-IM" tvg-logo="https://i.imgur.com/EpaGUeU.png",[$]RTSH 1HD
+#EXTINF:-0,RTSH 1HD
 http://79.106.48.2:3131/live/rtsh1ott/playlist.m3u8
-#EXTINF:0 group-title="[🇦🇱📺]KLANI-IM" tvg-logo="https://i.imgur.com/EpaGUeU.png",[$]RTSH 1HD
+#EXTINF:-0,RTSH 1HD
 http://85.209.248.6:8080/rtsh1/index.m3u8
-#EXTINF:0 group-title="[🇦🇱📺]KLANI-IM" tvg-logo="https://i.imgur.com/q9gq1vh.png",[$]RTSH 2HD
+#EXTINF:-0,RTSH 2HD
 http://85.209.248.6:8080/rtsh2/index.m3u8
-#EXTINF:0 group-title="[🇦🇱📺]KLANI-IM" tvg-logo="https://i.imgur.com/x5jUmXf.png",[$]RTSH 3HD
+#EXTINF:-0,RTSH 3HD
 http://85.209.248.6:8080/rtsh3/index.m3u8
-#EXTINF:0 group-title="[🇦🇱📺]KLANI-IM" tvg-logo="https://i.imgur.com/YMM0Et3.png",[$]RTSH SPORT HD
+#EXTINF:-0,RTSH SPORT HD
 http://85.209.248.6:8080/rtshsport/index.m3u8
-#EXTINF:0 group-title="[🇦🇱📺]KLANI-IM" tvg-logo="https://i.imgur.com/aQP2aPx.png",[$]T7 HD
+#EXTINF:-0,T7 HD
 http://79.106.48.2:3131/live/t7ott/playlist.m3u8
-#EXTINF:0 group-title="[🇦🇱📺]KLANI-IM" tvg-logo="https://i.imgur.com/68glg3e.png",[$]RTK 1HD
+#EXTINF:-0,RTK 1HD
 http://79.106.48.2:3131/live/rtk1/playlist.m3u8
-#EXTINF:0 group-title="[🇦🇱📺]KLANI-IM" tvg-logo="https://i.imgur.com/68glg3e.png",[$]RTK 1
+#EXTINF:-0,RTK 1
 http://109.104.129.195:8001/play/s20
-#EXTINF:0 group-title="[🇦🇱📺]KLANI-IM" tvg-logo="https://i.imgur.com/EpaGUeU.png",[$]RTSH 1HD
+#EXTINF:-0,RTSH 1HD
 http://79.106.48.2:3131/live/rtsh1ott/playlist.m3u8
-#EXTINF:0 group-title="[🇦🇱📺]KLANI-IM" tvg-logo="https://i.imgur.com/EpaGUeU.png",[$]RTSH 1
+#EXTINF:-0,RTSH 1
 http://109.104.129.195:8001/play/s8
-#EXTINF:0 group-title="[🇦🇱📺]KLANI-IM" tvg-logo="https://i.imgur.com/q9gq1vh.png",[$]RTSH 2HD
+#EXTINF:-0,RTSH 2HD
 http://109.104.129.195:8001/play/s22
-#EXTINF:0 group-title="[🇦🇱📺]KLANI-IM" tvg-logo="https://i.imgur.com/x5jUmXf.png",[$]RTSH 3HD
+#EXTINF:-0,RTSH 3HD
 http://109.104.129.195:8001/play/s12
-#EXTINF:0 group-title="[🇦🇱📺]KLANI-IM" tvg-logo="https://i.imgur.com/YMM0Et3.png",[$]RTSH SPORT HD
+#EXTINF:-0,RTSH SPORT HD
 http://109.104.129.195:8001/play/s25
-#EXTINF:0 group-title="[🇦🇱📺]KLANI-IM" tvg-logo="https://i.imgur.com/m6uiPO7.png",[$]RTSH 24HD
+#EXTINF:-0,RTSH 24HD
 http://109.104.129.195:8001/play/s10
-#EXTINF:0 group-title="[🇦🇱📺]KLANI-IM" tvg-logo="https://i.imgur.com/tOeoh4o.png",[$]RTSH FILM HD
+#EXTINF:-0,RTSH FILM HD
 http://109.104.129.195:8001/play/s16
-#EXTINF:0 group-title="[🇦🇱📺]KLANI-IM" tvg-logo="https://i.imgur.com/bQSwOgf.png",[$]RTSH AGRO HD
+#EXTINF:-0,RTSH AGRO HD
 http://109.104.129.195:8001/play/s1
-#EXTINF:0 group-title="[🇦🇱📺]KLANI-IM" tvg-logo="https://i.imgur.com/QG5myxr.png",[$]RTSH PLUS HD
+#EXTINF:-0,RTSH PLUS HD
 http://109.104.129.195:8001/play/s3
-#EXTINF:0 group-title="[🇦🇱📺]KLANI-IM" tvg-logo="https://i.imgur.com/Sax1DiE.png",[$]RTSH KUVEND HD
+#EXTINF:-0,RTSH KUVEND HD
 http://109.104.129.195:8001/play/s6
-#EXTINF:0 group-title="[🇦🇱📺]KLANI-IM" tvg-logo="https://i.imgur.com/adwEOUJ.png",[$]RTV ORA HD
+#EXTINF:-0,RTV ORA HD
 http://79.106.48.2:3131/live/rtvoraott/playlist.m3u8
-#EXTINF:0 group-title="[🇦🇱📺]KLANI-IM" tvg-logo="https://i.imgur.com/69bw2DZ.png",[$]RTV TEUTA HD
+#EXTINF:-0,RTV TEUTA HD
 http://79.106.48.2:3131/live/rtvteutaott/playlist.m3u8
-#EXTINF:0 group-title="[🇦🇱📺]KLANI-IM" tvg-logo="https://i.imgur.com/K5sG7Ts.png",[$]BBF
+#EXTINF:-0,BBF
 http://79.106.48.2:3131/live/bbfott/playlist.m3u8
-#EXTINF:0 group-title="[🇦🇱📺]KLANI-IM" tvg-logo="https://i.imgur.com/QNKBs1l.png",[$]MCN TV
+#EXTINF:-0,MCN TV
 http://79.106.48.2:3131/live/mcnpp1/playlist.m3u8
-#EXTINF:0 group-title="[🇦🇱📺]KLANI-IM" tvg-logo="https://i.imgur.com/S6NxNOj.png",[$]ORA NEWS
+#EXTINF:-0,ORA NEWS
 http://79.106.48.2:3131/live/oranewspp1/playlist.m3u8
-#EXTINF:0 group-title="[🇦🇱📺]KLANI-IM" tvg-logo="https://i.imgur.com/5mFfW0Q.png",[$]SCAN TV
+#EXTINF:-0,SCAN TV
 http://79.106.48.2:3131/live/scanott/playlist.m3u8
-#EXTINF:0 group-title="[🇦🇱📺]KLANI-IM" tvg-logo="https://i.imgur.com/I9Wjg33.png",[$]FAX NEWS
+#EXTINF:-0,FAX NEWS
 http://79.106.48.2:3131/live/faxnewsott/playlist.m3u8
-#EXTINF:0 group-title="[🇦🇱📺]KLANI-IM" tvg-logo="https://i.imgur.com/7HxzZqY.png",[$]SYRI TV
+#EXTINF:-0,SYRI TV
 http://79.106.48.2:3131/live/syritvott/playlist.m3u8
-#EXTINF:0 group-title="[🇦🇱📺]KLANI-IM" tvg-logo="https://i.imgur.com/u9dOnE6.png",[$]KLAN NEWS
+#EXTINF:-0,KLAN NEWS
 http://79.106.48.2:3131/live/klannewsott/playlist.m3u8
-#EXTINF:0 group-title="[🇦🇱📺]KLANI-IM" tvg-logo="https://i.imgur.com/iFgj4d2.png",[$]NEWS 24
+#EXTINF:-0,NEWS 24
 http://79.106.48.2:3131/live/news24ott/playlist.m3u8
-#EXTINF:0 group-title="[🇦🇱📺]KLANI-IM" tvg-logo="https://i.imgur.com/bec55Pq.png",[$]EURONEWS AL
+#EXTINF:-0,EURONEWS AL
 http://79.106.48.2:3131/live/euronewsott/playlist.m3u8
-#EXTINF:0 group-title="[🇦🇱📺]KLANI-IM" tvg-logo="https://i.imgur.com/9CeQ9qD.png",[$]ABC NEWS
+#EXTINF:-0,ABC NEWS
 http://79.106.48.2:3131/live/abcnewsott/playlist.m3u8
-#EXTINF:0 group-title="[🇦🇱📺]KLANI-IM" tvg-logo="https://i.imgur.com/suUuXhY.png",[$]REPORT TV
+#EXTINF:-0,REPORT TV
 http://79.106.48.2:3131/live/reportott/playlist.m3u8
 #EXTINF:-1 group-title=" SPORT ALBANIA 🇦🇱🇪🇺"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",Super Sport 1
 http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:57:87:3A&stream=3628&extension=m3u8
