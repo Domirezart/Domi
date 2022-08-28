@@ -163,22 +163,18 @@ http://api.magiaiptv.com/live/800328/755275/m3_eAb6FoNigKstv3_720p_2M
 http://api.magiaiptv.com/live/800328/755275/m3_eargH0Pv9qstv4_720p_2M
 #EXTINF:-1,SPORT TV 5 UHD
 http://api.magiaiptv.com/live/800328/755275/m3_L4QIjJorwjstv5_1080p
-#EXTINF:-1,BEIN SPORT EXTRA HD
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102livestitch/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true&profilesFromStream=true
-#EXTINF:-1,Bein Sports 1 HD
-http://revteam1.offshorerev.cc/de69r7B0/zGgvsKHtX8/86605
-#EXTINF:-1,Bein Sports 2 HD
-http://revteam1.offshorerev.cc/de69r7B0/zGgvsKHtX8/86604
-#EXTINF:-1,Bein Sports 3 HD
-http://revteam1.offshorerev.cc/de69r7B0/zGgvsKHtX8/86602
-#EXTINF:-1,Bein Sports 4 HD
-
-#EXTINF:-1,Bein Sports 5 HD
-
-#EXTINF:-1,Bein Sports 6 HD
-
-#EXTINF:-1,Bein Sports 7 HD
-
+#EXTINF:-1,Super Sport 1
+http://82.114.70.227:8881/play/a0d3/index.m3u8
+#EXTINF:-1,Super Sport 2
+http://82.114.70.227:8881/play/a0d5/index.m3u8
+#EXTINF:-1,Super Sport 3
+http://82.114.70.227:8881/play/a0db/index.m3u8
+#EXTINF:-1,Super Sport 4
+http://82.114.70.227:8881/play/a0dc/index.m3u8
+#EXTINF:-1,Super Sport 6
+http://82.114.70.227:8881/play/a0cs/index.m3u8
+#EXTINF:-1,Super Sport 7
+http://82.114.70.227:8881/play/a0dp/index.m3u8
 #EXTINF:-1 group-title=" TRING ALBANIA 🇦🇱🇪🇺"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",VIZION PLUS
 http://95.107.132.106/out/u/643_5.m3u8
 #EXTINF:-1,TRING ACTION
