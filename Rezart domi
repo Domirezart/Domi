@@ -101,6 +101,8 @@ http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:57:87:3A&stream=3640&exte
 http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:57:87:3A&stream=3641&extension=m3u8
 #EXTINF:-1,RTSH Sport
 http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:57:87:3A&stream=17552&extension=m3u8
+#EXTINF:-1,WWE NETWORK
+http://mag.you24.online:80/nzxawilnfr/jurca2022/683883
 #EXTINF:-1,Arena Sport 1
 http://188.124.211.121:8557/play/a021
 #EXTINF:-1,Arena Sport 2
