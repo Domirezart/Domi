@@ -189,6 +189,10 @@ http://82.114.70.227:8881/play/a0cy/index.m3u8
 http://82.114.70.227:8881/play/a0cz/index.m3u8
 #EXTINF:-1,Sport 5
 http://82.114.70.227:8881/play/a0d0/index.m3u8
+#EXTINF:-1,UNIFI SPORT HD1
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11-1080FHD.m3u8?SBN
+#EXTINF:-1,UNIFI SPORT HD2
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live12-1080FHD.m3u8?SBN
 #EXTINF:-1 group-title=" TRING ALBANIA 🇦🇱🇪🇺"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",VIZION PLUS
 http://95.107.132.106/out/u/643_5.m3u8
 #EXTINF:-1,TRING ACTION
