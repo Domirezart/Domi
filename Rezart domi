@@ -283,6 +283,8 @@ http://cdnua06.hls.tv/476/hls/98avsntbi7p3r6j4z1que0lcwgyo52fm/4709/stream.m3u8
 http://cdnua06.hls.tv/476/hls/kng9fh2rw1qe8i5d7o3jzvuxalb64yms/206/stream.m3u8
 #EXTINF:-1,DISCOVERY ID HD
 http://cdnua06.hls.tv/476/hls/kng9fh2rw1qe8i5d7o3jzvuxalb64yms/254/stream.m3u8
+#EXTINF:-1,DISCOVERY TURBO
+http://netflix.akamaihd.org:80/watch/az_togbox/3382/26.ts
 #EXTINF:-1,HISTORY HD
 http://cdnua06.hls.tv/476/hls/gy8vpi1hqu26tse7nx3rfmdk4wjc950a/244/stream.m3u8
 #EXTINF:-1,FOX HD
