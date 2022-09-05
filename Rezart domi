@@ -193,6 +193,14 @@ http://82.114.70.227:8881/play/a0d0/index.m3u8
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11-1080FHD.m3u8?SBN
 #EXTINF:-1,UNIFI SPORT HD2
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12-1080FHD.m3u8?SBN
+#EXTINF:-1,MULTISPORT 1 HD
+http://45.90.106.7:7778/play/GQmyE94hA731J@TbQ87K
+#EXTINF:-1,MULTISPORT 2 HD
+http://45.90.106.7:7778/play/PzCq186Km2@Rq82U
+#EXTINF:-1,MULTISPORT 3 HD
+http://45.90.106.7:7778/play/UesQ534I29@PZ27J
+#EXTINF:-1,MULTISPORT 4 HD
+http://45.90.106.7:7778/play/UrqkkR819L3@Rqn84H
 #EXTINF:-1,DIGI SPORT 1
 http://tv.bitvision.ro/stream/channelid/1685284065?profile=pass
 #EXTINF:-1 group-title=" TRING ALBANIA 🇦🇱🇪🇺"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",VIZION PLUS
