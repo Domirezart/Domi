@@ -203,6 +203,20 @@ http://45.90.106.7:7778/play/UesQ534I29@PZ27J
 http://45.90.106.7:7778/play/UrqkkR819L3@Rqn84H
 #EXTINF:-1,DIGI SPORT 1
 http://tv.bitvision.ro/stream/channelid/1685284065?profile=pass
+#EXTINF:-1,beIN Sports 1 4K
+http://195.154.242.24:8009/play/a05n/index.m3u8
+#EXTINF:-1,beIN Sports 2 4K
+http://195.154.242.24:8009/play/a05o/index.m3u8
+#EXTINF:-1,beIN Sports 3 4K
+http://195.154.242.24:8009/play/a05p/index.m3u8
+#EXTINF:-1,beIN Sports 4 4K
+http://195.154.242.24:8009/play/a05q/index.m3u8
+#EXTINF:-1,beIN Sports 5 4K
+http://195.154.242.24:8009/play/a05r/index.m3u8
+#EXTINF:-1,beIN Sports 6 4K
+http://195.154.242.24:8009/play/a05s/index.m3u8
+#EXTINF:-1,beIN Sports 7 4K
+http://195.154.242.24:8009/play/a05t/index.m3u8
 #EXTINF:-1 group-title=" TRING ALBANIA 🇦🇱🇪🇺"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",VIZION PLUS
 http://95.107.132.106/out/u/643_5.m3u8
 #EXTINF:-1,TRING ACTION
