@@ -1,16 +1,8 @@
 #EXTM3U
-#EXTINF:-0 group-title="KLANI-IM 🇦🇱🇪🇺" tvg-logo="https://i.imgur.com/FnpdLkm.png",[$]TOP CHANNEL HD
-http://85.209.248.6:8080/TopChannel/index.m3u8
-#EXTINF:-0,KLAN HD
-http://85.209.248.6:8080/klanhd/index.m3u8
-#EXTINF:-0,VIZION PLUS HD
+#EXTINF:-0 group-title="KLANI-IM 🇦🇱🇪🇺" tvg-logo="https://i.imgur.com/FnpdLkm.png",VIZION PLUS HD
 http://146.59.19.1:80/5004/index.m3u8?
 #EXTINF:-0,KANAL 10 HD
 http://146.59.19.1:80/5005/index.m3u8?
-#EXTINF:-1,TOP CHANNAL
-http://82.114.70.227:8881/play/a0df/index.m3u8
-#EXTINF:-1,KLAN HD
-http://82.114.70.227:8881/play/a080/index.m3u8
 #EXTINF:-0,KLAN HD
 http://79.106.48.2:3131/live/klanhdott/playlist.m3u8
 #EXTINF:-0,KLAN PLUS HD
