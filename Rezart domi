@@ -98,117 +98,17 @@ http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:57:87:3A&stream=3641&exte
 #EXTINF:-1,RTSH Sport
 http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:57:87:3A&stream=17552&extension=m3u8
 #EXTINF:-1,WWE NETWORK
-http://mag.you24.online:80/nzxawilnfr/jurca2022/14404
-#EXTINF:-1,Arena Sport 1
-http://188.124.211.121:8557/play/a021
-#EXTINF:-1,Arena Sport 2
-http://188.124.211.121:8557/play/a022
-#EXTINF:-1,Arena Sport 3
-http://188.124.211.121:8557/play/a023
-#EXTINF:-1,Arena Sport 4
-http://188.124.211.121:8557/play/a024
-#EXTINF:-1,TNT SPORTS 1
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-#EXTINF:-1,TNT SPORTS 2
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1,TNT SPORTS 3
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-#EXTINF:-1,TNT SPORTS 4
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-#EXTINF:-1,TNT SPORTS 5
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-#EXTINF:-1,МАТЧ Футбол 1 HD
-http://132.145.254.128:8070/channel/4d7f1abf/index.m3u8?q=7b4f7952b7746f9e2679349fb1547bee
-#EXTINF:-1,МАТЧ Футбол 2 HD
-http://132.145.254.128:8070/channel/4d7f8f1e/index.m3u8?q=7b4f7952b7746f9e2679349fb1547bee
-#EXTINF:-1,МАТЧ Футбол 3 HD
-http://132.145.254.128:8070/channel/4d80037d/index.m3u8?q=7b4f7952b7746f9e2679349fb1547bee
-#EXTINF:-1,Fox Sport 1
-https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
-#EXTINF:-1,Fox Sport 2
-https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
-#EXTINF:-1,Fox Sport 3
-https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
-#EXTINF:-1,Conmebol TV 1 HD
-http://api.magiaiptv.com/live/800364/107211/m2_xrNh5O0VIHWdGhbT5J_720p
-#EXTINF:-1,Conmebol TV 2 HD
-http://api.magiaiptv.com/live/800364/107211/m3_GY9pO8alp1jpZl8lcIcqH_720p
-#EXTINF:-1,Conmebol TV 3 HD
-http://api.magiaiptv.com/live/800364/107211/m1_6ciY4GBUyDczLxioSo_720p
-#EXTINF:-1,Conmebol TV 4 HD
-http://api.magiaiptv.com/live/800364/107211/m1_bLyQSHesKIXQoFVH_720p
-#EXTINF:-1,PREMIERE 1 UHD
-http://api.magiaiptv.com/live/800196/128093/m3_wjMT3HlXuP425f1ZGd0Uvtxh_720p_2M
-#EXTINF:-1,PREMIERE 2 UHD
-http://api.magiaiptv.com/live/800196/128093/m1_YfRcG1NojqwhvD7_1080p
-#EXTINF:-1,PREMIERE 3 UHD
-http://api.magiaiptv.com/live/800196/128093/m1_QVjAjs05rLeRcJaYwWpr6k_1080p
-#EXTINF:-1,PREMIERE 4 UHD
-http://api.magiaiptv.com/live/800196/128093/m2_T1kER2k4toPH_1080p
-#EXTINF:-1,PREMIERE 5 UHD
-http://api.magiaiptv.com/live/800196/128093/m2_J2m8CmTHvNkE_1080p_4M
-#EXTINF:-1,SPORT TV + UHD
-http://api.magiaiptv.com/live/800328/755275/m3_UCWbpolpkgstvp_1080p
-#EXTINF:-1,SPORT TV 1 UHD
-http://api.magiaiptv.com/live/800328/755275/m3_DFwhzUuzfistv1_1080p
-#EXTINF:-1,SPORT TV 2 UHD
-http://api.magiaiptv.com/live/800328/755275/m3_FZukotDQWYstv2_1080p
-#EXTINF:-1,SPORT TV 3 UHD
-http://api.magiaiptv.com/live/800328/755275/m3_eAb6FoNigKstv3_720p_2M
-#EXTINF:-1,SPORT TV 4 UHD
-http://api.magiaiptv.com/live/800328/755275/m3_eargH0Pv9qstv4_720p_2M
-#EXTINF:-1,SPORT TV 5 UHD
-http://api.magiaiptv.com/live/800328/755275/m3_L4QIjJorwjstv5_1080p
-#EXTINF:-1,Super Sport 1
-http://82.114.70.227:8881/play/a0d3/index.m3u8
-#EXTINF:-1,Super Sport 2
-http://82.114.70.227:8881/play/a0d5/index.m3u8
-#EXTINF:-1,Super Sport 3
-http://82.114.70.227:8881/play/a0db/index.m3u8
-#EXTINF:-1,Super Sport 4
-http://82.114.70.227:8881/play/a0dc/index.m3u8
-#EXTINF:-1,Super Sport 6
-http://82.114.70.227:8881/play/a0cs/index.m3u8
-#EXTINF:-1,Super Sport 7
-http://82.114.70.227:8881/play/a0dp/index.m3u8
-#EXTINF:-1,Sport 1
-http://82.114.70.227:8881/play/a0cw/index.m3u8
-#EXTINF:-1,Sport 2
-http://82.114.70.227:8881/play/a0cx/index.m3u8
-#EXTINF:-1,Sport 3
-http://82.114.70.227:8881/play/a0cy/index.m3u8
-#EXTINF:-1,Sport 4
-http://82.114.70.227:8881/play/a0cz/index.m3u8
-#EXTINF:-1,Sport 5
-http://82.114.70.227:8881/play/a0d0/index.m3u8
-#EXTINF:-1,UNIFI SPORT HD1
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live11-1080FHD.m3u8?SBN
-#EXTINF:-1,UNIFI SPORT HD2
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live12-1080FHD.m3u8?SBN
-#EXTINF:-1,MULTISPORT 1 HD
-http://45.90.106.7:7778/play/GQmyE94hA731J@TbQ87K
-#EXTINF:-1,MULTISPORT 2 HD
-http://45.90.106.7:7778/play/PzCq186Km2@Rq82U
-#EXTINF:-1,MULTISPORT 3 HD
-http://45.90.106.7:7778/play/UesQ534I29@PZ27J
-#EXTINF:-1,MULTISPORT 4 HD
-http://45.90.106.7:7778/play/UrqkkR819L3@Rqn84H
-#EXTINF:-1,DIGI SPORT 1
-http://tv.bitvision.ro/stream/channelid/1685284065?profile=pass
-#EXTINF:-1,beIN Sports 1 4K
-http://195.154.242.24:8009/play/a05n/index.m3u8
-#EXTINF:-1,beIN Sports 2 4K
-http://195.154.242.24:8009/play/a05o/index.m3u8
-#EXTINF:-1,beIN Sports 3 4K
-http://195.154.242.24:8009/play/a05p/index.m3u8
-#EXTINF:-1,beIN Sports 4 4K
-http://195.154.242.24:8009/play/a05q/index.m3u8
-#EXTINF:-1,beIN Sports 5 4K
-http://195.154.242.24:8009/play/a05r/index.m3u8
-#EXTINF:-1,beIN Sports 6 4K
-http://195.154.242.24:8009/play/a05s/index.m3u8
-#EXTINF:-1,beIN Sports 7 4K
-http://195.154.242.24:8009/play/a05t/index.m3u8
+http://50.7.237.4:8080/WWE/index.m3u8
+#EXTINF:-1,BEIN Sport 1
+http://50.7.237.4:8080/BEIN1/index.m3u8
+#EXTINF:-1,BEIN Sport 2
+http://50.7.237.4:8080/BEIN2/index.m3u8
+#EXTINF:-1,BEIN Sport 3
+http://50.7.237.4:8080/BEIN3/index.m3u8
+#EXTINF:-1,BEIN Sport 4
+http://50.7.237.4:8080/BEIN4/index.m3u8
+#EXTINF:-1,BEIN Sport 5
+http://50.7.237.4:8080/BEIN5/index.m3u8
 #EXTINF:-1 group-title=" TRING ALBANIA 🇦🇱🇪🇺"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",VIZION PLUS
 http://95.107.132.106/out/u/643_5.m3u8
 #EXTINF:-1,TRING ACTION
@@ -285,26 +185,6 @@ http://95.107.132.105/out/u/422_1.m3u8
 http://95.107.132.105/out/u/99_2.m3u8
 #EXTINF:-1,TRING RAI GULP
 http://95.107.132.105/out/u/442_1.m3u8
-#EXTINF:-1 group-title=" WORLD DISCOVERY 🇦🇱🇪🇺"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",NATIONAL GEOGRAPHIC WILD
-http://cdnua06.hls.tv/476/hls/gy8vpi1hqu26tse7nx3rfmdk4wjc950a/272/stream.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://cdnua06.hls.tv/476/hls/kng9fh2rw1qe8i5d7o3jzvuxalb64yms/274/stream.m3u8
-#EXTINF:-1,ANIMAL PLANET HD
-http://cdnua06.hls.tv/476/hls/lofksujyxti7d18v52ge4qpcwhrmb9z3/4706/stream.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL HD
-http://cdnua06.hls.tv/476/hls/98avsntbi7p3r6j4z1que0lcwgyo52fm/4709/stream.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE HD
-http://cdnua06.hls.tv/476/hls/kng9fh2rw1qe8i5d7o3jzvuxalb64yms/206/stream.m3u8
-#EXTINF:-1,DISCOVERY ID HD
-http://cdnua06.hls.tv/476/hls/kng9fh2rw1qe8i5d7o3jzvuxalb64yms/254/stream.m3u8
-#EXTINF:-1,DISCOVERY TURBO
-http://netflix.akamaihd.org:80/watch/az_togbox/3382/26.ts
-#EXTINF:-1,HISTORY HD
-http://cdnua06.hls.tv/476/hls/gy8vpi1hqu26tse7nx3rfmdk4wjc950a/244/stream.m3u8
-#EXTINF:-1,FOX HD
-http://cdnua06.hls.tv/476/hls/kng9fh2rw1qe8i5d7o3jzvuxalb64yms/238/stream.m3u8
-#EXTINF:-1,FOX LIFE HD
-http://cdnua06.hls.tv/476/hls/kng9fh2rw1qe8i5d7o3jzvuxalb64yms/236/stream.m3u8
 #EXTINF:-1 group-title="ALB TV SHQIP 🇦🇱🇪🇺 "tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",DOMI SHIJAKSI 🇦🇱
 https://albportal.net/albkanalemusic.m3u8
 #EXTINF:-1,Top Channel
