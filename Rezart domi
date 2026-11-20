@@ -1,6 +1,12 @@
 #EXTM3U
 #EXTINF:-0 group-title="KLANI-IM 🇦🇱🇪🇺" tvg-logo="https://i.imgur.com/FnpdLkm.png",VIZION PLUS HD
 https://albportal.net/albkanalemusic.m3u8
+#EXTINF:1,RETE 4HD
+https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
+#EXTINF:1,CANALE 5HD
+https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
+#EXTINF:1,ITALIA 1HD
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 #EXTINF:1,RAI 1HD
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
 #EXTINF:1,RAI 2HD
@@ -20,9 +26,10 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forc
 #EXTINF:1,RAI PREMIUM HD
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
 #EXTINF:1,RAI STORIA HD
+https://d3k8wzt41aflvx.cloudfront.net/RAIStoria/Live.m3u8
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv
 #EXTINF:1,RAI GULP HD
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
+tp://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=raiplayappletv
 #EXTINF:1,RAI SPORT PIU HD
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
 #EXTINF:1,RAI SPORT HD
@@ -31,95 +38,3 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358071&output=7&forc
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
 #EXTINF:1,RAI YOYO
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1,BBF
-http://171.22.150.202:2040/live/bbfottpp1/playlist.m3u8
-#EXTINF:-1,KLAN Plus
-http://171.22.150.202:2040/live/klanplusmobpp2/playlist.m3u8
-#EXTINF:-1,KLAN News
-http://171.22.150.202:2040/live/klannewsmobpp3/playlist.m3u8
-#EXTINF:-1,EURONEWS
-http://171.22.150.202:2040/live/euronewsmob/playlist.m3u8
-#EXTINF:-1,SCAN TV
-http://171.22.150.202:2040/live/scanmob/playlist.m3u8
-#EXTINF:-1,FAX News
-http://171.22.150.202:2040/live/faxnewsmobpp1/playlist.m3u8
-#EXTINF:-1,A2 CNN
-http://171.22.150.202:2040/live/a2pp2/playlist.m3u8
-#EXTINF:-1,BBF
-http://95.107.145.50:8080/BbFsjfajkgk/index.m3u8
-#EXTINF:-1,Klan TV
-http://5.206.237.251:1288/KlanHD
-#EXTINF:-1,A2 CNN
-http://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
-#EXTINF:-1,Klan TV
-http://130.0.24.22:94/KlanHD/index.m3u8
-#EXTINF:-1,Klan Plus
-http://130.0.24.22:94/KlanPlusHD/index.m3u8
-#EXTINF:-1,Top Channel
-http://130.0.24.22:94/TopChannel/index.m3u8
-#EXTINF:-1,Vizion Plus
-http://130.0.24.22:94/VizionPlusHD/index.m3u8
-#EXTINF:-1,RTK 1 HD
-http://162.55.88.21/rtk1stream/rtk1.stream/chunklist_w1202428204.m3u8
-#EXTINF:-1,RTK 2 HD
-http://162.55.88.21/rtk2stream/rtk2.stream/chunklist_w1803047116.m3u8
-#EXTINF:-1,RTK 3 HD
-http://162.55.88.21/rtk3stream/rtk3.stream/chunklist_w1895324590.m3u8
-#EXTINF:-1,RTK 4 HD
-http://162.55.88.21/rtk4stream/rtk4.stream/chunklist_w520230568.m3u8
-#EXTINF:-1 group-title="ALB FILM WORLD TV 🇦🇱🇪🇺"tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",MAX SELECT 1HD
-http://mag.you24.online:80/johnrambo49/4zle76q8jm/20035
-#EXTINF:-1,MAX SELECT 2HD
-http://mag.you24.online:80/johnrambo49/4zle76q8jm/20034
-#EXTINF:-1,MAX SELECT 3HD
-http://mag.you24.online:80/johnrambo49/4zle76q8jm/20033
-#EXTINF:-1,MAX SELECT 4HD
-http://mag.you24.online:80/johnrambo49/4zle76q8jm/20032
-#EXTINF:-1,MAX SELECT 5HD
-http://mag.you24.online:80/johnrambo49/4zle76q8jm/20031
-#EXTINF:-1,MAX SELECT 6LHD
-http://mag.you24.online:80/johnrambo49/4zle76q8jm/20030
-#EXTINF:-1,MAX SELECT 7HD
-http://mag.you24.online:80/johnrambo49/4zle76q8jm/20029
-#EXTINF:-1,MAX SELECT 8HD
-http://mag.you24.online:80/johnrambo49/4zle76q8jm/20028
-#EXTINF:-1,MAX SELECT 9HD
-http://mag.you24.online:80/johnrambo49/4zle76q8jm/20027
-#EXTINF:-1,MAX SELECT 10HD
-http://mag.you24.online:80/johnrambo49/4zle76q8jm/20026
-#EXTINF:-1,xpremium 1
-http://f4.tvxweb.net:8082/24263/playlist.m3u8
-#EXTINF:-1,xpremium 2
-http://f4.tvxweb.net:8082/24264/playlist.m3u8
-#EXTINF:-1,xpremium 3
-http://f4.tvxweb.net:8082/24265/playlist.m3u8
-#EXTINF:-1,xpremium 4
-http://f4.tvxweb.net:8082/24266/playlist.m3u8
-#EXTINF:-1,xpremium 5
-http://f4.tvxweb.net:8082/24267/playlist.m3u8
-#EXTINF:-1,xpremium 6
-http://f4.tvxweb.net:8082/24268/playlist.m3u8
-#EXTINF:-1,xpremium 7
-http://f4.tvxweb.net:8082/24269/playlist.m3u8
-#EXTINF:-1,xpremium 8
-http://f4.tvxweb.net:8082/24270/index.m3u8
-#EXTINF:-1,xpremium 9
-http://f4.tvxweb.net:8082/24271/index.m3u8
-#EXTINF:-1,xpremium 10
-http://f4.tvxweb.net:8082/24272/playlist.m3u8
-#EXTINF:-1,xpremium 11
-http://f4.tvxweb.net:8082/24273/playlist.m3u8
-#EXTINF:-1,xpremium 12
-http://f4.tvxweb.net:8082/24316/playlist.m3u8
-#EXTINF:-1,xpremium 13
-http://f4.tvxweb.net:8082/35970/video.m3u8
-#EXTINF:-1,xpremium 14
-http://f4.tvxweb.net:8082/35974/video.m3u8
-#EXTINF:-1,xpremium 15
-http://f4.tvxweb.net:8082/35975/video.m3u8
-#EXTINF:-1,xpremium 16
-http://f4.tvxweb.net:8082/35976/video.m3u8
-#EXTINF:-1,xpremium 17
-http://f4.tvxweb.net:8082/35977/video.m3u8
-#EXTINF'-1,xpremium 18
-http://f4.tvxweb.net:8082/35979/video.m3u8
