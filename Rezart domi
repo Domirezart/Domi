@@ -15,94 +15,22 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forc
 https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
 #EXTINF:1,LA 7 HD
 https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
-#EXTINF:-1,IRIS HD
-https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
-#EXTINF:-1,BOING HD
-https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(kb)/index.m3u8
-#EXTINF:-1,LA 5
-https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
-#EXTINF:-1,Rai Movie HD
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002
-#EXTINF:-1,Rai Premium HD
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992
-#EXTINF:-1,Rai Storia HD
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990
-#EXTINF:-1,Rai Gulp HD
-http://95.107.132.105/out/u/442_2.m3u8
-#EXTINF:-1,Rai Sport piu HD
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025
-#EXTINF:-1,Rai Sport
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358071
-#EXTINF:-1,Rai Scuola
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
-#EXTINF:-1,RAI YOYO
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899
-#EXTINF:-1,CARTOONITO HD
-https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(la)/index.m3u8
-#EXTINF:-1,RSI 1
-http://190.2.155.162/RSI1/index.m3u8
-#EXTINF:-1,RSI 2
-http://190.2.155.162/RSI2/index.m3u8
-#EXTINF:-1,KLAN HD
-http://5.206.237.251:1288/KlanHD
-#EXTINF:-1,Klan HD
-http://130.0.24.22:94/KlanHD/index.m3u8
-#EXTINF:-1,Klan Plus
-http://130.0.24.22:94/KlanPlusHD/index.m3u8
-#EXTINF:-1,Vizion Plus
-http://130.0.24.22:94/VizionPlusHD/index.m3u8
-#EXTINF:-1,Top Channel
-http://130.0.24.22:94/TopChannel/index.m3u8
-#EXTINF:-1,Tring Super
-http://130.0.24.22:94/TringSuper/index.m3u8
-#EXTINF:-1,Tring Action
-http://130.0.24.22:94/TringAction/index.m3u8
-#EXTINF:-1,KLAN HD
-http://79.106.48.2:3131/live/klanhdott/playlist.m3u8
-#EXTINF:-1,KLAN PLUS HD
-http://79.106.48.2:3131/live/klanplusmob/playlist.m3u8
-#EXTINF:-1,KLAN MUZIK
-http://79.106.48.2:3131/live/klanmusicott/playlist.m3u8
-#EXTINF:-1,KLAN NEWS
-http://79.106.48.2:3131/live/klannewsott/playlist.m3u8
-#EXTINF:-1,BBF MUZIK
-http://79.106.48.2:3131/live/bbfott/playlist.m3u8
-#EXTINF:-1,EURONEWS HD
-http://79.106.48.2:3131/live/euronewsott/playlist.m3u8
-#EXTINF:-1,SKAN HD
-http://79.106.48.2:3131/live/scanott/playlist.m3u8
-#EXTINF:-1,TOP NEWS
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/embed/video/x6inuzo
-#EXTINF:-1,TOP CHANNAL HD
-http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/1.ts
-#EXTINF:-1,KLAN HD
-http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/139.ts
-#EXTINF:-1,Top Channel hd
-http://local.liveline.nu:2085/play/a0artopchannel/index.m3u8
-#EXTINF:-1,Alsat M hd
-http://local.liveline.nu:2085/play/a0b2ALSAMMFHD/index.m3u8
-#EXTINF:-1,VIZION + hd
-http://95.107.132.106/out/u/gfhsghshsgfhsfgh.m3u8
-#EXTINF:-1,TV Johaniter
-https://monamour.agency/johaniter007web/index.m3u8
-#EXTINF:-1,SHIJAK TV
-http://109.104.129.195:8002/play/s29
-#EXTINF:-1,DRITA HD
-https://monamour.agency/dritaweb008/index.m3u8
-#EXTINF:-1,bbf
-http://171.22.150.202:2040/live/bbfottpp1/playlist.m3u8
-#EXTINF:-1,euronews al
-http://171.22.150.202:2040/live/euronewsmob/playlist.m3u8
-#EXTINF:-1,News 24
-http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
-#EXTINF:-1,Ora tv
-http://live1.mediadesk.al/oratv.m3u8
-#EXTINF:-1,Ora news
-http://live1.mediadesk.al/oranews.m3u8
-#EXTINF:0,Nesër TV
-https://monamour.agency/ntv/livestream/tracks-v1a1/mono.m3u8
-#EXTINF:-1,KLAN HD
-http://79.106.90.114:2040/live/klanhdmobpp3/playlist.m3u8
+#EXTINF:1,RAI MOVIE HD
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
+#EXTINF:1,RAI PREMIUM HD
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
+#EXTINF:1,RAI STORIA HD
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv
+#EXTINF:1,RAI GULP HD
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
+#EXTINF:1,RAI SPORT PIU HD
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
+#EXTINF:1,RAI SPORT HD
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358071&output=7&forceUserAgent=raiplayappletv
+#EXTINF:1,RAI SCUOLA HD
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
+#EXTINF:1,RAI YOYO
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1,BBF
 http://171.22.150.202:2040/live/bbfottpp1/playlist.m3u8
 #EXTINF:-1,KLAN Plus
