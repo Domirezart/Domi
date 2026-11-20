@@ -2,31 +2,14 @@
 #EXTINF:-0 group-title="KLANI-IM 🇦🇱🇪🇺" tvg-logo="https://i.imgur.com/FnpdLkm.png",VIZION PLUS HD
 https://albportal.net/albkanalemusic.m3u8
 #EXTINF:-1,Rai 4
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=16
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966
 #EXTINF:-1,Rai 5
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276
-#EXTINF:-1,RAI NEWS
-https://streamcdnr28-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
-#EXTINF:-1,CANALE 5 HD
-https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(c5)/index.m3u8
-#EXTINF:-1,ITALIA 1 HD
-https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
-#EXTINF:-1,RETE 4 HD
-https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
-#EXTINF:-1,ITALIA 2 HD
-https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
-#EXTINF:-1,MEDIASET EXTRA HD
-https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
-#EXTINF:-1,CANALE 1
-https://eu1.servers10.com:8081/8096/index.m3u8
-#EXTINF:-1,GOLD TV
-https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
-#EXTINF:-1,TV 2000
-http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
+#EXTINF:1,UNITE UNO
+https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
 #EXTINF:-1,LA 7 HD
-https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
-#EXTINF:-1,LA 7D HD
-https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
+https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
 #EXTINF:-1,IRIS HD
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
 #EXTINF:-1,BOING HD
